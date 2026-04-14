@@ -2568,7 +2568,7 @@ Application deadline: ?
 
 - Taking students: ?
 
-### Univ. of California - Santa Cruz
+### [Univ. of California - Santa Cruz](https://lsd.ucsc.edu/)
 
 Application deadline: ?
 
@@ -2600,7 +2600,7 @@ Application deadline: ?
   concurrency, parallel programming, distributed systems, program verification,
   formal methods
 
-- Taking students: ?
+- Taking students: ✅
 
 **Tyler Sorensen** — [Homepage](https://users.soe.ucsc.edu/~tsorensen) ·
 [Scholar](https://scholar.google.com/citations?user=Ax7ebzoAAAAJ) ·
@@ -2680,7 +2680,15 @@ Application deadline: ?
 
 - Taking students: ?
 
-### [PLUM @ Univ. of Maryland - College Park](http://www.cs.umd.edu/projects/PL/)
+**William S. Moses** - [Homepage](https://wsmoses.com) ·
+[Scholar](https://scholar.google.com/citations?hl=en&user=tPC00zwAAAAJ) ·
+[ORCID](https://orcid.org/0000-0003-2627-0642)
+
+- Research: compilers, scientific computing, parallel programming
+
+- Taking students: ✅
+
+### [PLUM @ Univ. of Maryland - College Park](https://plum-umd.github.io/)
 
 Application deadline: ?
 
