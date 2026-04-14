@@ -2689,7 +2689,7 @@ Application deadline: ?
 
 - Taking students: ?
 
-**William S. Moses** - [Homepage](https://wsmoses.com) ·
+**William S. Moses** — [Homepage](https://wsmoses.com) ·
 [Scholar](https://scholar.google.com/citations?user=tPC00zwAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-2627-0642)
 
