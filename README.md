@@ -1603,11 +1603,20 @@ Application deadline: ?
 
 - Taking students: ?
 
-**Gordon D. Plotkin** — [Homepage](http://homepages.inf.ed.ac.uk/gdp) ·
-[Scholar](https://scholar.google.com/citations?user=0KiEfGcAAAAJ) ·
-[ORCID](https://orcid.org/0000-0001-8496-6096)
+**Elizabeth Polgreen** — [Homepage](https://polgreen.github.io/) ·
+[Scholar](https://scholar.google.com/citations?user=wFYhUkIAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-9032-7661)
 
-- Research: ?
+- Research: formal verification, program verification, program synthesis
+
+- Taking students: ?
+
+**Ian Stark** — [Homepage](https://homepages.inf.ed.ac.uk/stark/) ·
+[Scholar](https://scholar.google.com/citations?user=_WljoL8AAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-6800-812X)
+
+- Research: concurrency, program verification, compiler verification, modal
+  logic, type theory, type systems
 
 - Taking students: ?
 
@@ -1629,11 +1638,11 @@ Application deadline: ?
 
 - Taking students: ?
 
-**Philip Wadler** — [Homepage](http://homepages.inf.ed.ac.uk/wadler) ·
-[Scholar](https://scholar.google.com/citations?user=Iz-3VFQAAAAJ) ·
-[ORCID](https://orcid.org/0000-0001-7619-6378)
+**Rob van Glabbeek** — [Homepage](https://theory.stanford.edu/~rvg/) ·
+[Scholar](https://scholar.google.com/citations?user=Ngf21nIAAAAJ) ·
+[ORCID](https://orcid.org/0000-0003-4712-7423)
 
-- Research: concurrency, Agda, functional programming, Java, XML
+- Research: concurrency, language semantics, linear logic, process algebra
 
 - Taking students: ?
 
@@ -1727,7 +1736,7 @@ Application deadline: ?
 
 ### Binghamton University
 
-Application deadline: ?
+Application deadline: Rolling
 
 **Eric Atkinson** — [Homepage](https://eatkinson.ca) ·
 [Scholar](https://scholar.google.com/citations?user=GW8Z1Z8AAAAJ) ·
@@ -1736,7 +1745,7 @@ Application deadline: ?
 - Research: language implementation, program analysis, formal methods, language
   design
 
-- Taking students: ?
+- Taking students: ❌
 
 **William T. Hallahan** — [Homepage](https://billhallahan.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=SIpwj1UAAAAJ) ·
@@ -1744,6 +1753,14 @@ Application deadline: ?
 
 - Research: program verification, program synthesis, program analysis,
   networking
+
+- Taking students: ❌
+
+**Yu David Liu** — [Homepage](https://www.cs.binghamton.edu/~davidl/) ·
+[Scholar](https://scholar.google.com/citations?user=_KCqeIEAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-2768-3898)
+
+- Research: energy-aware software, energy-effecient software, security
 
 - Taking students: ?
 
@@ -2135,6 +2152,14 @@ Application deadline: ?
 
 - Taking students: ?
 
+**Chris Martens** — [Homepage](https://www.convivial.tools/) ·
+[Scholar](https://scholar.google.com/citations?user=0sbHKBIAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-7026-0348)
+
+- Research: proof assistants, type systems, language design, logic programming
+
+- Taking students: ?
+
 **Frank Tip** — [Homepage](http://www.franktip.org) ·
 [Scholar](https://scholar.google.com/citations?user=siQDY4gAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1862-3498)
@@ -2152,26 +2177,10 @@ Application deadline: ?
 
 - Taking students: ?
 
-**Ji-Yong Shin** — [Homepage](https://www.jiyongshin.info) ·
-[Scholar](https://scholar.google.com/citations?user=N6ZFInMAAAAJ) ·
-[ORCID](https://orcid.org/0000-0002-1595-4849)
-
-- Research: formal methods, distributed systems
-
-- Taking students: ?
-
 **Joshua Gancher** — [Homepage](https://gancher.dev) ·
 [ORCID](https://orcid.org/0000-0003-2257-7073)
 
 - Research: proof assistants, distributed systems
-
-- Taking students: ?
-
-**Matthias Felleisen** — [Homepage](http://www.ccs.neu.edu/home/matthias) ·
-[Scholar](https://scholar.google.com/citations?user=KP-Vo44AAAAJ) ·
-[ORCID](https://orcid.org/0000-0001-6678-1004)
-
-- Research: ?
 
 - Taking students: ?
 
@@ -2766,12 +2775,29 @@ Application deadline: ?
 
 - Taking students: ?
 
+**Ravi Chugh** — [Homepage](https://people.cs.uchicago.edu/~rchugh/) ·
+[Scholar](https://scholar.google.com/citations?user=DKuq2fIAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-1339-2889)
+
+- Research: HCI, live programming, domain specific languages, functional
+  programming
+
+- Taking students: ?
+
 **Robert Rand** — [Homepage](http://rand.cs.uchicago.edu) ·
 [Scholar](https://scholar.google.com/citations?user=jYrnZVwAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-6842-5505)
 
 - Research: type systems, formal methods, program analysis, quantum computing,
   quantum programming
+
+- Taking students: ?
+
+**Shan Lu** — [Homepage](https://people.cs.uchicago.edu/~shanlu/) ·
+[Scholar](https://scholar.google.com/citations?user=5qSIhVkAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-0757-4600)
+
+- Research: program analysis, software verification, systems
 
 - Taking students: ?
 
@@ -2850,7 +2876,7 @@ Application deadline: ?
 [Scholar](https://scholar.google.com/citations?user=yiRAVJoAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-4502-7971)
 
-- Research: proof assistants, functional programming, HCI
+- Research: proof assistants, live programming, functional programming, HCI
 
 - Taking students: ?
 
