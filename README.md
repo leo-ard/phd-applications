@@ -1,8 +1,8 @@
 # PL Theory PhD Directory (2026-2027)
 
-A community-maintained list of professors working in programming language theory,
-organized by institution, to help prospective PhD students find potential
-advisors. Contributions and corrections are welcome — open a PR!
+A community-maintained list of professors working in programming language
+theory, organized by institution, to help prospective PhD students find
+potential advisors. Contributions and corrections are welcome — open a PR!
 
 Inspired by and sourced from
 [PLGradSchools](https://github.com/LeifAndersen/PLGradSchools).
@@ -814,18 +814,19 @@ Application deadline: ?
 
 ## Hong Kong
 
-### HKUST
+### [TACO @ HKUST](https://cse.hkust.edu.hk/~parreaux/)
 
 Application deadline: ?
 
-**Lionel Parreaux** — [Homepage](https://www.cse.ust.hk/~parreaux) ·
+**Lionel Parreaux** —
+[Homepage](https://cse.hkust.edu.hk/~parreaux/author/lionel-parreaux/) ·
 [Scholar](https://scholar.google.com/citations?user=jQqTdHwAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-8805-0728)
 
 - Research: type systems, compilers, functional programming, domain specific
   languages
 
-- Taking students: ?
+- Taking students: ❌
 
 ### [PL Group @ University of Hong Kong](https://hkuplg.github.io/)
 
