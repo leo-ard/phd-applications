@@ -962,21 +962,40 @@ Application deadline:❔
 
 ## Portugal
 
-### Universidade NOVA de Lisboa
+### Universidade de Lisboa
 
-Application deadline:❔
+Application deadline:
 
-**Bernardo Toninho** — [Homepage](http://ctp.di.fct.unl.pt/~btoninho) ·
+- CMU Portugal Affiliated PhD (1 year at CMU): May 12th — see
+  [cmuportugal.org](https://cmuportugal.org/affiliated-ph-d-programs/)
+
+- CMU Portugal Dual Degree PhD (2 years at CMU, degrees from both institutions):
+  December 4th — see
+  [cmuportugal.org](https://cmuportugal.org/dual-degree-phd/)
+
+- Fundação "la Caixa" INPhINIT: January 28th — see
+  [fundacaolacaixa.pt](https://fundacaolacaixa.pt/pt/bolsas-doutoramento-inphinit)
+
+- FCT Doctoral Grants 2026 (general call): March 31st — see
+  [fct.pt](https://www.fct.pt/concursos/concurso-bolsas-de-doutoramento-2026-linha-de-candidatura-geral)
+
+**Alcides Fonseca** — [Homepage](http://alcidesfonseca.com) ·
+[Scholar](https://scholar.google.com/citations?user=0nKEYVsAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-0879-4015)
+
+- Research: program synthesis, liquid types, concurrent programming, parallel
+  programming
+
+- Taking students: ✅
+
+**Bernardo Toninho** —
+[Homepage](https://web.tecnico.ulisboa.pt/bernardo.toninho/) ·
 [Scholar](https://scholar.google.com/citations?user=LqQoVtgAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-0746-7514)
 
 - Research: type theory, type systems, concurrency, distributed systems
 
 - Taking students:❔
-
-### [RSS @ Universidade de Lisboa](https://www.lasige.pt/research-line/reliable-software-systems/)
-
-Application deadline:❔
 
 **José Fragoso Santos** — [Homepage](http://web.ist.utl.pt/jose.fragoso) ·
 [Scholar](https://scholar.google.com/citations?user=5buWYbcAAAAJ) ·
