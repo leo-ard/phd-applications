@@ -1833,7 +1833,7 @@ Application deadline:❔
 
 ### Boston University
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Ankush Das** — [Homepage](https://ankushdas.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=yd-uFwMAAAAJ) ·
@@ -1853,7 +1853,7 @@ Application deadline:❔
 
 ### [PLT @ Brown University](https://cs.brown.edu/research/plt/)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Will Crichton** — [Homepage](https://willcrichton.net) ·
 [Scholar](https://scholar.google.com/citations?user=6Lh1eQUAAAAJ) ·
@@ -1936,7 +1936,7 @@ Application deadline:❔
 
 ### [PL @ Cornell University](http://pl.cs.cornell.edu/)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Adrian Sampson** — [Homepage](http://adriansampson.net) ·
 [Scholar](https://scholar.google.com/citations?user=Bq50aCUAAAAJ) ·
@@ -1984,7 +1984,7 @@ Application deadline:❔
 
 ### Georgia Institute of Technology
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Jacob Laurel** — [Homepage](https://jsl1994.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=5F3KT14AAAAJ) ·
@@ -2021,7 +2021,7 @@ Application deadline:❔
 
 ### Harvard University
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Nada Amin** — [Homepage](http://namin.net) ·
 [Scholar](https://scholar.google.com/citations?user=9cGEmcgAAAAJ) ·
@@ -2041,7 +2041,7 @@ Application deadline:❔
 
 ### [Wonks @ Indiana University](http://wonks.github.io/)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Amr Sabry** — [Homepage](http://www.cs.indiana.edu/~sabry) ·
 [Scholar](https://scholar.google.com/citations?user=dYGSG4EAAAAJ) ·
@@ -2089,7 +2089,7 @@ Application deadline:❔
 
 ### [PL @ Massachusetts Inst. of Technology](http://projects.csail.mit.edu/pl/)
 
-Application deadline:❔
+Application deadline: December 1st
 
 **Adam Chlipala** — [Homepage](http://adam.chlipala.net) ·
 [Scholar](https://scholar.google.com/citations?user=Imh0w3AAAAAJ) ·
@@ -2138,7 +2138,7 @@ Application deadline:❔
 
 ### [ACSys @ New York University](https://cs.nyu.edu/acsys/)
 
-Application deadline:❔
+Application deadline: December 1st
 
 **Dennis E. Shasha** — [Homepage](http://cs.nyu.edu/shasha) ·
 [Scholar](https://scholar.google.com/citations?user=UQ9Ws6wAAAAJ)
@@ -2186,7 +2186,7 @@ Application deadline:❔
 
 ### [PRL @ Northeastern University](https://prl.ccs.neu.edu)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Amal Ahmed** — [Homepage](http://www.ccs.neu.edu/home/amal) ·
 [Scholar](https://scholar.google.com/citations?user=Y1C007wAAAAJ) ·
@@ -2259,7 +2259,7 @@ Application deadline:❔
 
 ### Northwestern University
 
-Application deadline:❔
+Application deadline: December 1st
 
 **Christos Dimoulas** — [Homepage](http://users.eecs.northwestern.edu/~chrdimo)
 · [Scholar](https://scholar.google.com/citations?user=mFs4fikAAAAJ) ·
@@ -2291,7 +2291,7 @@ Application deadline:❔
 
 ### [PL @ Princeton University](http://pl.cs.princeton.edu/)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **David Walker** — [Homepage](http://www.cs.princeton.edu/~dpw) ·
 [Scholar](https://scholar.google.com/citations?user=UEI2g60AAAAJ) ·
@@ -2321,7 +2321,7 @@ Application deadline:❔
 
 ### [PurPL @ Purdue University](https://purpl.cs.purdue.edu/)
 
-Application deadline:❔
+Application deadline: December 1st
 
 **Benjamin Delaware** — [Homepage](https://www.cs.purdue.edu/homes/bendy) ·
 [Scholar](https://scholar.google.com/citations?user=VS21MfgAAAAJ) ·
@@ -2394,7 +2394,7 @@ Application deadline:❔
 
 ### Stanford University
 
-Application deadline:❔
+Application deadline: December 2nd
 
 **Alex Aiken** — [Homepage](https://theory.stanford.edu/~aiken) ·
 [Scholar](https://scholar.google.com/citations?user=3vKjkoQAAAAJ) ·
@@ -2457,7 +2457,7 @@ Application deadline:❔
 
 ### [Univ. of California - Berkeley](https://eecs.berkeley.edu/)
 
-Application deadline:❔
+Application deadline: December 1st
 
 **Max Willsey** — [Homepage](https://www.mwillsey.com) ·
 [Scholar](https://scholar.google.com/citations?user=zko9-RwAAAAJ) ·
@@ -2489,7 +2489,7 @@ Application deadline:❔
 
 ### [Univ. of California - Los Angeles](http://www.cs.ucla.edu/)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Guoqing Harry Xu** — [Homepage](http://www.cs.ucla.edu/~harryxu) ·
 [Scholar](https://scholar.google.com/citations?user=DS6rCasAAAAJ) ·
@@ -2555,7 +2555,7 @@ Application deadline:❔
 
 ### [ProgSys @ Univ. of California - San Diego](https://cseweb.ucsd.edu/groups/progsys/)
 
-Application deadline:❔
+Application deadline: December 23rd
 
 **Deian Stefan** — [Homepage](https://cseweb.ucsd.edu/~dstefan) ·
 [Scholar](https://scholar.google.com/citations?user=qTVj7nwAAAAJ) ·
@@ -2613,7 +2613,7 @@ Application deadline:❔
 
 ### Univ. of California - Santa Barbara
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Ben Hardekopf** — [Homepage](http://www.cs.ucsb.edu/~benh) ·
 [ORCID](https://orcid.org/0009-0008-1199-6129)
@@ -2634,7 +2634,7 @@ Application deadline:❔
 
 ### [Univ. of California - Santa Cruz](https://lsd.ucsc.edu/)
 
-Application deadline:❔
+Application deadline: January 5
 
 **Cormac Flanagan** — [Homepage](https://users.soe.ucsc.edu/~cormac) ·
 [Scholar](https://scholar.google.com/citations?user=XkiApd4AAAAJ) ·
@@ -2676,7 +2676,7 @@ Application deadline:❔
 
 ### Univ. of Illinois at Urbana-Champaign
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Charith Mendis** — [Homepage](https://charithmendis.com) ·
 [Scholar](https://scholar.google.com/citations?user=utZ3JYUAAAAJ) ·
@@ -2754,7 +2754,7 @@ Application deadline:❔
 
 ### [PLUM @ Univ. of Maryland - College Park](https://plum-umd.github.io/)
 
-Application deadline:❔
+Application deadline: December 5th
 
 **David Van Horn** — [Homepage](http://www.cs.umd.edu/~dvanhorn) ·
 [Scholar](https://scholar.google.com/citations?user=9ZM8OlMAAAAJ) ·
@@ -2783,7 +2783,16 @@ Application deadline:❔
 
 ### University at Buffalo
 
-Application deadline:❔
+Application deadline (Fall):
+
+- For early consideration for special scholarships: December 10th
+
+- For full consideration for funding/fellowships: December 31st
+
+Application Deadline (Spring):
+
+- International applications: September 30th
+- Domestic applications: October 31st
 
 **Andrew K. Hirsch** — [Homepage](https://cse.buffalo.edu/~akhirsch) ·
 [Scholar](https://scholar.google.com/citations?user=VMu58x0AAAAJ) ·
@@ -2820,7 +2829,7 @@ Application deadline:❔
 
 ### University of Chicago
 
-Application deadline:❔
+Application deadline: December 11
 
 **John H. Reppy** — [Homepage](http://people.cs.uchicago.edu/~jhr) ·
 [Scholar](https://scholar.google.com/citations?user=hz1S-asAAAAJ) ·
@@ -2858,7 +2867,7 @@ Application deadline:❔
 
 ### University of Colorado Boulder
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Bor-Yuh Evan Chang** — [Homepage](http://www.cs.colorado.edu/~bec) ·
 [Scholar](https://scholar.google.com/citations?user=wg3lXyYAAAAJ) ·
@@ -2879,7 +2888,7 @@ Application deadline:❔
 
 ### University of Connecticut
 
-Application deadline:❔
+Application deadline: January 1st
 
 **Stefan K. Muller** — [Homepage](https://smuller.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=vM6V_aMAAAAJ) ·
@@ -2892,7 +2901,7 @@ Application deadline:❔
 
 ### [CLC @ University of Iowa](https://clc.cs.uiowa.edu/site/)
 
-Application deadline:❔
+Application deadline: January 1st
 
 **J. Garrett Morris** — [Homepage](https://jgbm.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=PZIdxNgAAAAJ) ·
@@ -2925,7 +2934,7 @@ Application deadline:❔
 
 ### [MPLSE @ University of Michigan](http://mplse.org/)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Cyrus Omar** — [Homepage](https://web.eecs.umich.edu/~comar) ·
 [Scholar](https://scholar.google.com/citations?user=yiRAVJoAAAAJ) ·
@@ -2953,7 +2962,7 @@ Application deadline:❔
 
 ### [PLClub @ University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
 
-Application deadline:❔
+Application deadline: Decmeber 15th
 
 **Benjamin C. Pierce** — [Homepage](http://www.cis.upenn.edu/~bcpierce) ·
 [Scholar](https://scholar.google.com/citations?user=2kkddh0AAAAJ) ·
@@ -2997,9 +3006,9 @@ Application deadline:❔
 
 - Taking students:❔
 
-### University of Southern California
+### [University of Southern California](https://www.cs.usc.edu)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Mukund Raghothaman** — [Homepage](https://r-mukund.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=56YYqRcAAAAJ) ·
@@ -3010,9 +3019,9 @@ Application deadline:❔
 
 - Taking students:❔
 
-### University of Texas at Austin
+### [University of Texas at Austin](https://www.cs.utexas.edu/)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Isil Dillig** — [Homepage](https://www.cs.utexas.edu/~isil) ·
 [Scholar](https://scholar.google.com/citations?user=Wlq5rZEAAAAJ) ·
@@ -3025,7 +3034,7 @@ Application deadline:❔
 
 ### [CPU @ University of Utah](http://cpu.cs.utah.edu/)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Ben Greenman** — [Homepage](https://users.cs.utah.edu/~blg) ·
 [Scholar](https://scholar.google.com/citations?user=3A9hNTEAAAAJ) ·
@@ -3061,7 +3070,7 @@ Application deadline:❔
 
 ### [PLSE @ University of Washington](http://uwplse.org)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Dan Grossman** — [Homepage](http://homes.cs.washington.edu/~djg) ·
 [Scholar](https://scholar.google.com/citations?user=t9wtobkAAAAJ) ·
@@ -3081,7 +3090,7 @@ Application deadline:❔
 
 ### [madPL @ University of Wisconsin - Madison](https://madpl.cs.wisc.edu)
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Adithya Murali** — [Homepage](https://muraliadithya.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=Yw5Q_CgAAAAJ) ·
@@ -3126,7 +3135,7 @@ Application deadline:❔
 
 ### Yale University
 
-Application deadline:❔
+Application deadline: December 15th
 
 **Alexander K. Lew** —
 [Homepage](https://engineering.yale.edu/research-and-faculty/faculty-directory/alex-lew)
