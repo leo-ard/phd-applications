@@ -35,7 +35,7 @@ Inspired by and sourced from
 
 ### [Australian National University](https://comp.anu.edu.au/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Fabian Muehlboeck** —
 [Homepage](https://users.cecs.anu.edu.au/~fabian.muehlboeck) ·
@@ -61,11 +61,11 @@ Application deadline: ?
 
 - Research: interactive theorem provers, language semantics
 
-- Taking students: ?
+- Taking students:❔
 
 ### [Trustworthy Systems @ UNSW](https://trustworthy.systems/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Thomas Sewell** — [Homepage](https://www.unsw.edu.au/staff/thomas-sewell) ·
 [Scholar](https://scholar.google.com/citations?user=Vn0Acv0AAAAJ) ·
@@ -73,13 +73,13 @@ Application deadline: ?
 
 - Research: formal methods, program verification
 
-- Taking students: ?
+- Taking students:❔
 
 ## Austria
 
 ### [IST Austria](https://ista.ac.at/en/home/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Krishnendu Chatterjee** — [Homepage](http://pub.ist.ac.at/~kchatterjee) ·
 [Scholar](https://scholar.google.com/citations?user=1kaW8bwAAAAJ) ·
@@ -87,7 +87,7 @@ Application deadline: ?
 
 - Research: formal methods, program analysis, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 **Michael Sammler** — [Homepage](https://pub.ista.ac.at/~msammler) ·
 [Scholar](https://scholar.google.com/citations?user=q8W9hZOJCtMC) ·
@@ -95,48 +95,48 @@ Application deadline: ?
 
 - Research: automated reasoning, separation logic, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 ### [forsyte @ TU Wien](https://forsyte.at/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Laura Kovács** — [Homepage](https://lkovacs.com/) ·
 [Scholar](https://scholar.google.com/citations?user=X4K5SpIAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-8299-2714)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ## Belgium
 
 ### [KU Leuven](https://wms.cs.kuleuven.be/cs/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Dominique Devriese** —
 [Homepage](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese) ·
 [Scholar](https://scholar.google.com/citations?user=9vEspiUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-3862-6856)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Tom Schrijvers** — [Homepage](https://people.cs.kuleuven.be/~tom.schrijvers) ·
 [Scholar](https://scholar.google.com/citations?user=JVXShtsAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-8771-5559)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ## Canada
 
 ### [CLG @ McGill University](https://cs.mcgill.ca/~complogic/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Brigitte Pientka** — [Homepage](http://www.cs.mcgill.ca/~bpientka) ·
 [Scholar](https://scholar.google.com/citations?user=SX7AzekAAAAJ) ·
@@ -145,11 +145,11 @@ Application deadline: ?
 - Research: type theory, dependent types, refinement types, automated reasoning,
   functional programming, logic programming, metaprogramming
 
-- Taking students: ?
+- Taking students:❔
 
 ### [Simon Fraser University](https://www.sfu.ca/fas/computing.html)
 
-Application deadline: ?
+Application deadline:❔
 
 **Anders Miltner** — [Homepage](https://www.cs.sfu.ca/~miltner) ·
 [Scholar](https://scholar.google.com/citations?user=SzgX3_MAAAAJ) ·
@@ -169,7 +169,7 @@ Application deadline: ?
 
 ### [SPL @ University of British Columbia](https://spl.cs.ubc.ca/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Alexander J. Summers** — [Homepage](http://people.inf.ethz.ch/summersa) ·
 [Scholar](https://scholar.google.com/citations?user=q1bbqYEAAAAJ) ·
@@ -177,7 +177,7 @@ Application deadline: ?
 
 - Research: program verification, program analysis, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Caroline Lemieux** — [Homepage](https://www.carolemieux.com) ·
 [Scholar](https://scholar.google.com/citations?user=SMRGdi0AAAAJ) ·
@@ -186,7 +186,7 @@ Application deadline: ?
 - Research: program analysis, static analysis, program synthesis, property-based
   testing, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Ronald Garcia** — [Homepage](http://www.cs.ubc.ca/~rxg) ·
 [Scholar](https://scholar.google.com/citations?user=QqnkA2IAAAAJ) ·
@@ -195,7 +195,7 @@ Application deadline: ?
 - Research: type systems, language design, functional programming, language
   semantics
 
-- Taking students: ?
+- Taking students:❔
 
 **William J. Bowman** — [Homepage](https://www.williamjbowman.com) ·
 [Scholar](https://scholar.google.com/citations?user=Vbnpt_EAAAAJ) ·
@@ -204,7 +204,7 @@ Application deadline: ?
 - Research: verified compilation, dependent types, program verification,
   metaprogramming
 
-- Taking students: ?
+- Taking students:❔
 
 **Yuanhao Wei** — [Homepage](https://yuanhaow.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=_vDg69AAAAAJ) ·
@@ -213,19 +213,19 @@ Application deadline: ?
 - Research: memory management, language design, parallel programming,
   concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 ### [ProSE @ University of Toronto](https://www.cs.toronto.edu/~prose/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Azadeh Farzan** — [Homepage](http://www.cs.toronto.edu/~azadeh) ·
 [Scholar](https://scholar.google.com/citations?user=n9Kg_LUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-9005-2653)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Fan Long** — [Homepage](http://www.cs.toronto.edu/~fanl) ·
 [Scholar](https://scholar.google.com/citations?user=j6XdtXwAAAAJ) ·
@@ -233,7 +233,7 @@ Application deadline: ?
 
 - Research: formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Ningning Xie** — [Homepage](https://xnning.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=6DD_vkAAAAAJ) ·
@@ -242,11 +242,11 @@ Application deadline: ?
 - Research: type systems, language design, language implementation, algebraic
   effects, effect handlers, functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PLG @ University of Waterloo](https://plg.uwaterloo.ca/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Ondrej Lhoták** — [Homepage](https://plg.uwaterloo.ca/~olhotak) ·
 [Scholar](https://scholar.google.com/citations?user=kLg3RgsAAAAJ) ·
@@ -255,7 +255,7 @@ Application deadline: ?
 - Research: model checking, program analysis, static analysis, compilers,
   object-oriented programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Yizhou Zhang** — [Homepage](https://cs.uwaterloo.ca/~yizhou) ·
 [Scholar](https://scholar.google.com/citations?user=8n7ZcbwAAAAJ) ·
@@ -265,13 +265,13 @@ Application deadline: ?
   program analysis, compilers, language design, object-oriented programming,
   language-based security, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 ## Chile
 
 ### Universidad de Chile
 
-Application deadline: ?
+Application deadline:❔
 
 **Matías Toro** — [Homepage](https://pleiad.cl/people/mtoro) ·
 [Scholar](https://scholar.google.com/citations?user=hRPJ-ZIAAAAJ) ·
@@ -280,7 +280,7 @@ Application deadline: ?
 - Research: type systems, linear types, gradual typing, proof assistants, static
   analysis, language design, functional programming, language semantics
 
-- Taking students: ?
+- Taking students:❔
 
 **Éric Tanter** — [Homepage](https://pleiad.cl/people/etanter) ·
 [Scholar](https://scholar.google.com/citations?user=d0LISE4AAAAJ) ·
@@ -291,13 +291,13 @@ Application deadline: ?
   program analysis, functional programming, object-oriented programming, formal
   methods
 
-- Taking students: ?
+- Taking students:❔
 
 ## Denmark
 
 ### [LogSem @ Aarhus University](http://cs.au.dk/research/logic-and-semantics)
 
-Application deadline: ?
+Application deadline:❔
 
 **Amin Timany** — [Homepage](https://cs.au.dk/~timany) ·
 [Scholar](https://scholar.google.com/citations?user=Cgs2hEgAAAAJ) ·
@@ -306,7 +306,7 @@ Application deadline: ?
 - Research: type theory, formal methods, program verification, separation logic,
   proof assistants, distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Anders Møller** — [Homepage](https://cs.au.dk/~amoeller) ·
 [Scholar](https://scholar.google.com/citations?user=Wx0bdN0AAAAJ) ·
@@ -314,7 +314,7 @@ Application deadline: ?
 
 - Research: program analysis
 
-- Taking students: ?
+- Taking students:❔
 
 **Andreas Pavlogiannis** — [Homepage](https://cs.au.dk/~pavlogiannis) ·
 [Scholar](https://scholar.google.com/citations?user=9QvqaqUAAAAJ) ·
@@ -323,15 +323,15 @@ Application deadline: ?
 - Research: model checking, program analysis, static analysis, concurrency,
   language-based security
 
-- Taking students: ?
+- Taking students:❔
 
 **Daniel Gratzer** — [Homepage](https://www.au.dk/gratzer@cs.au.dk) ·
 [Scholar](https://scholar.google.com/citations?user=ayQ83fwAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-1944-0789)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Jaco van de Pol** — [Homepage](https://cs.au.dk/~jaco) ·
 [Scholar](https://scholar.google.com/citations?user=gbSSgnkAAAAJ) ·
@@ -340,7 +340,7 @@ Application deadline: ?
 - Research: formal methods, model checking, automated reasoning, concurrency,
   distributed systems, quantum computing, quantum programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Jean Pichon-Pharabod** — [Homepage](https://jeanpichon.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=ReYyKJAAAAAJ) ·
@@ -349,7 +349,7 @@ Application deadline: ?
 - Research: model checking, separation logic, program verification, compilers,
   concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 **Lars Birkedal** — [Homepage](http://cs.au.dk/~birke) ·
 [Scholar](https://scholar.google.com/citations?user=1rW-bi0AAAAJ) ·
@@ -358,7 +358,7 @@ Application deadline: ?
 - Research: type theory, program verification, separation logic, distributed
   systems, language semantics
 
-- Taking students: ?
+- Taking students:❔
 
 **Magnus Madsen** — [Homepage](https://cs.au.dk/~magnusm) ·
 [Scholar](https://scholar.google.com/citations?user=FuOCN_oAAAAJ) ·
@@ -367,11 +367,11 @@ Application deadline: ?
 - Research: algebraic effects, program analysis, static analysis, compilers,
   language design, logic programming, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PLS @ IT University of Copenhagen](https://pls.itu.dk/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Patrick Bahr** — [Homepage](https://bahr.io) ·
 [Scholar](https://scholar.google.com/citations?user=eMKdREgAAAAJ) ·
@@ -379,7 +379,7 @@ Application deadline: ?
 
 - Research: type systems, formal methods, functional programming, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Rasmus Ejlers Møgelberg** — [Homepage](http://www.itu.dk/people/mogel) ·
 [ORCID](https://orcid.org/0000-0003-0386-4376)
@@ -387,11 +387,11 @@ Application deadline: ?
 - Research: type theory, language semantics, category theory, domain theory,
   type systems, algebraic effects
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Copenhagen
 
-Application deadline: ?
+Application deadline:❔
 
 **Dmitriy Traytel** — [Homepage](https://traytel.bitbucket.io/) ·
 [Scholar](https://scholar.google.com/citations?user=MJppLgoAAAAJ) ·
@@ -399,14 +399,14 @@ Application deadline: ?
 
 - Research: automated reasoning, interactive theorem provers
 
-- Taking students: ?
+- Taking students:❔
 
 **Fritz Henglein** — [Homepage](http://www.diku.dk/~henglein) ·
 [Scholar](https://scholar.google.com/citations?user=FOM81UEAAAAJ)
 
 - Research: type systems, program analysis, functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Martin Elsman** — [Homepage](https://elsman.com) ·
 [Scholar](https://scholar.google.com/citations?user=B_kB3DUAAAAJ) ·
@@ -415,15 +415,15 @@ Application deadline: ?
 - Research: parallel programming, compilers, functional programming, language
   design, language implementation
 
-- Taking students: ?
+- Taking students:❔
 
 **Thomas P. Jensen** —
 [Homepage](https://di.ku.dk/english/staff/vip/researchers_pltc/?pure=en/persons/120287)
 · [Scholar](https://scholar.google.com/citations?user=AAe9c3sAAAAJ)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Troels Henriksen** — [Homepage](https://hjemmesider.diku.dk/~athas) ·
 [Scholar](https://scholar.google.com/citations?user=ZRnriNQAAAAJ) ·
@@ -431,7 +431,7 @@ Application deadline: ?
 
 - Research: parallel programming, functional programming, HPC, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 ## France
 
@@ -445,19 +445,19 @@ Application deadline: ?
 - Research: language semantics, denotational semantics, linear logic,
   concurrency, dependent types
 
-- Taking students: ?
+- Taking students:❔
 
 ### Ecole Normale Superieure
 
-Application deadline: ?
+Application deadline:❔
 
 **Albert Cohen** — [Homepage](https://who.rocq.inria.fr/Albert.Cohen) ·
 [Scholar](https://scholar.google.com/citations?user=MkKZKAMAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-8866-5343)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Caterina Urban** — [Homepage](https://caterinaurban.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=4-u1_HIAAAAJ) ·
@@ -465,14 +465,14 @@ Application deadline: ?
 
 - Research: program analysis, static analysis, program verification
 
-- Taking students: ?
+- Taking students:❔
 
 **Cezara Dragoi** — [Homepage](http://www.di.ens.fr/~cezarad)
 
 - Research: formal verification, automated reasoning, separation logic, static
   analysis
 
-- Taking students: ?
+- Taking students:❔
 
 **Marc Pouzet** — [Homepage](https://www.di.ens.fr/~pouzet) ·
 [ORCID](https://orcid.org/0000-0002-2651-7708)
@@ -480,7 +480,7 @@ Application deadline: ?
 - Research: type systems, functional programming, language design, language
   implementation, language semantics
 
-- Taking students: ?
+- Taking students:❔
 
 **Xavier Rival** — [Homepage](http://www.di.ens.fr/~rival) ·
 [Scholar](https://scholar.google.com/citations?user=YGy_zroAAAAJ) ·
@@ -488,11 +488,11 @@ Application deadline: ?
 
 - Research: static analysis
 
-- Taking students: ?
+- Taking students:❔
 
 ### INRIA
 
-Application deadline: ?
+Application deadline:❔
 
 **François Pottier** — [Homepage](https://cambium.inria.fr/~fpottier) ·
 [Scholar](https://scholar.google.com/citations?user=7R6jcZ0AAAAJ) ·
@@ -501,7 +501,7 @@ Application deadline: ?
 - Research: type systems, language design, functional programming,
   object-oriented programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Kenji Maillard** — [Homepage](https://kenji.maillard.blue) ·
 [ORCID](https://orcid.org/0000-0001-5554-3203)
@@ -509,7 +509,7 @@ Application deadline: ?
 - Research: type theory, dependent types, type systems, program verification,
   proof assistants
 
-- Taking students: ?
+- Taking students:❔
 
 **Luc Maranget** — [Homepage](https://cambium.inria.fr/~maranget) ·
 [Scholar](https://scholar.google.com/citations?user=LXUYoD8AAAAJ) ·
@@ -517,7 +517,7 @@ Application deadline: ?
 
 - Research: language design, compilers, lazy languages, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 **Matthieu Sozeau** — [Homepage](https://sozeau.gitlabpages.inria.fr/www) ·
 [Scholar](https://scholar.google.com/citations?user=Sow46roAAAAJ) ·
@@ -527,22 +527,22 @@ Application deadline: ?
   proof assistants, interactive theorem provers, program verification,
   functional programming, metaprogramming
 
-- Taking students: ?
+- Taking students:❔
 
 **Nicolas Tabareau** — [Homepage](https://tabareau.fr) ·
 [Scholar](https://scholar.google.com/citations?user=BB1iGhUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-3366-2273)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Pierre-Marie Pédrot** — [Homepage](https://www.xn--pdrot-bsa.fr) ·
 [ORCID](https://orcid.org/0009-0002-8006-6239)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Xavier Leroy** — [Homepage](https://xavierleroy.org) ·
 [Scholar](https://scholar.google.com/citations?user=K5yXAeAAAAAJ) ·
@@ -551,7 +551,7 @@ Application deadline: ?
 - Research: algebraic effects, automated reasoning, static analysis, compilers,
   functional programming, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 **Yannick Forster** — [Homepage](https://yforster.de) ·
 [Scholar](https://scholar.google.com/citations?user=yT74SZQAAAAJ) ·
@@ -559,21 +559,21 @@ Application deadline: ?
 
 - Research: type theory, type systems, proof assistants, Rocq
 
-- Taking students: ?
+- Taking students:❔
 
 **Yannick Zakowski** — [Homepage](https://cambium.inria.fr/~yzakowsk) ·
 [Scholar](https://scholar.google.com/citations?user=WR3yOasAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-4585-6470)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ## Germany
 
 ### [CISPA Helmholtz Center](https://cispa.de/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Simon Oddershede Gregersen** — [Homepage](https://simongregersen.com) ·
 [Scholar](https://scholar.google.com/citations?user=I-ltakEAAAAJ) ·
@@ -582,23 +582,23 @@ Application deadline: ?
 - Research: type systems, program verification, separation logic, distributed
   systems, formal methods, interactive theorem provers
 
-- Taking students: ?
+- Taking students:❔
 
 ### Karlsruhe Inst. of Technology
 
-Application deadline: ?
+Application deadline:❔
 
 **Sebastian Erdweg** — [Homepage](https://pl.ipd.kit.edu/erdweg.php) ·
 [Scholar](https://scholar.google.com/citations?user=2jCQrk4AAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1974-5956)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### Max Planck Society
 
-Application deadline: ?
+Application deadline:❔
 
 **Catalin Hritcu** — [Homepage](https://catalin-hritcu.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=d-3XtW8AAAAJ) ·
@@ -607,23 +607,23 @@ Application deadline: ?
 - Research: verified compilation, memory management, program verification,
   dependent types, language semantics, property-based testing, cryptography, IFC
 
-- Taking students: ?
+- Taking students:❔
 
 **Deepak Garg** — [Homepage](http://www.mpi-sws.org/~dg) ·
 [Scholar](https://scholar.google.com/citations?user=BCXxazwAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-0888-3093)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Derek Dreyer** — [Homepage](https://www.mpi-sws.org/~dreyer) ·
 [Scholar](https://scholar.google.com/citations?user=1_c89uMAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-3884-6867)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Georg Zetzsche** — [Homepage](http://zetzsche.xyz) ·
 [Scholar](https://scholar.google.com/citations?user=BHNdXKxbM-8C) ·
@@ -632,14 +632,14 @@ Application deadline: ?
 - Research: model checking, automated reasoning, concurrency, program
   verification, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Gilles Barthe** — [Homepage](https://gbarthe.github.io) ·
 [ORCID](https://orcid.org/0000-0002-3853-1777)
 
 - Research: program verification
 
-- Taking students: ?
+- Taking students:❔
 
 **Rupak Majumdar** — [Homepage](https://www.mpi-sws.org/~rupak) ·
 [Scholar](https://scholar.google.com/citations?user=COuXyKwAAAAJ) ·
@@ -647,19 +647,19 @@ Application deadline: ?
 
 - Research: automated reasoning, program analysis, program verification
 
-- Taking students: ?
+- Taking students:❔
 
 **Viktor Vafeiadis** — [Homepage](http://www.mpi-sws.org/~viktor) ·
 [Scholar](https://scholar.google.com/citations?user=kysdyH4AAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-8436-0334)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### RWTH Aachen University
 
-Application deadline: ?
+Application deadline:❔
 
 **Joost-Pieter Katoen** —
 [Homepage](http://www-i2.informatik.rwth-aachen.de/~katoen) ·
@@ -668,11 +668,11 @@ Application deadline: ?
 
 - Research: model checking, concurrency, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 ### Saarland University
 
-Application deadline: ?
+Application deadline:❔
 
 **Benjamin Lucien Kaminski** —
 [Homepage](https://quave.cs.uni-saarland.de/benjamin-kaminski) ·
@@ -682,7 +682,7 @@ Application deadline: ?
 - Research: formal methods, program verification, program analysis, static
   analysis, concurrency, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Sebastian Hack** — [Homepage](http://compilers.cs.uni-saarland.de/people/hack)
 · [Scholar](https://scholar.google.com/citations?user=XxQ_bsQAAAAJ) ·
@@ -691,23 +691,23 @@ Application deadline: ?
 - Research: program analysis, program synthesis, compilers, domain specific
   languages
 
-- Taking students: ?
+- Taking students:❔
 
 ### TU Braunschweig
 
-Application deadline: ?
+Application deadline:❔
 
 **Roland Meyer** — [Homepage](https://www.tcs.cs.tu-bs.de/group/meyer) ·
 [Scholar](https://scholar.google.com/citations?user=zRo3ZJ4AAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-8495-671X)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PG @ TU Darmstadt](https://programming-group.com/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Guido Salvaneschi** —
 [Homepage](https://programming-group.com/members/salvaneschi) ·
@@ -716,11 +716,11 @@ Application deadline: ?
 
 - Research: distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 ### TU Kaiserslautern
 
-Application deadline: ?
+Application deadline:❔
 
 **Anthony Widjaja Lin** — [Homepage](https://anthonywlin.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=__5nnYUAAAAJ) ·
@@ -728,11 +728,11 @@ Application deadline: ?
 
 - Research: formal methods, automated reasoning, program synthesis
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Freiburg
 
-Application deadline: ?
+Application deadline:❔
 
 **Andreas Podelski** —
 [Homepage](https://swt.informatik.uni-freiburg.de/podelski) ·
@@ -741,20 +741,20 @@ Application deadline: ?
 
 - Research: program verification, model checking, program analysis
 
-- Taking students: ?
+- Taking students:❔
 
 **Peter Thiemann** —
 [Homepage](http://www2.informatik.uni-freiburg.de/~thiemann) ·
 [Scholar](https://scholar.google.com/citations?user=yJST1UAAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9000-1239)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Tübingen
 
-Application deadline: ?
+Application deadline:❔
 
 **Jonathan Immanuel Brachthäuser** —
 [Homepage](https://se.cs.uni-tuebingen.de/team/brachthaeuser) ·
@@ -766,7 +766,7 @@ Application deadline: ?
   object-oriented programming, concurrency, metaprogramming, probabilistic
   programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Klaus Ostermann** — [Homepage](https://ps.cs.uni-tuebingen.de/team/ostermann)
 · [Scholar](https://scholar.google.com/citations?user=doJ07f8oUtQC) ·
@@ -777,21 +777,21 @@ Application deadline: ?
   specific languages, functional programming, object-oriented programming,
   metaprogramming, formal methods, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 ## Greece
 
 ### University of Athens
 
-Application deadline: ?
+Application deadline:❔
 
 **Dimitris Mitropoulos** — [Homepage](https://dimitro.gr) ·
 [Scholar](https://scholar.google.com/citations?user=ryow8hIAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-5061-9018)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Yannis Smaragdakis** — [Homepage](https://yanniss.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=XCJuXcgAAAAJ) ·
@@ -801,13 +801,13 @@ Application deadline: ?
   management, domain specific languages, object-oriented programming, parallel
   programming, concurrency, distributed systems, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 ## Hong Kong
 
 ### [TACO @ HKUST](https://cse.hkust.edu.hk/~parreaux/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Lionel Parreaux** —
 [Homepage](https://cse.hkust.edu.hk/~parreaux/author/lionel-parreaux/) ·
@@ -821,7 +821,7 @@ Application deadline: ?
 
 ### [PL Group @ University of Hong Kong](https://hkuplg.github.io/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Bruno C. d. S. Oliveira** — [Homepage](https://i.cs.hku.hk/~bruno) ·
 [Scholar](https://scholar.google.com/citations?user=cB-6X3gAAAAJ) ·
@@ -829,13 +829,13 @@ Application deadline: ?
 
 - Research: type systems, functional programming, object-oriented programming
 
-- Taking students: ?
+- Taking students:❔
 
 ## Japan
 
 ### National Inst. of Informatics
 
-Application deadline: ?
+Application deadline:❔
 
 **Taro Sekiyama** —
 [Homepage](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro) ·
@@ -844,37 +844,37 @@ Application deadline: ?
 
 - Research: type theory, type systems, program verification
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Tokyo
 
-Application deadline: ?
+Application deadline:❔
 
 **Naoki Kobayashi** — [Homepage](http://www-kb.is.s.u-tokyo.ac.jp/~koba) ·
 [Scholar](https://scholar.google.com/citations?user=bhZQ7FEAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-0537-0604)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Tsukuba
 
-Application deadline: ?
+Application deadline:❔
 
 **Hiroshi Unno** — [Homepage](http://www.cs.tsukuba.ac.jp/~uhiro) ·
 [Scholar](https://scholar.google.com/citations?user=H73eAAsAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-4225-8195)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ## Netherlands
 
 ### Radboud University
 
-Application deadline: ?
+Application deadline:❔
 
 **Robbert Krebbers** — [Homepage](http://robbertkrebbers.nl) ·
 [Scholar](https://scholar.google.com/citations?user=8JmcliwAAAAJ) ·
@@ -882,11 +882,11 @@ Application deadline: ?
 
 - Research: program verification, separation logic, static analysis, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PL Group @ TU Delft](https://pl.ewi.tudelft.nl/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Benedikt Ahrens** — [Homepage](https://benediktahrens.gitlab.io) ·
 [Scholar](https://scholar.google.com/citations?user=hdr4g6UAAAAJ) ·
@@ -894,23 +894,23 @@ Application deadline: ?
 
 - Research: type theory, functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Casper Bach** — [Homepage](http://casperbp.net) ·
 [Scholar](https://scholar.google.com/citations?user=cK5ddQ4AAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-0622-7639)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Jesper Cockx** — [Homepage](https://jesper.sikanda.be) ·
 [Scholar](https://scholar.google.com/citations?user=RIE9Ge8AAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-3862-4073)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Soham Chakraborty** — [Homepage](https://www.st.ewi.tudelft.nl/sschakraborty)
 · [Scholar](https://scholar.google.com/citations?user=CJgbWuwAAAAJ) ·
@@ -919,11 +919,11 @@ Application deadline: ?
 - Research: formal methods, program analysis, compilers, memory management,
   concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 ### Utrecht University
 
-Application deadline: ?
+Application deadline:❔
 
 **Wouter Swierstra** — [Homepage](http://www.staff.science.uu.nl/~swier004) ·
 [Scholar](https://scholar.google.com/citations?user=ZrrljKAAAAAJ) ·
@@ -931,11 +931,11 @@ Application deadline: ?
 
 - Research: dependent types, functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 ### VU Amsterdam
 
-Application deadline: ?
+Application deadline:❔
 
 **Klaus von Gleissenthall** — [Homepage](http://goto.ucsd.edu/~gleissen) ·
 [Scholar](https://scholar.google.com/citations?user=Lc4IbnsAAAAJ) ·
@@ -943,13 +943,13 @@ Application deadline: ?
 
 - Research: refinement types, formal methods, distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 ## Poland
 
 ### [University of Wroclaw](https://ii.uni.wroc.pl/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Dariusz Biernacki** — [Homepage](http://www.ii.uni.wroc.pl/~dabi) ·
 [Scholar](https://scholar.google.com/citations?user=7lCF6cYAAAAJ) ·
@@ -957,7 +957,7 @@ Application deadline: ?
 
 - Research: functional programming, language semantics,
 
-- Taking students: ?
+- Taking students:❔
 
 **Maciej Piróg** — [Homepage](https://maciejpirog.github.io/) ·
 [Scholar](https://scholar.google.com/citations?user=xxwcLlAAAAAJ) ·
@@ -966,13 +966,13 @@ Application deadline: ?
 - Research: type theory, dependent types, automated reasoning, interactive
   theorem provers, program analysis
 
-- Taking students: ?
+- Taking students:❔
 
 ## Portugal
 
 ### Universidade NOVA de Lisboa
 
-Application deadline: ?
+Application deadline:❔
 
 **Bernardo Toninho** — [Homepage](http://ctp.di.fct.unl.pt/~btoninho) ·
 [Scholar](https://scholar.google.com/citations?user=LqQoVtgAAAAJ) ·
@@ -980,11 +980,11 @@ Application deadline: ?
 
 - Research: type theory, type systems, concurrency, distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 ### [RSS @ Universidade de Lisboa](https://www.lasige.pt/research-line/reliable-software-systems/)
 
-Application deadline: ?
+Application deadline:❔
 
 **José Fragoso Santos** — [Homepage](http://web.ist.utl.pt/jose.fragoso) ·
 [Scholar](https://scholar.google.com/citations?user=5buWYbcAAAAJ) ·
@@ -994,7 +994,7 @@ Application deadline: ?
   synthesis, logic programming, object-oriented programming, language-based
   security, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Nuno P. Lopes** — [Homepage](https://web.ist.utl.pt/nuno.lopes) ·
 [Scholar](https://scholar.google.com/citations?user=DQnsjaoAAAAJ) ·
@@ -1003,30 +1003,30 @@ Application deadline: ?
 - Research: model checking, static analysis, compilers, program verification,
   formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Vasco Thudichum Vasconcelos** —
 [Homepage](https://ciencias.ulisboa.pt/perfil/vmvasconcelos) ·
 [Scholar](https://scholar.google.com/citations?user=dsRKl04AAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9539-8861)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ## Singapore
 
 ### Nanyang Technological University
 
-Application deadline: ?
+Application deadline:❔
 
 **C.-H. Luke Ong** — [Homepage](https://personal.ntu.edu.sg/luke.ong/index.html)
 · [Scholar](https://scholar.google.com/citations?user=gNFel3QAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7509-680X)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Conrad Watt** — [Homepage](https://conrad-watt.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=SVU1RU8AAAAJ) ·
@@ -1041,35 +1041,35 @@ Application deadline: ?
 [Scholar](https://scholar.google.com/citations?user=WzG0S8MAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7033-2463)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PLSE @ National University of Singapore](https://nus-plse.github.io/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Ilya Sergey** — [Homepage](https://ilyasergey.net/) ·
 [Scholar](https://scholar.google.com/citations?user=oCIeffUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-4250-5392)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Umang Mathur** — [Homepage](https://www.comp.nus.edu.sg/~umathur) ·
 [Scholar](https://scholar.google.com/citations?user=6rB8UjgAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-7610-0660)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ## South Korea
 
 ### DGIST
 
-Application deadline: ?
+Application deadline:❔
 
 **Minseok Jeon** — [Homepage](https://dgistpl.github.io/members/minseok.jeon) ·
 [Scholar](https://scholar.google.com/citations?user=3AuKv8EAAAAJ) ·
@@ -1078,7 +1078,7 @@ Application deadline: ?
 - Research: program analysis, program synthesis, domain specific languages,
   functional programming, object-oriented programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Yoonseung Kim** —
 [Homepage](https://dgist-vesl.github.io/people/yoonseung.kim) ·
@@ -1088,23 +1088,23 @@ Application deadline: ?
 - Research: formal methods, compilers, language design, object-oriented
   programming, distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 ### Hanyang University
 
-Application deadline: ?
+Application deadline:❔
 
 **Woosuk Lee** — [Homepage](https://psl.hanyang.ac.kr) ·
 [Scholar](https://scholar.google.com/citations?user=HcY3y0YAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1884-619X)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### KAIST
 
-Application deadline: ?
+Application deadline:❔
 
 **Hongseok Yang** —
 [Homepage](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=167) ·
@@ -1113,7 +1113,7 @@ Application deadline: ?
 
 - Research: separation logic
 
-- Taking students: ?
+- Taking students:❔
 
 **Jeehoon Kang** — [Homepage](https://cp.kaist.ac.kr/jeehoon.kang) ·
 [Scholar](https://scholar.google.com/citations?user=rVgfdSYAAAAJ) ·
@@ -1121,7 +1121,7 @@ Application deadline: ?
 
 - Research: concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 **Kihong Heo** — [Homepage](https://kihongheo.kaist.ac.kr) ·
 [Scholar](https://scholar.google.com/citations?user=bWY6MmgAAAAJ) ·
@@ -1129,23 +1129,23 @@ Application deadline: ?
 
 - Research: program analysis, program synthesis, language-based security
 
-- Taking students: ?
+- Taking students:❔
 
 ### Korea University
 
-Application deadline: ?
+Application deadline:❔
 
 **Hakjoo Oh** — [Homepage](http://prl.korea.ac.kr/~pronto/home) ·
 [Scholar](https://scholar.google.com/citations?user=3dX_cckAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1900-7654)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### POSTECH
 
-Application deadline: ?
+Application deadline:❔
 
 **Wonyeol Lee** — [Homepage](https://wonyeol.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=g3TYhjcAAAAJ) ·
@@ -1157,7 +1157,7 @@ Application deadline: ?
 
 ### Seoul National University
 
-Application deadline: ?
+Application deadline:❔
 
 **Chung-Kil Hur** — [Homepage](http://sf.snu.ac.kr/gil.hur) ·
 [Scholar](https://scholar.google.com/citations?user=ognOntwAAAAJ) ·
@@ -1166,7 +1166,7 @@ Application deadline: ?
 - Research: type theory, automated reasoning, interactive theorem provers,
   concurrency, program verification, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Kwangkeun Yi** — [Homepage](http://ropas.snu.ac.kr/~kwang) ·
 [Scholar](https://scholar.google.com/citations?user=VddKJ_wAAAAJ) ·
@@ -1174,24 +1174,24 @@ Application deadline: ?
 
 - Research: program analysis
 
-- Taking students: ?
+- Taking students:❔
 
 ### State University of New York, Korea
 
-Application deadline: ?
+Application deadline:❔
 
 **Zhoulai Fu** — [Homepage](https://zhoulaifu.com) ·
 [ORCID](https://orcid.org/0000-0003-2073-0564)
 
 - Research: security
 
-- Taking students: ?
+- Taking students:❔
 
 ## Spain
 
 ### IMDEA Software Institute
 
-Application deadline: ?
+Application deadline:❔
 
 **Aleksandar Nanevski** — [Homepage](http://software.imdea.org/~aleks) ·
 [Scholar](https://scholar.google.com/citations?user=JGza54YAAAAJ) ·
@@ -1199,7 +1199,7 @@ Application deadline: ?
 
 - Research: type theory, interactive theorem provers, dependent types, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Niki Vazou** — [Homepage](https://nikivazou.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=ARcLTokAAAAJ) ·
@@ -1208,13 +1208,13 @@ Application deadline: ?
 - Research: type systems, refinement types, program verification, automated
   reasoning
 
-- Taking students: ?
+- Taking students:❔
 
 ## Sweden
 
 ### Chalmers/GU
 
-Application deadline: ?
+Application deadline:❔
 
 **Andreas Abel** — [Homepage](http://www.cse.chalmers.se/~abela) ·
 [Scholar](https://scholar.google.com/citations?user=diMIMosAAAAJ) ·
@@ -1223,25 +1223,25 @@ Application deadline: ?
 - Research: program verification, dependent types, type theory, functional
   programming, type systems, modal types, automated reasoning
 
-- Taking students: ?
+- Taking students:❔
 
 **Magnus O. Myreen** — [Homepage](https://www.cse.chalmers.se/~myreen) ·
 [ORCID](https://orcid.org/0000-0002-9504-4107)
 
 - Research: program verification, interactive theorem provers
 
-- Taking students: ?
+- Taking students:❔
 
 **Nils Anders Danielsson** — [Homepage](https://www.cse.chalmers.se/~nad) ·
 [ORCID](https://orcid.org/0000-0001-8688-0333)
 
 - Research: dependent types
 
-- Taking students: ?
+- Taking students:❔
 
 ### Uppsala University
 
-Application deadline: ?
+Application deadline:❔
 
 **Bengt Jonsson** — [Homepage](http://user.it.uu.se/~bengt) ·
 [Scholar](https://scholar.google.com/citations?user=idIfuU4AAAAJ) ·
@@ -1250,7 +1250,7 @@ Application deadline: ?
 - Research: formal methods, distributed systems, language semantics, program
   verification, concurrency, security
 
-- Taking students: ?
+- Taking students:❔
 
 **Tobias Wrigstad** — [Homepage](http://wrigstad.com) ·
 [Scholar](https://scholar.google.com/citations?user=EfO5KRQAAAAJ) ·
@@ -1258,13 +1258,13 @@ Application deadline: ?
 
 - Research: memory management, type systems, security
 
-- Taking students: ?
+- Taking students:❔
 
 ## Switzerland
 
 ### EPFL
 
-Application deadline: ?
+Application deadline:❔
 
 **Clément Pit-Claudel** — [Homepage](https://pit-claudel.fr/clement) ·
 [Scholar](https://scholar.google.com/citations?user=kMj6fBwAAAAJ) ·
@@ -1272,7 +1272,7 @@ Application deadline: ?
 
 - Research: compilers, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Martin Odersky** — [Homepage](http://lampwww.epfl.ch/~odersky) ·
 [Scholar](https://scholar.google.com/citations?user=LbRD9tEAAAAJ) ·
@@ -1280,7 +1280,7 @@ Application deadline: ?
 
 - Research: language design, language implementation, Scala
 
-- Taking students: ?
+- Taking students:❔
 
 **Nate Foster** — [Homepage](https://natefoster.org) ·
 [Scholar](https://scholar.google.com/citations?user=AH5j40kAAAAJ) ·
@@ -1288,19 +1288,19 @@ Application deadline: ?
 
 - Research: proof assistants, type systems, networking
 
-- Taking students: ?
+- Taking students:❔
 
 **Viktor Kuncak** — [Homepage](http://lara.epfl.ch/~kuncak) ·
 [Scholar](https://scholar.google.com/citations?user=kmoklesAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7044-9522)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### ETH Zurich
 
-Application deadline: ?
+Application deadline:❔
 
 **Peter Müller** —
 [Homepage](http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html) ·
@@ -1309,7 +1309,7 @@ Application deadline: ?
 
 - Research: automated reasoning, Viper
 
-- Taking students: ?
+- Taking students:❔
 
 **Ralf Jung** — [Homepage](https://research.ralfj.de) ·
 [Scholar](https://scholar.google.com/citations?user=zddokfoAAAAJ) ·
@@ -1317,7 +1317,7 @@ Application deadline: ?
 
 - Research: formal methods, Rust
 
-- Taking students: ?
+- Taking students:❔
 
 **Zhendong Su** — [Homepage](https://people.inf.ethz.ch/suz) ·
 [Scholar](https://scholar.google.com/citations?user=RivxoIcAAAAJ) ·
@@ -1325,11 +1325,11 @@ Application deadline: ?
 
 - Research: compilers, security, education
 
-- Taking students: ?
+- Taking students:❔
 
 ### Università della Svizzera italiana
 
-Application deadline: ?
+Application deadline:❔
 
 **Walter Binder** — [Homepage](http://www.inf.usi.ch/faculty/binder) ·
 [Scholar](https://scholar.google.com/citations?user=g0nBOnMAAAAJ) ·
@@ -1338,7 +1338,7 @@ Application deadline: ?
 - Research: program analysis, concurrency, parallel programming, language
   implementation
 
-- Taking students: ?
+- Taking students:❔
 
 ## United Kingdom
 
@@ -1350,20 +1350,20 @@ Application deadline: ?
 
 - Research: separation logic, language semantics, concurrency, effect handlers
 
-- Taking students: ?
+- Taking students:❔
 
 **James McKinna** —
 [Homepage](https://researchportal.hw.ac.uk/en/persons/james-mckinna) ·
 [Scholar](https://scholar.google.com/citations?user=_CjMNVsAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-6745-2560)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### Imperial College London
 
-Application deadline: ?
+Application deadline:❔
 
 **Alastair F. Donaldson** — [Homepage](https://www.doc.ic.ac.uk/~afd) ·
 [Scholar](https://scholar.google.com/citations?user=ZIUuqNwAAAAJ) ·
@@ -1371,14 +1371,14 @@ Application deadline: ?
 
 - Research: formal methods, HPC
 
-- Taking students: ?
+- Taking students:❔
 
 **Azalea Raad** — [Homepage](http://www.soundandcomplete.org) ·
 [ORCID](https://orcid.org/0000-0002-2319-3242)
 
 - Research: concurrency, language semantics
 
-- Taking students: ?
+- Taking students:❔
 
 **Nicolas Wu** — [Homepage](https://www.imperial.ac.uk/people/n.wu) ·
 [Scholar](https://scholar.google.com/citations?user=0E8zPucAAAAJ) ·
@@ -1386,7 +1386,7 @@ Application deadline: ?
 
 - Research: language semantics, domain specific languages, effect handlers
 
-- Taking students: ?
+- Taking students:❔
 
 **Nobuko Yoshida** — [Homepage](https://www.doc.ic.ac.uk/~yoshida) ·
 [Scholar](https://scholar.google.com/citations?user=4T-p76AAAAAJ) ·
@@ -1394,7 +1394,7 @@ Application deadline: ?
 
 - Research: type systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Philippa Gardner** — [Homepage](https://www.doc.ic.ac.uk/~pg) ·
 [Scholar](https://scholar.google.com/citations?user=LDe0mUwAAAAJ) ·
@@ -1402,7 +1402,7 @@ Application deadline: ?
 
 - Research: program verification, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Sophia Drossopoulou** — [Homepage](https://wp.doc.ic.ac.uk/sd) ·
 [Scholar](https://scholar.google.com/citations?user=5g4VizIAAAAJ) ·
@@ -1410,22 +1410,22 @@ Application deadline: ?
 
 - Research: concurrency, automated reasoning, program verification
 
-- Taking students: ?
+- Taking students:❔
 
 ### King's College London
 
-Application deadline: ?
+Application deadline:❔
 
 **Stephen Kell** — [Homepage](https://www.humprog.org/~stephen) ·
 [Scholar](https://scholar.google.com/citations?user=4GHlcNoAAAAJ)
 
 - Research: language implementation, compilers, language design
 
-- Taking students: ?
+- Taking students:❔
 
 ### Queen Mary University of London
 
-Application deadline: ?
+Application deadline:❔
 
 **Raymond Hu** — [Homepage](https://www.seresearch.qmul.ac.uk/cfcs/people/rhu) ·
 [Scholar](https://scholar.google.com/citations?user=b08Zz1kAAAAJ) ·
@@ -1433,7 +1433,7 @@ Application deadline: ?
 
 - Research: distributed systems, type systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Vasileios Klimis** —
 [Homepage](https://www.seresearch.qmul.ac.uk/cfcs/people/vklimis) ·
@@ -1442,18 +1442,18 @@ Application deadline: ?
 
 - Research: model checking, compilers, quantum computing
 
-- Taking students: ?
+- Taking students:❔
 
 ### Royal Holloway Univ. of London
 
-Application deadline: ?
+Application deadline:❔
 
 **Francisco Ferreira** — [Homepage](https://franciscoferreira.org) ·
 [ORCID](https://orcid.org/0000-0001-8494-7696)
 
 - Research: type systems, formal methods, concurrency, modal types
 
-- Taking students: ?
+- Taking students:❔
 
 **Julien Lange** —
 [Homepage](<https://pure.royalholloway.ac.uk/portal/en/persons/julien-lange(55a85423-9481-4565-9339-224891092d5e).html>)
@@ -1462,7 +1462,7 @@ Application deadline: ?
 
 - Research: type systems, program verification
 
-- Taking students: ?
+- Taking students:❔
 
 **Matthew Hague** — [Homepage](https://www.cs.rhul.ac.uk/home/uxac009) ·
 [Scholar](https://scholar.google.com/citations?user=s37BfYAAAAAJ) ·
@@ -1470,7 +1470,7 @@ Application deadline: ?
 
 - Research: program verification, model checking, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 **Reuben N. S. Rowe** — [Homepage](https://www.cs.rhul.ac.uk/home/uhac003) ·
 [Scholar](https://scholar.google.com/citations?user=7jBLbSsAAAAJ) ·
@@ -1479,11 +1479,11 @@ Application deadline: ?
 - Research: type systems, program verification, automated reasoning, separation
   logic, program synthesis, language design, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 ### [Theory Group @ University of Birmingham](http://www.cs.bham.ac.uk/research/groupings/theory/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Sergey Goncharov** — [Homepage](https://sergey-goncharov.org) ·
 [Scholar](https://scholar.google.com/citations?user=O6as6pAAAAAJ)
@@ -1491,11 +1491,11 @@ Application deadline: ?
 - Research: algebraic effects, program verification, language semantics,
   category theory
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Bristol
 
-Application deadline: ?
+Application deadline:❔
 
 **Eddie Jones** — [Homepage](https://ec-jones.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=k9BLV_0AAAAJ) ·
@@ -1503,7 +1503,7 @@ Application deadline: ?
 
 - Research: formal methods, functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 **G. A. Kavvos** — [Homepage](https://www.lambdabetaeta.eu) ·
 [Scholar](https://scholar.google.com/citations?user=yWerYFkAAAAJ) ·
@@ -1512,7 +1512,7 @@ Application deadline: ?
 - Research: homotopy type theory, modal types, category theory, concurrency,
   security
 
-- Taking students: ?
+- Taking students:❔
 
 **Meng Wang** — [Homepage](https://mengwangoxf.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=NwDbSggAAAAJ) ·
@@ -1520,7 +1520,7 @@ Application deadline: ?
 
 - Research: functional programming, bidirectional programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Steven Ramsay** — [Homepage](https://sjrsay.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=mxxKCzcAAAAJ) ·
@@ -1528,11 +1528,11 @@ Application deadline: ?
 
 - Research: functional programming, automated reasoning, model checking
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Cambridge
 
-Application deadline: ?
+Application deadline:❔
 
 **Anil Madhavapeddy** — [Homepage](https://anil.recoil.org) ·
 [Scholar](https://scholar.google.com/citations?user=u2nZ7F8AAAAJ) ·
@@ -1540,7 +1540,7 @@ Application deadline: ?
 
 - Research: OCaml, functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Jeremy Yallop** — [Homepage](http://www.cl.cam.ac.uk/~jdy22) ·
 [Scholar](https://scholar.google.com/citations?user=NIk5CuwAAAAJ) ·
@@ -1548,7 +1548,7 @@ Application deadline: ?
 
 - Research: OCaml, metaprogramming, program verification, algebraic effects
 
-- Taking students: ?
+- Taking students:❔
 
 **Neelakantan R. Krishnaswami** — [Homepage](https://www.cl.cam.ac.uk/~nk480) ·
 [Scholar](https://scholar.google.com/citations?user=qCE8eVcAAAAJ)
@@ -1556,7 +1556,7 @@ Application deadline: ?
 - Research: program verification, language design, language semantics, type
   theory
 
-- Taking students: ?
+- Taking students:❔
 
 **Peter Sewell** — [Homepage](https://www.cl.cam.ac.uk/~pes20) ·
 [ORCID](https://orcid.org/0000-0001-9352-1013)
@@ -1564,7 +1564,7 @@ Application deadline: ?
 - Research: type systems, formal methods, concurrency, memory management,
   program verification
 
-- Taking students: ?
+- Taking students:❔
 
 **Tobias Grosser** — [Homepage](https://grosser.science) ·
 [Scholar](https://scholar.google.com/citations?user=c_PWJQEAAAAJ) ·
@@ -1572,11 +1572,11 @@ Application deadline: ?
 
 - Research: formal methods, compilers, language design, HCI, SMT
 
-- Taking students: ?
+- Taking students:❔
 
 ### [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
 
-Application deadline: ?
+Application deadline:❔
 
 **Amir Shaikhha** — [Homepage](https://amirsh.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=97wlbikAAAAJ) ·
@@ -1585,7 +1585,7 @@ Application deadline: ?
 - Research: program synthesis, compilers, memory management, domain specific
   languages, concurrency, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Chris Heunen** — [Homepage](http://homepages.inf.ed.ac.uk/cheunen) ·
 [Scholar](https://scholar.google.com/citations?user=K_LnaH0AAAAJ) ·
@@ -1593,7 +1593,7 @@ Application deadline: ?
 
 - Research: quantum programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Elizabeth Polgreen** — [Homepage](https://polgreen.github.io/) ·
 [Scholar](https://scholar.google.com/citations?user=wFYhUkIAAAAJ) ·
@@ -1601,7 +1601,7 @@ Application deadline: ?
 
 - Research: formal verification, program verification, program synthesis
 
-- Taking students: ?
+- Taking students:❔
 
 **Ian Stark** — [Homepage](https://homepages.inf.ed.ac.uk/stark/) ·
 [Scholar](https://scholar.google.com/citations?user=_WljoL8AAAAJ) ·
@@ -1610,7 +1610,7 @@ Application deadline: ?
 - Research: concurrency, program verification, compiler verification, modal
   logic, type theory, type systems
 
-- Taking students: ?
+- Taking students:❔
 
 **James Cheney** — [Homepage](http://homepages.inf.ed.ac.uk/jcheney) ·
 [Scholar](https://scholar.google.com/citations?user=G-1f1G4AAAAJ) ·
@@ -1618,7 +1618,7 @@ Application deadline: ?
 
 - Research: compilers, automated reasoning, XML
 
-- Taking students: ?
+- Taking students:❔
 
 **Ohad Kammar** — [Homepage](https://denotational.co.uk) ·
 [Scholar](https://scholar.google.com/citations?user=-BLwCMkAAAAJ) ·
@@ -1628,7 +1628,7 @@ Application deadline: ?
   programming, concurrency, dependent types, security, metaprogramming, category
   theory
 
-- Taking students: ?
+- Taking students:❔
 
 **Rob van Glabbeek** — [Homepage](https://theory.stanford.edu/~rvg/) ·
 [Scholar](https://scholar.google.com/citations?user=Ngf21nIAAAAJ) ·
@@ -1636,7 +1636,7 @@ Application deadline: ?
 
 - Research: concurrency, language semantics, linear logic, process algebra
 
-- Taking students: ?
+- Taking students:❔
 
 **Sam Lindley** — [Homepage](https://homepages.inf.ed.ac.uk/slindley) ·
 [Scholar](https://scholar.google.com/citations?user=0cB7Ky4AAAAJ) ·
@@ -1644,41 +1644,38 @@ Application deadline: ?
 
 - Research: effect handlers, functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Glasgow
 
-Application deadline: ?
+Application deadline:❔
 
-**Ornela Dardha** —
-[Homepage](https://www.dcs.gla.ac.uk/~ornela/index.html) ·
+**Ornela Dardha** — [Homepage](https://www.dcs.gla.ac.uk/~ornela/index.html) ·
 [Scholar](https://scholar.google.com/citations?user=nXneHtMAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-9927-7875)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
-**Simon Fowler** —
-[Homepage](https://simonjf.com/about/) ·
+**Simon Fowler** — [Homepage](https://simonjf.com/about/) ·
 [Scholar](https://scholar.google.com/citations?user=34hm_7UAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-5143-5475)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
-**Simon J. Gay** —
-[Homepage](https://www.dcs.gla.ac.uk/~simon/) ·
+**Simon J. Gay** — [Homepage](https://www.dcs.gla.ac.uk/~simon/) ·
 [Scholar](https://scholar.google.com/citations?user=5x7ArxsAAAAJ)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PLAS @ University of Kent](https://www.cs.kent.ac.uk/research/groups/plas/)
 
-Application deadline: ?
+Application deadline:❔
 
 **David Castro-Perez** — [Homepage](https://dcastrop.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=amY0bxEAAAAJ) ·
@@ -1687,7 +1684,7 @@ Application deadline: ?
 - Research: interactive theorem provers, language design, language
   implementation, concurrency, distributed systems, parallel programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Dominic A. Orchard** — [Homepage](https://dorchard.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=vEsF_IwAAAAJ) ·
@@ -1696,7 +1693,7 @@ Application deadline: ?
 - Research: type theory, type systems, functional programming, program
   verification
 
-- Taking students: ?
+- Taking students:❔
 
 **Mark Batty** — [Homepage](https://www.cs.kent.ac.uk/people/staff/mjb211) ·
 [Scholar](https://scholar.google.com/citations?user=MnDiDMcAAAAJ) ·
@@ -1704,11 +1701,11 @@ Application deadline: ?
 
 - Research: compilers, concurrency, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 ### [FP Lab @ University of Nottingham](https://www.nottingham.ac.uk/research/groups/fp-lab/index.aspx)
 
-Application deadline: ?
+Application deadline:❔
 
 **Graham Hutton** — [Homepage](https://people.cs.nott.ac.uk/pszgmh) ·
 [Scholar](https://scholar.google.com/citations?user=6wDy-sMAAAAJ) ·
@@ -1716,7 +1713,7 @@ Application deadline: ?
 
 - Research: functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Thorsten Altenkirch** — [Homepage](https://people.cs.nott.ac.uk/psztxa) ·
 [Scholar](https://scholar.google.com/citations?user=EHksJkUAAAAJ) ·
@@ -1725,11 +1722,11 @@ Application deadline: ?
 - Research: type theory, dependent types, functional programming, logic
   programming, category theory
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Oxford
 
-Application deadline: ?
+Application deadline:❔
 
 **Sam Staton** —
 [Homepage](http://www.cs.ox.ac.uk/people/samuel.staton/main.html) ·
@@ -1739,11 +1736,11 @@ Application deadline: ?
 - Research: probabilistic programming, quantum computing, quantum programming,
   category theory
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Sheffield
 
-Application deadline: ?
+Application deadline:❔
 
 **Andrei Popescu** — [Homepage](https://www.andreipopescu.uk) ·
 [Scholar](https://scholar.google.com/citations?user=nxOkXN0AAAAJ) ·
@@ -1752,24 +1749,24 @@ Application deadline: ?
 - Research: proof assistants, type theory, automated reasoning, language-based
   security
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of St Andrews
 
-Application deadline: ?
+Application deadline:❔
 
 **Edwin C. Brady** —
 [Homepage](https://www.st-andrews.ac.uk/computer-science/people/ecb10) ·
 [Scholar](https://scholar.google.com/citations?user=v1butH8AAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9734-367X)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### [MSP @ University of Strathclyde](https://msp.cis.strath.ac.uk/index.html)
 
-Application deadline: ?
+Application deadline:❔
 
 **Conor McBride** — [Homepage](http://strictlypositive.org/) ·
 [Scholar](https://scholar.google.com/citations?user=vO7qGKwAAAAJ) ·
@@ -1778,7 +1775,7 @@ Application deadline: ?
 - Research: functional programming, type systems, dependent types, type theory,
   Haskell
 
-- Taking students: ?
+- Taking students:❔
 
 **Fredrik Nordvall Forsberg** — [Homepage](https://fredriknf.com/) ·
 [Scholar](https://scholar.google.com/citations?user=-0ALlRsAAAAJ) ·
@@ -1787,7 +1784,7 @@ Application deadline: ?
 - Research: category theory, constructive mathematics, type theory, dependent
   types
 
-- Taking students: ?
+- Taking students:❔
 
 **Robert Atkey** — [Homepage](https://bentnib.org/) ·
 [Scholar](https://scholar.google.com/citations?user=0bo89OQAAAAJ) ·
@@ -1796,7 +1793,7 @@ Application deadline: ?
 - Research: linear types, dependent types, type theory, type systems,
   trustworthy AI
 
-- Taking students: ?
+- Taking students:❔
 
 ## United States
 
@@ -1828,11 +1825,11 @@ Application deadline: Rolling
 
 - Research: energy-aware software, energy-effecient software, security
 
-- Taking students: ?
+- Taking students:❔
 
 ### Boston College
 
-Application deadline: ?
+Application deadline:❔
 
 **Aaron Stump** — [Homepage](https://cshub.bc.edu/stumpaa/) ·
 [Scholar](https://scholar.google.com/citations?user=568MtVQAAAAJ) ·
@@ -1840,11 +1837,11 @@ Application deadline: ?
 
 - Research: automated reasoning
 
-- Taking students: ?
+- Taking students:❔
 
 ### Boston University
 
-Application deadline: ?
+Application deadline:❔
 
 **Ankush Das** — [Homepage](https://ankushdas.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=yd-uFwMAAAAJ) ·
@@ -1852,7 +1849,7 @@ Application deadline: ?
 
 - Research: security, distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Marco Gaboardi** — [Homepage](http://cs-people.bu.edu/gaboardi) ·
 [Scholar](https://scholar.google.com/citations?user=5b8D1MgAAAAJ) ·
@@ -1860,11 +1857,11 @@ Application deadline: ?
 
 - Research: formal methods, security
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PLT @ Brown University](https://cs.brown.edu/research/plt/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Will Crichton** — [Homepage](https://willcrichton.net) ·
 [Scholar](https://scholar.google.com/citations?user=6Lh1eQUAAAAJ) ·
@@ -1876,7 +1873,7 @@ Application deadline: ?
 
 ### [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Feras Saad** — [Homepage](https://www.cs.cmu.edu/~fsaad) ·
 [Scholar](https://scholar.google.com/citations?user=1aou7GkAAAAJ) ·
@@ -1884,7 +1881,7 @@ Application deadline: ?
 
 - Research: probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Frank Pfenning** — [Homepage](http://www.cs.cmu.edu/~fp) ·
 [Scholar](https://scholar.google.com/citations?user=ghWKWBUAAAAJ) ·
@@ -1892,7 +1889,7 @@ Application deadline: ?
 
 - Research: type theory, type systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Heather Miller** — [Homepage](http://heather.miller.am) ·
 [Scholar](https://scholar.google.com/citations?user=dpghk3cAAAAJ) ·
@@ -1900,7 +1897,7 @@ Application deadline: ?
 
 - Research: distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Jan Hoffmann** — [Homepage](http://www.cs.cmu.edu/~janh) ·
 [Scholar](https://scholar.google.com/citations?user=0Kvq4bUAAAAJ) ·
@@ -1909,7 +1906,7 @@ Application deadline: ?
 - Research: model checking, type systems, static analysis, probabilistic
   programming, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Jonathan Aldrich** — [Homepage](http://www.cs.cmu.edu/~./aldrich) ·
 [Scholar](https://scholar.google.com/citations?user=AzHmOtcAAAAJ) ·
@@ -1918,7 +1915,7 @@ Application deadline: ?
 - Research: gradual typing, separation logic, static analysis, language design,
   object-oriented programming, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Robert Harper** — [Homepage](http://www.cs.cmu.edu/~rwh) ·
 [Scholar](https://scholar.google.com/citations?user=hbpHGtQAAAAJ) ·
@@ -1926,7 +1923,7 @@ Application deadline: ?
 
 - Research: type theory, proof assistants, compilers, functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Stephanie Balzer** — [Homepage](https://www.cs.cmu.edu/~balzers) ·
 [Scholar](https://scholar.google.com/citations?user=xZXNqqYAAAAJ) ·
@@ -1935,7 +1932,7 @@ Application deadline: ?
 - Research: type systems, separation logic, functional programming,
   object-oriented programming, concurrency, language-based security
 
-- Taking students: ?
+- Taking students:❔
 
 **Umut A. Acar** — [Homepage](http://www.umut-acar.org) ·
 [Scholar](https://scholar.google.com/citations?user=wJ4NywgAAAAJ) ·
@@ -1943,19 +1940,19 @@ Application deadline: ?
 
 - Research: concurrency, quantum computing
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PL @ Cornell University](http://pl.cs.cornell.edu/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Adrian Sampson** — [Homepage](http://adriansampson.net) ·
 [Scholar](https://scholar.google.com/citations?user=Bq50aCUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-0837-8924)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Alexandra Silva** — [Homepage](https://alexandrasilva.org/#/main.html) ·
 [Scholar](https://scholar.google.com/citations?user=Vgu38TgAAAAJ) ·
@@ -1963,7 +1960,7 @@ Application deadline: ?
 
 - Research: formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Andrew C. Myers** — [Homepage](http://www.cs.cornell.edu/andru) ·
 [Scholar](https://scholar.google.com/citations?user=ovlpa_IAAAAJ) ·
@@ -1973,7 +1970,7 @@ Application deadline: ?
   programming, language-based security, formal methods, probabilistic
   programming
 
-- Taking students: ?
+- Taking students:❔
 
 **J. Gregory Morrisett** — [Homepage](http://www.cs.cornell.edu/~jgm) ·
 [Scholar](https://scholar.google.com/citations?user=Dswus94AAAAJ)
@@ -1981,7 +1978,7 @@ Application deadline: ?
 - Research: type systems, compilers, memory management, language-based security,
   formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Justin Hsu** — [Homepage](https://justinh.su) ·
 [Scholar](https://scholar.google.com/citations?user=HsfKE0sAAAAJ) ·
@@ -1991,11 +1988,11 @@ Application deadline: ?
   separation logic, program analysis, language design, functional programming,
   language-based security, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 ### Georgia Institute of Technology
 
-Application deadline: ?
+Application deadline:❔
 
 **Jacob Laurel** — [Homepage](https://jsl1994.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=5F3KT14AAAAJ) ·
@@ -2004,7 +2001,7 @@ Application deadline: ?
 - Research: static analysis, object-oriented programming, probabilistic
   programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Qirun Zhang** — [Homepage](http://helloqirun.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=u0TKjhIAAAAJ) ·
@@ -2012,15 +2009,15 @@ Application deadline: ?
 
 - Research: program analysis, static analysis, compilers, language design
 
-- Taking students: ?
+- Taking students:❔
 
 **Santosh Pande** — [Homepage](http://www.cc.gatech.edu/fac/Santosh.Pande) ·
 [Scholar](https://scholar.google.com/citations?user=d6vL_ZkAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-6723-8062)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Vivek Sarkar** — [Homepage](http://vsarkar.cc.gatech.edu) ·
 [Scholar](https://scholar.google.com/citations?user=XjeIqxYAAAAJ) ·
@@ -2028,11 +2025,11 @@ Application deadline: ?
 
 - Research: compilers, language implementation
 
-- Taking students: ?
+- Taking students:❔
 
 ### Harvard University
 
-Application deadline: ?
+Application deadline:❔
 
 **Nada Amin** — [Homepage](http://namin.net) ·
 [Scholar](https://scholar.google.com/citations?user=9cGEmcgAAAAJ) ·
@@ -2040,7 +2037,7 @@ Application deadline: ?
 
 - Research: program synthesis, metaprogramming, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Stephen Chong** — [Homepage](http://people.seas.harvard.edu/~chong) ·
 [Scholar](https://scholar.google.com/citations?user=5bxyMBwAAAAJ) ·
@@ -2048,19 +2045,19 @@ Application deadline: ?
 
 - Research: compilers, language-based security
 
-- Taking students: ?
+- Taking students:❔
 
 ### [Wonks @ Indiana University](http://wonks.github.io/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Amr Sabry** — [Homepage](http://www.cs.indiana.edu/~sabry) ·
 [Scholar](https://scholar.google.com/citations?user=dYGSG4EAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1025-7331)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Carlo Angiuli** — [Homepage](https://www.carloangiuli.com) ·
 [Scholar](https://scholar.google.com/citations?user=eM1H0SwAAAAJ) ·
@@ -2069,15 +2066,15 @@ Application deadline: ?
 - Research: type theory, dependent types, type systems, proof assistants,
   functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Chung-chieh Shan** — [Homepage](http://homes.soic.indiana.edu/ccshan) ·
 [Scholar](https://scholar.google.com/citations?user=3L1yQeQAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-0339-6405)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Jeremy G. Siek** — [Homepage](http://wphomes.soic.indiana.edu/jsiek) ·
 [Scholar](https://scholar.google.com/citations?user=Vuso8H8AAAAJ) ·
@@ -2087,7 +2084,7 @@ Application deadline: ?
   specific languages, functional programming, metaprogramming, language
   semantics, language-based security
 
-- Taking students: ?
+- Taking students:❔
 
 **Sam Tobin-Hochstadt** — [Homepage](http://www.ccs.neu.edu/home/samth) ·
 [Scholar](https://scholar.google.com/citations?user=vMSSQbAAAAAJ) ·
@@ -2096,11 +2093,11 @@ Application deadline: ?
 - Research: gradual typing, type systems, program analysis, language design,
   functional programming, object-oriented programming, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PL @ Massachusetts Inst. of Technology](http://projects.csail.mit.edu/pl/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Adam Chlipala** — [Homepage](http://adam.chlipala.net) ·
 [Scholar](https://scholar.google.com/citations?user=Imh0w3AAAAAJ) ·
@@ -2110,7 +2107,7 @@ Application deadline: ?
   assistants, program analysis, compilers, language design, functional
   programming, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 **Armando Solar-Lezama** — [Homepage](https://people.csail.mit.edu/asolar) ·
 [Scholar](https://scholar.google.com/citations?user=8BX3BokAAAAJ) ·
@@ -2119,7 +2116,7 @@ Application deadline: ?
 - Research: type systems, model checking, automated reasoning, program analysis,
   static analysis, program synthesis, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Michael Carbin** — [Homepage](http://people.csail.mit.edu/mcarbin) ·
 [Scholar](https://scholar.google.com/citations?user=mtejbKYAAAAJ) ·
@@ -2128,7 +2125,7 @@ Application deadline: ?
 - Research: program analysis, language design, functional programming,
   object-oriented programming, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Rachit Nigam** — [Homepage](https://rachit.pl) ·
 [Scholar](https://scholar.google.com/citations?user=RNL2GjEAAAAJ) ·
@@ -2136,7 +2133,7 @@ Application deadline: ?
 
 - Research: compilers, domain specific languages
 
-- Taking students: ?
+- Taking students:❔
 
 **Saman P. Amarasinghe** — [Homepage](http://people.csail.mit.edu/saman) ·
 [Scholar](https://scholar.google.com/citations?user=cF6i_goAAAAJ) ·
@@ -2145,18 +2142,18 @@ Application deadline: ?
 - Research: compilers, language implementation, language design, domain specific
   languages
 
-- Taking students: ?
+- Taking students:❔
 
 ### [ACSys @ New York University](https://cs.nyu.edu/acsys/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Dennis E. Shasha** — [Homepage](http://cs.nyu.edu/shasha) ·
 [Scholar](https://scholar.google.com/citations?user=UQ9Ws6wAAAAJ)
 
 - Research: concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 **Joseph Tassarotti** — [Homepage](https://cs.nyu.edu/~jt4767) ·
 [Scholar](https://scholar.google.com/citations?user=zNvgsXAAAAAJ) ·
@@ -2165,7 +2162,7 @@ Application deadline: ?
 - Research: formal methods, separation logic, program synthesis, concurrency,
   distributed systems, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Patrick Cousot** — [Homepage](http://cs.nyu.edu/~pcousot) ·
 [Scholar](https://scholar.google.com/citations?user=mhlvI8wAAAAJ) ·
@@ -2174,7 +2171,7 @@ Application deadline: ?
 - Research: program verification, model checking, program analysis, static
   analysis, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Sam Westrick** — [Homepage](https://cs.nyu.edu/~shw8119) ·
 [Scholar](https://scholar.google.com/citations?user=RVeOcIgAAAAJ) ·
@@ -2183,7 +2180,7 @@ Application deadline: ?
 - Research: separation logic, memory management, functional programming,
   parallel programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Thomas Wies** — [Homepage](http://cs.nyu.edu/wies) ·
 [Scholar](https://scholar.google.com/citations?user=IzLlyzsAAAAJ) ·
@@ -2193,11 +2190,11 @@ Application deadline: ?
   theorem provers, separation logic, program analysis, static analysis, language
   design, functional programming, object-oriented programming, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PRL @ Northeastern University](https://prl.ccs.neu.edu)
 
-Application deadline: ?
+Application deadline:❔
 
 **Amal Ahmed** — [Homepage](http://www.ccs.neu.edu/home/amal) ·
 [Scholar](https://scholar.google.com/citations?user=Y1C007wAAAAJ) ·
@@ -2208,7 +2205,7 @@ Application deadline: ?
   object-oriented programming, concurrency, formal methods, probabilistic
   programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Arjun Guha** — [Homepage](http://ccs.neu.edu/~arjunguha/main/home) ·
 [Scholar](https://scholar.google.com/citations?user=yMU0f9EAAAAJ) ·
@@ -2216,7 +2213,7 @@ Application deadline: ?
 
 - Research: program verification, program synthesis, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Chris Martens** — [Homepage](https://www.convivial.tools/) ·
 [Scholar](https://scholar.google.com/citations?user=0sbHKBIAAAAJ) ·
@@ -2224,7 +2221,7 @@ Application deadline: ?
 
 - Research: proof assistants, type systems, language design, logic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Frank Tip** — [Homepage](http://www.franktip.org) ·
 [Scholar](https://scholar.google.com/citations?user=siQDY4gAAAAJ) ·
@@ -2232,7 +2229,7 @@ Application deadline: ?
 
 - Research: program analysis, static analysis, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Jan Vitek** — [Homepage](https://www.khoury.northeastern.edu/people/jan-vitek)
 · [Scholar](https://scholar.google.com/citations?user=Ws0GjboAAAAJ) ·
@@ -2241,14 +2238,14 @@ Application deadline: ?
 - Research: type systems, gradual typing, program analysis, compilers, memory
   management
 
-- Taking students: ?
+- Taking students:❔
 
 **Joshua Gancher** — [Homepage](https://gancher.dev) ·
 [ORCID](https://orcid.org/0000-0003-2257-7073)
 
 - Research: proof assistants, distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Olin Shivers** — [Homepage](http://www.ccs.neu.edu/home/shivers) ·
 [Scholar](https://scholar.google.com/citations?user=4FcaMpgAAAAJ) ·
@@ -2256,7 +2253,7 @@ Application deadline: ?
 
 - Research: compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Steven Holtzen** —
 [Homepage](https://www.khoury.northeastern.edu/home/sholtzen) ·
@@ -2266,19 +2263,19 @@ Application deadline: ?
 - Research: type systems, program verification, automated reasoning, separation
   logic, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 ### Northwestern University
 
-Application deadline: ?
+Application deadline:❔
 
 **Christos Dimoulas** — [Homepage](http://users.eecs.northwestern.edu/~chrdimo)
 · [Scholar](https://scholar.google.com/citations?user=mFs4fikAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9338-7034)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Robert Bruce Findler** — [Homepage](https://www.eecs.northwestern.edu/~robby)
 · [Scholar](https://scholar.google.com/citations?user=eBqftc8AAAAJ) ·
@@ -2286,11 +2283,11 @@ Application deadline: ?
 
 - Research: formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 ### Ohio State University
 
-Application deadline: ?
+Application deadline:❔
 
 **Michael D. Bond** — [Homepage](https://mdbond.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=zoBZ_FMAAAAJ) ·
@@ -2298,11 +2295,11 @@ Application deadline: ?
 
 - Research: security
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PL @ Princeton University](http://pl.cs.princeton.edu/)
 
-Application deadline: ?
+Application deadline:❔
 
 **David Walker** — [Homepage](http://www.cs.princeton.edu/~dpw) ·
 [Scholar](https://scholar.google.com/citations?user=UEI2g60AAAAJ) ·
@@ -2310,7 +2307,7 @@ Application deadline: ?
 
 - Research: language design, functional programming, language-based security
 
-- Taking students: ?
+- Taking students:❔
 
 **Mae Milano** — [Homepage](https://www.cs.princeton.edu/~mpmilano) ·
 [Scholar](https://scholar.google.com/citations?user=1XP8XcAAAAAJ) ·
@@ -2319,7 +2316,7 @@ Application deadline: ?
 - Research: compilers, language design, functional programming, concurrency,
   distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Zachary Kincaid** — [Homepage](http://www.cs.princeton.edu/~zkincaid) ·
 [Scholar](https://scholar.google.com/citations?user=uT9We9MAAAAJ) ·
@@ -2328,19 +2325,19 @@ Application deadline: ?
 - Research: model checking, automated reasoning, program analysis,
   object-oriented programming, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PurPL @ Purdue University](https://purpl.cs.purdue.edu/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Benjamin Delaware** — [Homepage](https://www.cs.purdue.edu/homes/bendy) ·
 [Scholar](https://scholar.google.com/citations?user=VS21MfgAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1016-6261)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Milind Kulkarni** — [Homepage](https://engineering.purdue.edu/~milind) ·
 [Scholar](https://scholar.google.com/citations?user=o3wWRZMAAAAJ) ·
@@ -2348,7 +2345,7 @@ Application deadline: ?
 
 - Research: compilers, object-oriented programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Suresh Jagannathan** — [Homepage](https://www.cs.purdue.edu/homes/suresh) ·
 [Scholar](https://scholar.google.com/citations?user=bqkhX54AAAAJ) ·
@@ -2357,7 +2354,7 @@ Application deadline: ?
 - Research: type systems, program verification, language design, functional
   programming, object-oriented programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Tiark Rompf** — [Homepage](http://tiarkrompf.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=L8zhVsMAAAAJ) ·
@@ -2365,23 +2362,23 @@ Application deadline: ?
 
 - Research: proof assistants, program analysis, compilers, metaprogramming
 
-- Taking students: ?
+- Taking students:❔
 
 ### Rice University
 
-Application deadline: ?
+Application deadline:❔
 
 **Konstantinos Mamouras** — [Homepage](https://kmamouras.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=ZvY6VHsAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-1209-7738)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### Rutgers University
 
-Application deadline: ?
+Application deadline:❔
 
 **He Zhu** — [Homepage](http://herowanzhu.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=3X9GC2gAAAAJ) ·
@@ -2390,7 +2387,7 @@ Application deadline: ?
 - Research: refinement types, model checking, static analysis, program
   synthesis, compilers, language design, functional programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Santosh Nagarakatte** —
 [Homepage](https://www.cs.rutgers.edu/~santosh.nagarakatte) ·
@@ -2401,18 +2398,18 @@ Application deadline: ?
   management, language design, object-oriented programming, parallel
   programming, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 ### Stanford University
 
-Application deadline: ?
+Application deadline:❔
 
 **Alex Aiken** — [Homepage](https://theory.stanford.edu/~aiken) ·
 [Scholar](https://scholar.google.com/citations?user=3vKjkoQAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-3723-9555)
 
 - Research: compilers, language design
-- Taking students: ?
+- Taking students:❔
 
 **Fredrik Kjolstad** — [Homepage](https://fredrikbk.com) ·
 [Scholar](https://scholar.google.com/citations?user=bCCxZ28AAAAJ) ·
@@ -2421,19 +2418,19 @@ Application deadline: ?
 - Research: compilers, language implementation, language design, parallel
   programming, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 ### Stevens Institute of Technology
 
-Application deadline: ?
+Application deadline:❔
 
 **Eric Koskinen** — [Homepage](http://www.erickoskinen.com) ·
 [Scholar](https://scholar.google.com/citations?user=XUhd_LwAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7363-634X)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Michael Greenberg** — [Homepage](https://mgree.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=_LSrWlwAAAAJ) ·
@@ -2442,20 +2439,20 @@ Application deadline: ?
 - Research: gradual typing, static analysis, compilers, functional programming,
   formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 ### [TUPL @ Tufts University](https://tupl.cs.tufts.edu/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Guannan Wei** —
 [Homepage](https://engineering.tufts.edu/cs/people/faculty/guannan-wei) ·
 [Scholar](https://scholar.google.com/citations?user=b_6L2goAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-3150-2033)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Jeffrey S. Foster** — [Homepage](http://www.cs.umd.edu/~jfoster) ·
 [Scholar](https://scholar.google.com/citations?user=QWPwfsgAAAAJ) ·
@@ -2464,11 +2461,11 @@ Application deadline: ?
 - Research: program analysis, static analysis, program synthesis, compilers,
   language-based security, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 ### [Univ. of California - Berkeley](https://eecs.berkeley.edu/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Max Willsey** — [Homepage](https://www.mwillsey.com) ·
 [Scholar](https://scholar.google.com/citations?user=zko9-RwAAAAJ) ·
@@ -2477,18 +2474,18 @@ Application deadline: ?
 - Research: e-graphs, automated reasoning, program analysis, compilers, logic
   programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Sarah E. Chasins** — [Homepage](https://schasins.com) ·
 [ORCID](https://orcid.org/0000-0003-0557-3580)
 
 - Research: program synthesis, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 ### Univ. of California - Davis
 
-Application deadline: ?
+Application deadline:❔
 
 **Caleb Stanford** — [Homepage](https://web.cs.ucdavis.edu/~cdstanford) ·
 [Scholar](https://scholar.google.com/citations?user=VDFGNZ0AAAAJ) ·
@@ -2496,11 +2493,11 @@ Application deadline: ?
 
 - Research: distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 ### [Univ. of California - Los Angeles](http://www.cs.ucla.edu/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Guoqing Harry Xu** — [Homepage](http://www.cs.ucla.edu/~harryxu) ·
 [Scholar](https://scholar.google.com/citations?user=DS6rCasAAAAJ) ·
@@ -2509,7 +2506,7 @@ Application deadline: ?
 - Research: static analysis, compilers, object-oriented programming, distributed
   systems, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Jens Palsberg** — [Homepage](http://www.cs.ucla.edu/~palsberg) ·
 [Scholar](https://scholar.google.com/citations?user=Gx8Rpr4AAAAJ) ·
@@ -2517,7 +2514,7 @@ Application deadline: ?
 
 - Research: compilers, language design, quantum computing, quantum programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Konstantinos Kallas** — [Homepage](https://angelhof.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=VD4P3FoAAAAJ) ·
@@ -2525,7 +2522,7 @@ Application deadline: ?
 
 - Research: static analysis, compilers, distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Todd D. Millstein** — [Homepage](http://www.cs.ucla.edu/~todd) ·
 [Scholar](https://scholar.google.com/citations?user=u_tOExoAAAAJ) ·
@@ -2534,19 +2531,19 @@ Application deadline: ?
 - Research: type systems, program verification, automated reasoning, interactive
   theorem provers, property-based testing, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Yisu Remy Wang** — [Homepage](https://remy.wang) ·
 [Scholar](https://scholar.google.com/citations?user=leLJqREAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-6887-9395)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### Univ. of California - Riverside
 
-Application deadline: ?
+Application deadline:❔
 
 **Jay P. Lim** — [Homepage](https://dongura.me) ·
 [Scholar](https://scholar.google.com/citations?user=5oKUbqoAAAAJ) ·
@@ -2554,7 +2551,7 @@ Application deadline: ?
 
 - Research: compilers, language design
 
-- Taking students: ?
+- Taking students:❔
 
 **Manu Sridharan** — [Homepage](https://manu.sridharan.net) ·
 [Scholar](https://scholar.google.com/citations?user=iNtk_EQAAAAJ) ·
@@ -2562,11 +2559,11 @@ Application deadline: ?
 
 - Research: static analysis
 
-- Taking students: ?
+- Taking students:❔
 
 ### [ProgSys @ Univ. of California - San Diego](https://cseweb.ucsd.edu/groups/progsys/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Deian Stefan** — [Homepage](https://cseweb.ucsd.edu/~dstefan) ·
 [Scholar](https://scholar.google.com/citations?user=qTVj7nwAAAAJ) ·
@@ -2576,7 +2573,7 @@ Application deadline: ?
   implementation, language design, functional programming, language-based
   security, memory management
 
-- Taking students: ?
+- Taking students:❔
 
 **Loris D'Antoni** — [Homepage](https://cseweb.ucsd.edu/~ldantoni) ·
 [Scholar](https://scholar.google.com/citations?user=ao8EeJ8AAAAJ) ·
@@ -2585,7 +2582,7 @@ Application deadline: ?
 - Research: static analysis, program synthesis, compilers, language-based
   security, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Michael J. Coblenz** — [Homepage](https://cseweb.ucsd.edu/~mcoblenz) ·
 [Scholar](https://scholar.google.com/citations?user=sKuY6fIAAAAJ) ·
@@ -2594,7 +2591,7 @@ Application deadline: ?
 - Research: type systems, formal methods, static analysis, memory management,
   language design, functional programming, property-based testing
 
-- Taking students: ?
+- Taking students:❔
 
 **Nadia Polikarpova** — [Homepage](https://cseweb.ucsd.edu/~npolikarpova) ·
 [Scholar](https://scholar.google.com/citations?user=CxzUX0EAAAAJ) ·
@@ -2604,7 +2601,7 @@ Application deadline: ?
   synthesis, compilers, functional programming, object-oriented programming,
   language-based security, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Ranjit Jhala** — [Homepage](https://ranjitjhala.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=H3wb878AAAAJ) ·
@@ -2612,26 +2609,26 @@ Application deadline: ?
 
 - Research: refinement types, model checking, program analysis, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Sorin Lerner** — [Homepage](http://cseweb.ucsd.edu/~lerner) ·
 [Scholar](https://scholar.google.com/citations?user=C6Pd5zoAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-3957-0628)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### Univ. of California - Santa Barbara
 
-Application deadline: ?
+Application deadline:❔
 
 **Ben Hardekopf** — [Homepage](http://www.cs.ucsb.edu/~benh) ·
 [ORCID](https://orcid.org/0009-0008-1199-6129)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Yu Feng** — [Homepage](http://fredfeng.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=urQ9fNgAAAAJ) ·
@@ -2641,11 +2638,11 @@ Application deadline: ?
   automated reasoning, program verification, static analysis, program analysis,
   program synthesis, compilers, language semantics
 
-- Taking students: ?
+- Taking students:❔
 
 ### [Univ. of California - Santa Cruz](https://lsd.ucsc.edu/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Cormac Flanagan** — [Homepage](https://users.soe.ucsc.edu/~cormac) ·
 [Scholar](https://scholar.google.com/citations?user=XkiApd4AAAAJ) ·
@@ -2654,7 +2651,7 @@ Application deadline: ?
 - Research: refinement types, gradual typing, model checking, program analysis,
   language design, concurrency, language-based security, formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 **Lindsey Kuper** — [Homepage](https://users.soe.ucsc.edu/~lkuper) ·
 [Scholar](https://scholar.google.com/citations?user=TNqlmxEAAAAJ) ·
@@ -2664,7 +2661,7 @@ Application deadline: ?
   language design, functional programming, parallel programming, concurrency,
   distributed systems, program verification
 
-- Taking students: ?
+- Taking students:❔
 
 **Mohsen Lesani** — [Homepage](https://mohsenlesani.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=cVLicJYAAAAJ) ·
@@ -2681,13 +2678,13 @@ Application deadline: ?
 [Scholar](https://scholar.google.com/citations?user=Ax7ebzoAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-1646-7935)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### Univ. of Illinois at Urbana-Champaign
 
-Application deadline: ?
+Application deadline:❔
 
 **Charith Mendis** — [Homepage](https://charithmendis.com) ·
 [Scholar](https://scholar.google.com/citations?user=utZ3JYUAAAAJ) ·
@@ -2695,7 +2692,7 @@ Application deadline: ?
 
 - Research: compilers, language semantics
 
-- Taking students: ?
+- Taking students:❔
 
 **Gagandeep Singh** — [Homepage](https://ggndpsngh.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=m4b2ruEAAAAJ) ·
@@ -2703,7 +2700,7 @@ Application deadline: ?
 
 - Research: automated reasoning, program analysis, static analysis, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Grigore Rosu** — [Homepage](https://fsl.cs.illinois.edu/people/grigore-rosu) ·
 [Scholar](https://scholar.google.com/citations?user=yxpqbdQAAAAJ) ·
@@ -2711,15 +2708,15 @@ Application deadline: ?
 
 - Research: static analysis, language design
 
-- Taking students: ?
+- Taking students:❔
 
 **Mahesh Viswanathan** — [Homepage](http://vmahesh.cs.illinois.edu) ·
 [Scholar](https://scholar.google.com/citations?user=nztNRM0AAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7977-0080)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **P. Madhusudan** — [Homepage](http://madhu.cs.illinois.edu) ·
 [Scholar](https://scholar.google.com/citations?user=V828uG8AAAAJ) ·
@@ -2727,16 +2724,16 @@ Application deadline: ?
 
 - Research: program synthesis, security, model checking
 
-- Taking students: ?
+- Taking students:❔
 
 **Sasa Misailovic** —
 [Homepage](http://illinois.edu/calendar/detail/2568/32614650) ·
 [Scholar](https://scholar.google.com/citations?user=3qJQjIYAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7319-8845)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Talia Ringer** — [Homepage](https://dependenttyp.es) ·
 [Scholar](https://scholar.google.com/citations?user=JCJzlXsAAAAJ) ·
@@ -2745,7 +2742,7 @@ Application deadline: ?
 - Research: type theory, formal methods, automated reasoning, proof assistants,
   compilers, interactive theorem provers, dependent types
 
-- Taking students: ?
+- Taking students:❔
 
 **Vikram S. Adve** — [Homepage](https://vikram.cs.illinois.edu) ·
 [Scholar](https://scholar.google.com/citations?user=VbruE20AAAAJ) ·
@@ -2753,7 +2750,7 @@ Application deadline: ?
 
 - Research: compilers, parallel programming, memory management
 
-- Taking students: ?
+- Taking students:❔
 
 **William S. Moses** — [Homepage](https://wsmoses.com) ·
 [Scholar](https://scholar.google.com/citations?user=tPC00zwAAAAJ) ·
@@ -2765,7 +2762,7 @@ Application deadline: ?
 
 ### [PLUM @ Univ. of Maryland - College Park](https://plum-umd.github.io/)
 
-Application deadline: ?
+Application deadline:❔
 
 **David Van Horn** — [Homepage](http://www.cs.umd.edu/~dvanhorn) ·
 [Scholar](https://scholar.google.com/citations?user=9ZM8OlMAAAAJ) ·
@@ -2774,7 +2771,7 @@ Application deadline: ?
 - Research: gradual typing, automated reasoning, program analysis, static
   analysis, program synthesis, Racket
 
-- Taking students: ?
+- Taking students:❔
 
 **Leonidas Lampropoulos** — [Homepage](https://lemonidas.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=JNUvp5kAAAAJ) ·
@@ -2782,19 +2779,19 @@ Application deadline: ?
 
 - Research: property-based testing, functional programming, type systems
 
-- Taking students: ?
+- Taking students:❔
 
 **Milijana Surbatovich** — [Homepage](https://www.cs.umd.edu/people/milijana) ·
 [Scholar](https://scholar.google.com/citations?user=fv2u3RcAAAAJ) ·
 [ORCID](https://orcid.org/0009-0004-6948-6683)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 ### University at Buffalo
 
-Application deadline: ?
+Application deadline:❔
 
 **Andrew K. Hirsch** — [Homepage](https://cse.buffalo.edu/~akhirsch) ·
 [Scholar](https://scholar.google.com/citations?user=VMu58x0AAAAJ) ·
@@ -2802,7 +2799,7 @@ Application deadline: ?
 
 - Research: language design, language implementation, choreographic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Harrison Goldstein** — [Homepage](https://harrisongoldste.in/) ·
 [Scholar](https://scholar.google.com/citations?user=CYSX6tgAAAAJ) ·
@@ -2810,15 +2807,15 @@ Application deadline: ?
 
 - Research: metaprogramming, property-based testing, probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Lukasz Ziarek** — [Homepage](https://cse.buffalo.edu/~lziarek) ·
 [Scholar](https://scholar.google.com/citations?user=hKkEZ7oAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-4353-1998)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Qianchuan Ye** — [Homepage](https://cse.buffalo.edu/~qcye) ·
 [Scholar](https://scholar.google.com/citations?user=IZisiCwAAAAJ) ·
@@ -2831,7 +2828,7 @@ Application deadline: ?
 
 ### University of Chicago
 
-Application deadline: ?
+Application deadline:❔
 
 **John H. Reppy** — [Homepage](http://people.cs.uchicago.edu/~jhr) ·
 [Scholar](https://scholar.google.com/citations?user=hz1S-asAAAAJ) ·
@@ -2839,7 +2836,7 @@ Application deadline: ?
 
 - Research: language design, language implementation, parallel programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Ravi Chugh** — [Homepage](https://people.cs.uchicago.edu/~rchugh/) ·
 [Scholar](https://scholar.google.com/citations?user=DKuq2fIAAAAJ) ·
@@ -2848,7 +2845,7 @@ Application deadline: ?
 - Research: HCI, live programming, domain specific languages, functional
   programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Robert Rand** — [Homepage](http://rand.cs.uchicago.edu) ·
 [Scholar](https://scholar.google.com/citations?user=jYrnZVwAAAAJ) ·
@@ -2857,7 +2854,7 @@ Application deadline: ?
 - Research: type systems, formal methods, program analysis, quantum computing,
   quantum programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Shan Lu** — [Homepage](https://people.cs.uchicago.edu/~shanlu/) ·
 [Scholar](https://scholar.google.com/citations?user=5qSIhVkAAAAJ) ·
@@ -2865,11 +2862,11 @@ Application deadline: ?
 
 - Research: program analysis, software verification, systems
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Colorado Boulder
 
-Application deadline: ?
+Application deadline:❔
 
 **Bor-Yuh Evan Chang** — [Homepage](http://www.cs.colorado.edu/~bec) ·
 [Scholar](https://scholar.google.com/citations?user=wg3lXyYAAAAJ) ·
@@ -2877,7 +2874,7 @@ Application deadline: ?
 
 - Research: automated reasoning
 
-- Taking students: ?
+- Taking students:❔
 
 **Gowtham Kaki** — [Homepage](https://gowthamk.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=d3JzmN4AAAAJ) ·
@@ -2886,11 +2883,11 @@ Application deadline: ?
 - Research: dependent types, program synthesis, language design, domain specific
   languages, functional programming, concurrency, distributed systems
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Connecticut
 
-Application deadline: ?
+Application deadline:❔
 
 **Stefan K. Muller** — [Homepage](https://smuller.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=vM6V_aMAAAAJ) ·
@@ -2899,11 +2896,11 @@ Application deadline: ?
 - Research: language design, type systems, static resource analysis, parallel
   programming
 
-- Taking students: ?
+- Taking students:❔
 
 ### [CLC @ University of Iowa](https://clc.cs.uiowa.edu/site/)
 
-Application deadline: ?
+Application deadline:❔
 
 **J. Garrett Morris** — [Homepage](https://jgbm.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=PZIdxNgAAAAJ) ·
@@ -2911,11 +2908,11 @@ Application deadline: ?
 
 - Research: type systems
 
-- Taking students: ?
+- Taking students:❔
 
 ### [University of Massachusetts Lowell](https://cs.uml.edu)
 
-Application deadline: ?
+Application deadline:❔
 
 **Matteo Cimini** — [Homepage](http://cimini.info) ·
 [Scholar](https://scholar.google.com/citations?user=nq6IfV4AAAAJ) ·
@@ -2924,7 +2921,7 @@ Application deadline: ?
 - Research: formal methods, type systems, gradual typing, interactive theorem
   provers, concurrency
 
-- Taking students: ?
+- Taking students:❔
 
 **Paul Downen** — [Homepage](https://pauldownen.com) ·
 [Scholar](https://scholar.google.com/citations?user=mJ_eET8AAAAJ) ·
@@ -2932,11 +2929,11 @@ Application deadline: ?
 
 - Research: language semantics, language design, language implementation
 
-- Taking students: ?
+- Taking students:❔
 
 ### [MPLSE @ University of Michigan](http://mplse.org/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Cyrus Omar** — [Homepage](https://web.eecs.umich.edu/~comar) ·
 [Scholar](https://scholar.google.com/citations?user=yiRAVJoAAAAJ) ·
@@ -2944,7 +2941,7 @@ Application deadline: ?
 
 - Research: proof assistants, live programming, functional programming, HCI
 
-- Taking students: ?
+- Taking students:❔
 
 **Max S. New** — [Homepage](http://maxsnew.com) ·
 [Scholar](https://scholar.google.com/citations?user=Mvl9hhEAAAAJ) ·
@@ -2952,7 +2949,7 @@ Application deadline: ?
 
 - Research: category theory
 
-- Taking students: ?
+- Taking students:❔
 
 **Xinyu Wang** — [Homepage](https://web.eecs.umich.edu/~xwangsd) ·
 [Scholar](https://scholar.google.com/citations?user=mvasb5AAAAAJ) ·
@@ -2960,11 +2957,11 @@ Application deadline: ?
 
 - Research: formal methods
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PLClub @ University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Benjamin C. Pierce** — [Homepage](http://www.cis.upenn.edu/~bcpierce) ·
 [Scholar](https://scholar.google.com/citations?user=2kkddh0AAAAJ) ·
@@ -2973,7 +2970,7 @@ Application deadline: ?
 - Research: type systems, type theory, property-based testing, interactive
   theorem provers
 
-- Taking students: ?
+- Taking students:❔
 
 **Mayur Naik** — [Homepage](http://www.cis.upenn.edu/~mhnaik) ·
 [Scholar](https://scholar.google.com/citations?user=fmsV6nEAAAAJ) ·
@@ -2982,22 +2979,22 @@ Application deadline: ?
 - Research: program verification, program analysis, program synthesis, language
   design
 
-- Taking students: ?
+- Taking students:❔
 
 **Michael Hicks** — [Homepage](https://mhicks.me) ·
 [Scholar](https://scholar.google.com/citations?user=Gggzp7UAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-2759-9223)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Stephanie Weirich** — [Homepage](https://www.cis.upenn.edu/~sweirich) ·
 [ORCID](https://orcid.org/0000-0002-6756-9168)
 
 - Research: type systems, dependent types
 
-- Taking students: ?
+- Taking students:❔
 
 **Steve Zdancewic** — [Homepage](http://www.cis.upenn.edu/~stevez) ·
 [Scholar](https://scholar.google.com/citations?user=19kNRU0AAAAJ) ·
@@ -3006,11 +3003,11 @@ Application deadline: ?
 - Research: linear types, automated reasoning, program synthesis, compilers,
   functional programming, type theory
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Southern California
 
-Application deadline: ?
+Application deadline:❔
 
 **Mukund Raghothaman** — [Homepage](https://r-mukund.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=56YYqRcAAAAJ) ·
@@ -3019,11 +3016,11 @@ Application deadline: ?
 - Research: automated reasoning, program analysis, static analysis, program
   synthesis, domain specific languages
 
-- Taking students: ?
+- Taking students:❔
 
 ### University of Texas at Austin
 
-Application deadline: ?
+Application deadline:❔
 
 **Isil Dillig** — [Homepage](https://www.cs.utexas.edu/~isil) ·
 [Scholar](https://scholar.google.com/citations?user=Wlq5rZEAAAAJ) ·
@@ -3032,11 +3029,11 @@ Application deadline: ?
 - Research: type systems, automated reasoning, program synthesis, domain
   specific languages
 
-- Taking students: ?
+- Taking students:❔
 
 ### [CPU @ University of Utah](http://cpu.cs.utah.edu/)
 
-Application deadline: ?
+Application deadline:❔
 
 **Ben Greenman** — [Homepage](https://users.cs.utah.edu/~blg) ·
 [Scholar](https://scholar.google.com/citations?user=3A9hNTEAAAAJ) ·
@@ -3044,15 +3041,15 @@ Application deadline: ?
 
 - Research: gradual typing, language design, formal methods, HCI
 
-- Taking students: ?
+- Taking students:❔
 
 **John Regehr** — [Homepage](http://www.cs.utah.edu/~regehr) ·
 [Scholar](https://scholar.google.com/citations?user=yCv02hMAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7025-4610)
 
-- Research: ?
+- Research:❔
 
-- Taking students: ?
+- Taking students:❔
 
 **Matthew Flatt** — [Homepage](http://www.cs.utah.edu/~mflatt) ·
 [Scholar](https://scholar.google.com/citations?user=9sMIvdgAAAAJ) ·
@@ -3060,7 +3057,7 @@ Application deadline: ?
 
 - Research: Racket
 
-- Taking students: ?
+- Taking students:❔
 
 **Pavel Panchekha** — [Homepage](https://pavpanchekha.com) ·
 [Scholar](https://scholar.google.com/citations?user=dIOCe1UAAAAJ) ·
@@ -3068,11 +3065,11 @@ Application deadline: ?
 
 - Research: memory management
 
-- Taking students: ?
+- Taking students:❔
 
 ### [PLSE @ University of Washington](http://uwplse.org)
 
-Application deadline: ?
+Application deadline:❔
 
 **Dan Grossman** — [Homepage](http://homes.cs.washington.edu/~djg) ·
 [Scholar](https://scholar.google.com/citations?user=t9wtobkAAAAJ) ·
@@ -3080,7 +3077,7 @@ Application deadline: ?
 
 - Research: program analysis, program synthesis, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 **Zachary Tatlock** — [Homepage](https://homes.cs.washington.edu/~ztatlock) ·
 [Scholar](https://scholar.google.com/citations?user=jz2Tvk4AAAAJ) ·
@@ -3088,11 +3085,11 @@ Application deadline: ?
 
 - Research: formal methods, compilers
 
-- Taking students: ?
+- Taking students:❔
 
 ### [madPL @ University of Wisconsin - Madison](https://madpl.cs.wisc.edu)
 
-Application deadline: ?
+Application deadline:❔
 
 **Adithya Murali** — [Homepage](https://muraliadithya.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=Yw5Q_CgAAAAJ) ·
@@ -3100,7 +3097,7 @@ Application deadline: ?
 
 - Research: program verification, program synthesis
 
-- Taking students: ?
+- Taking students:❔
 
 **Aws Albarghouthi** — [Homepage](http://pages.cs.wisc.edu/~aws) ·
 [Scholar](https://scholar.google.com/citations?user=CUbC2zYAAAAJ) ·
@@ -3109,7 +3106,7 @@ Application deadline: ?
 - Research: program synthesis, compilers, program verification, quantum
   computing
 
-- Taking students: ?
+- Taking students:❔
 
 **Charles Yuan** — [Homepage](https://pages.cs.wisc.edu/~charlesyuan) ·
 [Scholar](https://scholar.google.com/citations?user=8eveKksAAAAJ) ·
@@ -3117,7 +3114,7 @@ Application deadline: ?
 
 - Research: quantum computing, quantum programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Ethan Cecchetti** — [Homepage](https://cecchetti.sites.cs.wisc.edu) ·
 [Scholar](https://scholar.google.com/citations?user=GoanxxoAAAAJ) ·
@@ -3125,7 +3122,7 @@ Application deadline: ?
 
 - Research: security
 
-- Taking students: ?
+- Taking students:❔
 
 **Thomas W. Reps** — [Homepage](http://pages.cs.wisc.edu/~reps) ·
 [Scholar](https://scholar.google.com/citations?user=pwhyTq0AAAAJ) ·
@@ -3133,11 +3130,11 @@ Application deadline: ?
 
 - Research: everything apparently
 
-- Taking students: ?
+- Taking students:❔
 
 ### Yale University
 
-Application deadline: ?
+Application deadline:❔
 
 **Alexander K. Lew** —
 [Homepage](https://engineering.yale.edu/research-and-faculty/faculty-directory/alex-lew)
@@ -3145,7 +3142,7 @@ Application deadline: ?
 
 - Research: probabilistic programming
 
-- Taking students: ?
+- Taking students:❔
 
 **Ruzica Piskac** — [Homepage](http://www.cs.yale.edu/~piskac) ·
 [Scholar](https://scholar.google.com/citations?user=71RQt3sAAAAJ) ·
@@ -3154,7 +3151,7 @@ Application deadline: ?
 - Research: program verification, security, automated reasoning, program
   synthesis
 
-- Taking students: ?
+- Taking students:❔
 
 **Zhong Shao** — [Homepage](http://www.cs.yale.edu/~shao) ·
 [Scholar](https://scholar.google.com/citations?user=9OukeycAAAAJ) ·
@@ -3163,4 +3160,4 @@ Application deadline: ?
 - Research: program verification, compilers, language design, concurrency,
   language-based security, formal methods
 
-- Taking students: ?
+- Taking students:❔
