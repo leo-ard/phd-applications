@@ -227,14 +227,6 @@ Application deadline:❔
 
 - Taking students:❔
 
-**Fan Long** — [Homepage](http://www.cs.toronto.edu/~fanl) ·
-[Scholar](https://scholar.google.com/citations?user=j6XdtXwAAAAJ) ·
-[ORCID](https://orcid.org/0000-0001-7973-1188)
-
-- Research: formal methods
-
-- Taking students:❔
-
 **Ningning Xie** — [Homepage](https://xnning.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=6DD_vkAAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-5961-1493)
