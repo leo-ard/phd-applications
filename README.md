@@ -709,7 +709,8 @@ Application deadline: ?
 
 Application deadline: ?
 
-**Guido Salvaneschi** — [Homepage](https://programming-group.com/members/salvaneschi) ·
+**Guido Salvaneschi** —
+[Homepage](https://programming-group.com/members/salvaneschi) ·
 [Scholar](https://scholar.google.com/citations?user=Hm0V7MUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9324-8894)
 
@@ -1048,8 +1049,7 @@ Application deadline: ?
 
 Application deadline: ?
 
-**Ilya Sergey** —
-[Homepage](https://ilyasergey.net/) ·
+**Ilya Sergey** — [Homepage](https://ilyasergey.net/) ·
 [Scholar](https://scholar.google.com/citations?user=oCIeffUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-4250-5392)
 
@@ -1344,12 +1344,20 @@ Application deadline: ?
 
 ### Heriot-Watt University
 
-**Filip Sieczkowski** —
-[Homepage](https://fsieczkowski.github.io/) ·
+**Filip Sieczkowski** — [Homepage](https://fsieczkowski.github.io/) ·
 [Scholar](https://scholar.google.com/citations?user=aNLxzEkAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-5011-3458)
 
 - Research: separation logic, language semantics, concurrency, effect handlers
+
+- Taking students: ?
+
+**James McKinna** —
+[Homepage](https://researchportal.hw.ac.uk/en/persons/james-mckinna) ·
+[Scholar](https://scholar.google.com/citations?user=_CjMNVsAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-6745-2560)
+
+- Research: ?
 
 - Taking students: ?
 
@@ -1638,6 +1646,36 @@ Application deadline: ?
 
 - Taking students: ?
 
+### University of Glasgow
+
+Application deadline: ?
+
+**Ornela Dardha** —
+[Homepage](https://www.dcs.gla.ac.uk/~ornela/index.html) ·
+[Scholar](https://scholar.google.com/citations?user=nXneHtMAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-9927-7875)
+
+- Research: ?
+
+- Taking students: ?
+
+**Simon Fowler** —
+[Homepage](https://simonjf.com/about/) ·
+[Scholar](https://scholar.google.com/citations?user=34hm_7UAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-5143-5475)
+
+- Research: ?
+
+- Taking students: ?
+
+**Simon J. Gay** —
+[Homepage](https://www.dcs.gla.ac.uk/~simon/) ·
+[Scholar](https://scholar.google.com/citations?user=5x7ArxsAAAAJ)
+
+- Research: ?
+
+- Taking students: ?
+
 ### [PLAS @ University of Kent](https://www.cs.kent.ac.uk/research/groups/plas/)
 
 Application deadline: ?
@@ -1713,6 +1751,50 @@ Application deadline: ?
 
 - Research: proof assistants, type theory, automated reasoning, language-based
   security
+
+- Taking students: ?
+
+### University of St Andrews
+
+Application deadline: ?
+
+**Edwin C. Brady** —
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/ecb10) ·
+[Scholar](https://scholar.google.com/citations?user=v1butH8AAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-9734-367X)
+
+- Research: ?
+
+- Taking students: ?
+
+### [MSP @ University of Strathclyde](https://msp.cis.strath.ac.uk/index.html)
+
+Application deadline: ?
+
+**Conor McBride** — [Homepage](http://strictlypositive.org/) ·
+[Scholar](https://scholar.google.com/citations?user=vO7qGKwAAAAJ) ·
+[ORCID](https://orcid.org/0000-0003-1487-0886)
+
+- Research: functional programming, type systems, dependent types, type theory,
+  Haskell
+
+- Taking students: ?
+
+**Fredrik Nordvall Forsberg** — [Homepage](https://fredriknf.com/) ·
+[Scholar](https://scholar.google.com/citations?user=-0ALlRsAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-6157-9288)
+
+- Research: category theory, constructive mathematics, type theory, dependent
+  types
+
+- Taking students: ?
+
+**Robert Atkey** — [Homepage](https://bentnib.org/) ·
+[Scholar](https://scholar.google.com/citations?user=0bo89OQAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-4414-5047)
+
+- Research: linear types, dependent types, type theory, type systems,
+  trustworthy AI
 
 - Taking students: ?
 
