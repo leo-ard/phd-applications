@@ -33,7 +33,7 @@ Inspired by and sourced from
 
 ## Australia
 
-### Australian National University
+### [Australian National University](https://comp.anu.edu.au/)
 
 Application deadline: ?
 
@@ -45,25 +45,25 @@ Application deadline: ?
 - Research: type systems, gradual typing, language design, language
   implementation
 
-- Taking students: ?
+- Taking students: ✅
 
-**Liam O'Connor** — [Homepage](https://comp.anu.edu.au/people/liam-oconnor) ·
+**Liam O'Connor** — [Homepage](https://liamoc.net/forest/index/index.xml) ·
 [Scholar](https://scholar.google.com/citations?user=PDIijq8AAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-2765-4269)
 
-- Research: ?
+- Research: property-based testing, language semantics, temporal logic
 
-- Taking students: ?
+- Taking students: ✅
 
 **Michael Norrish** — [Homepage](https://comp.anu.edu.au/people/michael-norrish)
 · [Scholar](https://scholar.google.com/citations?user=Ymd4ZfYAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-1163-8467)
 
-- Research: interactive theorem provers
+- Research: interactive theorem provers, language semantics
 
 - Taking students: ?
 
-### UNSW
+### [Trustworthy Systems @ UNSW](https://trustworthy.systems/)
 
 Application deadline: ?
 
@@ -77,7 +77,7 @@ Application deadline: ?
 
 ## Austria
 
-### IST Austria
+### [IST Austria](https://ista.ac.at/en/home/)
 
 Application deadline: ?
 
@@ -97,11 +97,11 @@ Application deadline: ?
 
 - Taking students: ?
 
-### TU Wien
+### [forsyte @ TU Wien](https://forsyte.at/)
 
 Application deadline: ?
 
-**Laura Kovács** — [Homepage](https://forsyte.at/people/kovacs) ·
+**Laura Kovács** — [Homepage](https://lkovacs.com/) ·
 [Scholar](https://scholar.google.com/citations?user=X4K5SpIAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-8299-2714)
 
@@ -111,7 +111,7 @@ Application deadline: ?
 
 ## Belgium
 
-### KU Leuven
+### [KU Leuven](https://wms.cs.kuleuven.be/cs/)
 
 Application deadline: ?
 
@@ -134,7 +134,7 @@ Application deadline: ?
 
 ## Canada
 
-### McGill University
+### [CLG @ McGill University](https://cs.mcgill.ca/~complogic/)
 
 Application deadline: ?
 
@@ -147,7 +147,7 @@ Application deadline: ?
 
 - Taking students: ?
 
-### Simon Fraser University
+### [Simon Fraser University](https://www.sfu.ca/fas/computing.html)
 
 Application deadline: ?
 
@@ -157,7 +157,7 @@ Application deadline: ?
 
 - Research: refinement types, program synthesis
 
-- Taking students: ?
+- Taking students: ✅
 
 **Yuepeng Wang** — [Homepage](https://www.cs.sfu.ca/~yuepeng) ·
 [Scholar](https://scholar.google.com/citations?user=SMln4gEAAAAJ) ·
@@ -165,7 +165,7 @@ Application deadline: ?
 
 - Research: formal methods, program verification, program synthesis
 
-- Taking students: ?
+- Taking students: ✅
 
 ### [SPL @ University of British Columbia](https://spl.cs.ubc.ca/)
 
@@ -247,14 +247,6 @@ Application deadline: ?
 ### [PLG @ University of Waterloo](https://plg.uwaterloo.ca/)
 
 Application deadline: ?
-
-**Arie Gurfinkel** — [Homepage](https://arieg.bitbucket.io) ·
-[Scholar](https://scholar.google.com/citations?user=WHTB3_MAAAAJ) ·
-[ORCID](https://orcid.org/0000-0002-5964-6792)
-
-- Research: automated reasoning
-
-- Taking students: ?
 
 **Ondrej Lhoták** — [Homepage](https://plg.uwaterloo.ca/~olhotak) ·
 [Scholar](https://scholar.google.com/citations?user=kLg3RgsAAAAJ) ·
@@ -377,7 +369,7 @@ Application deadline: ?
 
 - Taking students: ?
 
-### IT University of Copenhagen
+### [PLS @ IT University of Copenhagen](https://pls.itu.dk/)
 
 Application deadline: ?
 
@@ -401,8 +393,7 @@ Application deadline: ?
 
 Application deadline: ?
 
-**Dmitriy Traytel** —
-[Homepage](https://researchprofiles.ku.dk/en/persons/dmitriy-traytel) ·
+**Dmitriy Traytel** — [Homepage](https://traytel.bitbucket.io/) ·
 [Scholar](https://scholar.google.com/citations?user=MJppLgoAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7982-2768)
 
@@ -444,6 +435,18 @@ Application deadline: ?
 
 ## France
 
+### Aix-Marseille Université
+
+**Pierre Clairambault** —
+[Homepage](https://pageperso.lis-lab.fr/pierre.clairambault/) ·
+[Scholar](https://scholar.google.com/citations?user=hEYmcxwAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-3285-6028)
+
+- Research: language semantics, denotational semantics, linear logic,
+  concurrency, dependent types
+
+- Taking students: ?
+
 ### Ecole Normale Superieure
 
 Application deadline: ?
@@ -484,19 +487,6 @@ Application deadline: ?
 [ORCID](https://orcid.org/0000-0002-2875-6171)
 
 - Research: static analysis
-
-- Taking students: ?
-
-### Ecole Normale Superieure de Lyon
-
-Application deadline: ?
-
-**Pierre Clairambault** —
-[Homepage](http://perso.ens-lyon.fr/pierre.clairambault) ·
-[Scholar](https://scholar.google.com/citations?user=hEYmcxwAAAAJ) ·
-[ORCID](https://orcid.org/0000-0002-3285-6028)
-
-- Research: ?
 
 - Taking students: ?
 
@@ -581,7 +571,7 @@ Application deadline: ?
 
 ## Germany
 
-### CISPA Helmholtz Center
+### [CISPA Helmholtz Center](https://cispa.de/)
 
 Application deadline: ?
 
@@ -715,11 +705,11 @@ Application deadline: ?
 
 - Taking students: ?
 
-### TU Darmstadt
+### [PG @ TU Darmstadt](https://programming-group.com/)
 
 Application deadline: ?
 
-**Guido Salvaneschi** — [Homepage](http://www.guidosalvaneschi.com) ·
+**Guido Salvaneschi** — [Homepage](https://programming-group.com/members/salvaneschi) ·
 [Scholar](https://scholar.google.com/citations?user=Hm0V7MUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9324-8894)
 
@@ -893,7 +883,7 @@ Application deadline: ?
 
 - Taking students: ?
 
-### TU Delft
+### [PL Group @ TU Delft](https://pl.ewi.tudelft.nl/)
 
 Application deadline: ?
 
@@ -902,14 +892,6 @@ Application deadline: ?
 [ORCID](https://orcid.org/0000-0002-6786-4538)
 
 - Research: type theory, functional programming
-
-- Taking students: ?
-
-**Burcu Kulahcioglu Ozkan** — [Homepage](https://burcuku.github.io/home) ·
-[Scholar](https://scholar.google.com/citations?user=HwPJzFMAAAAJ) ·
-[ORCID](https://orcid.org/0000-0002-7038-165X)
-
-- Research: model checking, concurrency, distributed systems
 
 - Taking students: ?
 
@@ -964,7 +946,7 @@ Application deadline: ?
 
 ## Poland
 
-### University of Wroclaw
+### [University of Wroclaw](https://ii.uni.wroc.pl/)
 
 Application deadline: ?
 
@@ -972,20 +954,11 @@ Application deadline: ?
 [Scholar](https://scholar.google.com/citations?user=7lCF6cYAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1477-4635)
 
-- Research: functional programming
+- Research: functional programming, language semantics,
 
 - Taking students: ?
 
-**Filip Sieczkowski** —
-[Homepage](https://sites.google.com/a/cs.uni.wroc.pl/efes) ·
-[Scholar](https://scholar.google.com/citations?user=aNLxzEkAAAAJ) ·
-[ORCID](https://orcid.org/0000-0001-5011-3458)
-
-- Research: ?
-
-- Taking students: ?
-
-**Maciej Piróg** — [Homepage](https://www.cs.ox.ac.uk/people/maciej.pirog) ·
+**Maciej Piróg** — [Homepage](https://maciejpirog.github.io/) ·
 [Scholar](https://scholar.google.com/citations?user=xxwcLlAAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-5889-3388)
 
@@ -1046,7 +1019,7 @@ Application deadline: ?
 
 Application deadline: ?
 
-**C.-H. Luke Ong** — [Homepage](https://dr.ntu.edu.sg/entities/person/Luke-Ong)
+**C.-H. Luke Ong** — [Homepage](https://personal.ntu.edu.sg/luke.ong/index.html)
 · [Scholar](https://scholar.google.com/citations?user=gNFel3QAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7509-680X)
 
@@ -1071,12 +1044,12 @@ Application deadline: ?
 
 - Taking students: ?
 
-### National University of Singapore
+### [PLSE @ National University of Singapore](https://nus-plse.github.io/)
 
 Application deadline: ?
 
 **Ilya Sergey** —
-[Homepage](https://www.yale-nus.edu.sg/about/faculty/ilya-sergey) ·
+[Homepage](https://ilyasergey.net/) ·
 [Scholar](https://scholar.google.com/citations?user=oCIeffUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-4250-5392)
 
@@ -1178,9 +1151,9 @@ Application deadline: ?
 [Scholar](https://scholar.google.com/citations?user=g3TYhjcAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-0301-0872)
 
-- Research: separation logic, language design
+- Research: language design, program verification, probabilistic programming
 
-- Taking students: ?
+- Taking students: ✅
 
 ### Seoul National University
 
@@ -1368,6 +1341,17 @@ Application deadline: ?
 - Taking students: ?
 
 ## United Kingdom
+
+### Heriot-Watt University
+
+**Filip Sieczkowski** —
+[Homepage](https://fsieczkowski.github.io/) ·
+[Scholar](https://scholar.google.com/citations?user=aNLxzEkAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-5011-3458)
+
+- Research: separation logic, language semantics, concurrency, effect handlers
+
+- Taking students: ?
 
 ### Imperial College London
 
