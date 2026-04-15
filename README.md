@@ -35,7 +35,7 @@ Inspired by and sourced from
 
 ### [Australian National University](https://comp.anu.edu.au/)
 
-Application deadline:❔
+[Application deadline](https://study.anu.edu.au/apply/postgraduate-research): ❔
 
 **Fabian Muehlboeck** —
 [Homepage](https://users.cecs.anu.edu.au/~fabian.muehlboeck) ·
@@ -65,7 +65,8 @@ Application deadline:❔
 
 ### [Trustworthy Systems @ UNSW](https://trustworthy.systems/)
 
-Application deadline:❔
+[Application deadline](https://www.unsw.edu.au/study/how-to-apply/application-deadline-dates):
+Multiple (check link)
 
 **Thomas Sewell** — [Homepage](https://www.unsw.edu.au/staff/thomas-sewell) ·
 [Scholar](https://scholar.google.com/citations?user=Vn0Acv0AAAAJ) ·
@@ -79,7 +80,8 @@ Application deadline:❔
 
 ### [IST Austria](https://ista.ac.at/en/home/)
 
-Application deadline:❔
+[Application deadline](https://phd.pages.ist.ac.at/phd-application-admission/):
+January 8th
 
 **Krishnendu Chatterjee** — [Homepage](http://pub.ist.ac.at/~kchatterjee) ·
 [Scholar](https://scholar.google.com/citations?user=1kaW8bwAAAAJ) ·
@@ -99,7 +101,8 @@ Application deadline:❔
 
 ### [forsyte @ TU Wien](https://forsyte.at/)
 
-Application deadline:❔
+[Application deadline](https://www.tuwien.at/en/studies/admission/academic-calendar):
+Multiple (check link)
 
 **Laura Kovács** — [Homepage](https://lkovacs.com/) ·
 [Scholar](https://scholar.google.com/citations?user=X4K5SpIAAAAJ) ·
@@ -113,7 +116,8 @@ Application deadline:❔
 
 ### [KU Leuven](https://wms.cs.kuleuven.be/cs/)
 
-Application deadline:❔
+[Application deadline](https://www.kuleuven.be/english/apply/application-instructions/instructions-doctoral):
+Rolling (position-based)
 
 **Dominique Devriese** —
 [Homepage](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese) ·
@@ -136,7 +140,15 @@ Application deadline:❔
 
 ### [CLG @ McGill University](https://cs.mcgill.ca/~complogic/)
 
-Application deadline:❔
+[Application deadline](https://www.cs.mcgill.ca/graduate/future/deadline/):
+
+- Fall (International): December 15th
+
+- Fall (Domestic): February 15th
+
+- Winter (International): August 1st
+
+- Winter (Domestic): November 1st
 
 **Brigitte Pientka** — [Homepage](http://www.cs.mcgill.ca/~bpientka) ·
 [Scholar](https://scholar.google.com/citations?user=SX7AzekAAAAJ) ·
@@ -149,7 +161,11 @@ Application deadline:❔
 
 ### [Simon Fraser University](https://www.sfu.ca/fas/computing.html)
 
-Application deadline:❔
+[Application deadline](https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html):
+
+- Fall: January 19th
+
+- Spring: August 9th
 
 **Anders Miltner** — [Homepage](https://www.cs.sfu.ca/~miltner) ·
 [Scholar](https://scholar.google.com/citations?user=SzgX3_MAAAAJ) ·
@@ -169,7 +185,8 @@ Application deadline:❔
 
 ### [SPL @ University of British Columbia](https://spl.cs.ubc.ca/)
 
-Application deadline:❔
+[Application deadline](https://www.cs.ubc.ca/students/grad/admissions): December
+15th
 
 **Alexander J. Summers** — [Homepage](http://people.inf.ethz.ch/summersa) ·
 [Scholar](https://scholar.google.com/citations?user=q1bbqYEAAAAJ) ·
@@ -206,24 +223,17 @@ Application deadline:❔
 
 - Taking students:❔
 
-**Yuanhao Wei** — [Homepage](https://yuanhaow.github.io) ·
-[Scholar](https://scholar.google.com/citations?user=_vDg69AAAAAJ) ·
-[ORCID](https://orcid.org/0000-0002-5176-0961)
-
-- Research: memory management, language design, parallel programming,
-  concurrency
-
-- Taking students:❔
-
 ### [ProSE @ University of Toronto](https://www.cs.toronto.edu/~prose/)
 
-Application deadline:❔
+[Application deadline](https://www.sgs.utoronto.ca/programs/computer-science/):
+December 1st
 
 **Azadeh Farzan** — [Homepage](http://www.cs.toronto.edu/~azadeh) ·
 [Scholar](https://scholar.google.com/citations?user=n9Kg_LUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-9005-2653)
 
-- Research:❔
+- Research: software verification, formal methods, program synthesis, security,
+  concurrency
 
 - Taking students:❔
 
@@ -238,7 +248,13 @@ Application deadline:❔
 
 ### [PLG @ University of Waterloo](https://plg.uwaterloo.ca/)
 
-Application deadline:❔
+[Application deadline](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/computer-science-doctor-philosophy-phd):
+
+- Fall: December 1st
+
+- Winter: June 1st
+
+- Spring: October 1st
 
 **Ondrej Lhoták** — [Homepage](https://plg.uwaterloo.ca/~olhotak) ·
 [Scholar](https://scholar.google.com/citations?user=kLg3RgsAAAAJ) ·
@@ -263,7 +279,7 @@ Application deadline:❔
 
 ### Universidad de Chile
 
-Application deadline:❔
+Application deadline: ❔
 
 **Matías Toro** — [Homepage](https://pleiad.cl/people/mtoro) ·
 [Scholar](https://scholar.google.com/citations?user=hRPJ-ZIAAAAJ) ·
@@ -289,7 +305,7 @@ Application deadline:❔
 
 ### [LogSem @ Aarhus University](http://cs.au.dk/research/logic-and-semantics)
 
-Application deadline:❔
+[Application deadline](https://cs.au.dk/education/phd): Multiple (check link)
 
 **Amin Timany** — [Homepage](https://cs.au.dk/~timany) ·
 [Scholar](https://scholar.google.com/citations?user=Cgs2hEgAAAAJ) ·
@@ -363,7 +379,8 @@ Application deadline:❔
 
 ### [PLS @ IT University of Copenhagen](https://pls.itu.dk/)
 
-Application deadline:❔
+[Application deadline](https://en.itu.dk/Research/PhD-Programme/PhD-Admission-Requirements):
+Rolling (position-based)
 
 **Patrick Bahr** — [Homepage](https://bahr.io) ·
 [Scholar](https://scholar.google.com/citations?user=eMKdREgAAAAJ) ·
@@ -383,7 +400,8 @@ Application deadline:❔
 
 ### University of Copenhagen
 
-Application deadline:❔
+[Application deadline](https://di.ku.dk/english/research/phd/): Rolling
+(position-based)
 
 **Dmitriy Traytel** — [Homepage](https://traytel.bitbucket.io/) ·
 [Scholar](https://scholar.google.com/citations?user=MJppLgoAAAAJ) ·
@@ -441,7 +459,7 @@ Application deadline:❔
 
 ### Ecole Normale Superieure
 
-Application deadline:❔
+Application deadline: ❔
 
 **Albert Cohen** — [Homepage](https://who.rocq.inria.fr/Albert.Cohen) ·
 [Scholar](https://scholar.google.com/citations?user=MkKZKAMAAAAJ) ·
@@ -484,7 +502,8 @@ Application deadline:❔
 
 ### INRIA
 
-Application deadline:❔
+[Application deadline](https://jobs.inria.fr/public/classic/en/offres?filtre=doctorants):
+Rolling (position-base)
 
 **François Pottier** — [Homepage](https://cambium.inria.fr/~fpottier) ·
 [Scholar](https://scholar.google.com/citations?user=7R6jcZ0AAAAJ) ·
@@ -565,7 +584,7 @@ Application deadline:❔
 
 ### [CISPA Helmholtz Center](https://cispa.de/)
 
-Application deadline:❔
+[Application deadline](https://career.cispa.de/jobs): Rolling (position-based)
 
 **Simon Oddershede Gregersen** — [Homepage](https://simongregersen.com) ·
 [Scholar](https://scholar.google.com/citations?user=I-ltakEAAAAJ) ·
@@ -578,7 +597,7 @@ Application deadline:❔
 
 ### Karlsruhe Inst. of Technology
 
-Application deadline:❔
+Application deadline: ❔
 
 **Sebastian Erdweg** — [Homepage](https://pl.ipd.kit.edu/erdweg.php) ·
 [Scholar](https://scholar.google.com/citations?user=2jCQrk4AAAAJ) ·
@@ -590,7 +609,22 @@ Application deadline:❔
 
 ### Max Planck Society
 
-Application deadline:❔
+[Application deadlines](https://www.mpi-sws.org/graduate-studies/#admission):
+(Read link to make sense of this)
+
+- MPI-SWS:
+
+  - December 31st
+  - March 31st
+  - June 30th
+  - September 30th
+
+- CS@Max Planck: December 15th
+
+- IMPRS-TRUST:
+
+  - December 31st
+  - June 30
 
 **Catalin Hritcu** — [Homepage](https://catalin-hritcu.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=d-3XtW8AAAAJ) ·
@@ -651,7 +685,7 @@ Application deadline:❔
 
 ### RWTH Aachen University
 
-Application deadline:❔
+Application deadline: ❔
 
 **Joost-Pieter Katoen** —
 [Homepage](http://www-i2.informatik.rwth-aachen.de/~katoen) ·
@@ -664,7 +698,7 @@ Application deadline:❔
 
 ### Saarland University
 
-Application deadline:❔
+Application deadline: ❔
 
 **Benjamin Lucien Kaminski** —
 [Homepage](https://quave.cs.uni-saarland.de/benjamin-kaminski) ·
@@ -687,7 +721,7 @@ Application deadline:❔
 
 ### TU Braunschweig
 
-Application deadline:❔
+Application deadline: ❔
 
 **Roland Meyer** — [Homepage](https://www.tcs.cs.tu-bs.de/group/meyer) ·
 [Scholar](https://scholar.google.com/citations?user=zRo3ZJ4AAAAJ) ·
@@ -699,7 +733,7 @@ Application deadline:❔
 
 ### [PG @ TU Darmstadt](https://programming-group.com/)
 
-Application deadline:❔
+Application deadline: ❔
 
 **Guido Salvaneschi** —
 [Homepage](https://programming-group.com/members/salvaneschi) ·
@@ -712,7 +746,7 @@ Application deadline:❔
 
 ### TU Kaiserslautern
 
-Application deadline:❔
+Application deadline: ❔
 
 **Anthony Widjaja Lin** — [Homepage](https://anthonywlin.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=__5nnYUAAAAJ) ·
@@ -724,7 +758,7 @@ Application deadline:❔
 
 ### University of Freiburg
 
-Application deadline:❔
+Application deadline: ❔
 
 **Andreas Podelski** —
 [Homepage](https://swt.informatik.uni-freiburg.de/podelski) ·
@@ -746,7 +780,7 @@ Application deadline:❔
 
 ### University of Tübingen
 
-Application deadline:❔
+Application deadline: ❔
 
 **Jonathan Immanuel Brachthäuser** —
 [Homepage](https://se.cs.uni-tuebingen.de/team/brachthaeuser) ·
@@ -775,7 +809,7 @@ Application deadline:❔
 
 ### University of Athens
 
-Application deadline:❔
+Application deadline: Rolling (contact advisor directly)
 
 **Dimitris Mitropoulos** — [Homepage](https://dimitro.gr) ·
 [Scholar](https://scholar.google.com/citations?user=ryow8hIAAAAJ) ·
@@ -799,7 +833,8 @@ Application deadline:❔
 
 ### [TACO @ HKUST](https://cse.hkust.edu.hk/~parreaux/)
 
-Application deadline:❔
+[Application deadline](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/admission-timeline):
+December 1st
 
 **Lionel Parreaux** —
 [Homepage](https://cse.hkust.edu.hk/~parreaux/author/lionel-parreaux/) ·
@@ -813,7 +848,8 @@ Application deadline:❔
 
 ### [PL Group @ University of Hong Kong](https://hkuplg.github.io/)
 
-Application deadline:❔
+[Application deadline](https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission):
+December 1st
 
 **Bruno C. d. S. Oliveira** — [Homepage](https://i.cs.hku.hk/~bruno) ·
 [Scholar](https://scholar.google.com/citations?user=cB-6X3gAAAAJ) ·
@@ -827,7 +863,7 @@ Application deadline:❔
 
 ### National Inst. of Informatics
 
-Application deadline:❔
+Application deadline: ❔
 
 **Taro Sekiyama** —
 [Homepage](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro) ·
@@ -840,7 +876,8 @@ Application deadline:❔
 
 ### University of Tokyo
 
-Application deadline:❔
+[Application deadline](https://www.i.u-tokyo.ac.jp/edu/course/cs/admission_e.shtml):
+❔
 
 **Naoki Kobayashi** — [Homepage](http://www-kb.is.s.u-tokyo.ac.jp/~koba) ·
 [Scholar](https://scholar.google.com/citations?user=bhZQ7FEAAAAJ) ·
@@ -852,7 +889,7 @@ Application deadline:❔
 
 ### University of Tsukuba
 
-Application deadline:❔
+Application deadline: ❔
 
 **Hiroshi Unno** — [Homepage](http://www.cs.tsukuba.ac.jp/~uhiro) ·
 [Scholar](https://scholar.google.com/citations?user=H73eAAsAAAAJ) ·
@@ -866,7 +903,7 @@ Application deadline:❔
 
 ### Radboud University
 
-Application deadline:❔
+Application deadline: ❔
 
 **Robbert Krebbers** — [Homepage](http://robbertkrebbers.nl) ·
 [Scholar](https://scholar.google.com/citations?user=8JmcliwAAAAJ) ·
@@ -878,7 +915,7 @@ Application deadline:❔
 
 ### [PL Group @ TU Delft](https://pl.ewi.tudelft.nl/)
 
-Application deadline:❔
+Application deadline: ❔
 
 **Benedikt Ahrens** — [Homepage](https://benediktahrens.gitlab.io) ·
 [Scholar](https://scholar.google.com/citations?user=hdr4g6UAAAAJ) ·
@@ -915,7 +952,7 @@ Application deadline:❔
 
 ### Utrecht University
 
-Application deadline:❔
+Application deadline: ❔
 
 **Wouter Swierstra** — [Homepage](http://www.staff.science.uu.nl/~swier004) ·
 [Scholar](https://scholar.google.com/citations?user=ZrrljKAAAAAJ) ·
@@ -927,7 +964,7 @@ Application deadline:❔
 
 ### VU Amsterdam
 
-Application deadline:❔
+Application deadline: ❔
 
 **Klaus von Gleissenthall** — [Homepage](http://goto.ucsd.edu/~gleissen) ·
 [Scholar](https://scholar.google.com/citations?user=Lc4IbnsAAAAJ) ·
@@ -941,7 +978,7 @@ Application deadline:❔
 
 ### [University of Wroclaw](https://ii.uni.wroc.pl/)
 
-Application deadline:❔
+Application deadline: ❔
 
 **Dariusz Biernacki** — [Homepage](http://www.ii.uni.wroc.pl/~dabi) ·
 [Scholar](https://scholar.google.com/citations?user=7lCF6cYAAAAJ) ·
@@ -964,14 +1001,13 @@ Application deadline:❔
 
 ### Universidade de Lisboa
 
-Application deadline:
+Application deadlines:
 
 - CMU Portugal Affiliated PhD (1 year at CMU): May 12th — see
   [cmuportugal.org](https://cmuportugal.org/affiliated-ph-d-programs/)
 
 - CMU Portugal Dual Degree PhD (2 years at CMU, degrees from both institutions):
-  December 4th — see
-  [cmuportugal.org](https://cmuportugal.org/dual-degree-phd/)
+  December 4th — see [cmuportugal.org](https://cmuportugal.org/dual-degree-phd/)
 
 - Fundação "la Caixa" INPhINIT: January 28th — see
   [fundacaolacaixa.pt](https://fundacaolacaixa.pt/pt/bolsas-doutoramento-inphinit)
@@ -1029,7 +1065,10 @@ Application deadline:
 
 ### Nanyang Technological University
 
-Application deadline:❔
+[Application deadline](https://www.ntu.edu.sg/ase/admissions/graduate-programmes/graduate-studies-at-ase):
+
+- Fall: January 31st
+- Winter: July 31st
 
 **C.-H. Luke Ong** — [Homepage](https://personal.ntu.edu.sg/luke.ong/index.html)
 · [Scholar](https://scholar.google.com/citations?user=gNFel3QAAAAJ) ·
@@ -1058,7 +1097,10 @@ Application deadline:❔
 
 ### [PLSE @ National University of Singapore](https://nus-plse.github.io/)
 
-Application deadline:❔
+[Application deadlines](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/):
+
+- Fall: December 15th
+- Winter: June 15th
 
 **Ilya Sergey** — [Homepage](https://ilyasergey.net/) ·
 [Scholar](https://scholar.google.com/citations?user=oCIeffUAAAAJ) ·
@@ -1103,7 +1145,7 @@ Application deadline:❔
 
 ### Hanyang University
 
-Application deadline:❔
+Application deadline: ❔
 
 **Woosuk Lee** — [Homepage](https://psl.hanyang.ac.kr) ·
 [Scholar](https://scholar.google.com/citations?user=HcY3y0YAAAAJ) ·
@@ -1115,7 +1157,7 @@ Application deadline:❔
 
 ### KAIST
 
-Application deadline:❔
+Application deadline: ❔
 
 **Hongseok Yang** —
 [Homepage](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=167) ·
@@ -1144,7 +1186,7 @@ Application deadline:❔
 
 ### Korea University
 
-Application deadline:❔
+Application deadline: ❔
 
 **Hakjoo Oh** — [Homepage](http://prl.korea.ac.kr/~pronto/home) ·
 [Scholar](https://scholar.google.com/citations?user=3dX_cckAAAAJ) ·
@@ -1156,7 +1198,7 @@ Application deadline:❔
 
 ### POSTECH
 
-Application deadline:❔
+Application deadline: ❔
 
 **Wonyeol Lee** — [Homepage](https://wonyeol.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=g3TYhjcAAAAJ) ·
@@ -1168,7 +1210,7 @@ Application deadline:❔
 
 ### Seoul National University
 
-Application deadline:❔
+Application deadline: ❔
 
 **Chung-Kil Hur** — [Homepage](http://sf.snu.ac.kr/gil.hur) ·
 [Scholar](https://scholar.google.com/citations?user=ognOntwAAAAJ) ·
@@ -1189,7 +1231,7 @@ Application deadline:❔
 
 ### State University of New York, Korea
 
-Application deadline:❔
+Application deadline: ❔
 
 **Zhoulai Fu** — [Homepage](https://zhoulaifu.com) ·
 [ORCID](https://orcid.org/0000-0003-2073-0564)
@@ -1202,7 +1244,8 @@ Application deadline:❔
 
 ### IMDEA Software Institute
 
-Application deadline:❔
+[Application deadline](https://software.imdea.org/careers/): Rolling
+(position-based)
 
 **Aleksandar Nanevski** — [Homepage](http://software.imdea.org/~aleks) ·
 [Scholar](https://scholar.google.com/citations?user=JGza54YAAAAJ) ·
@@ -1225,7 +1268,7 @@ Application deadline:❔
 
 ### Chalmers/GU
 
-Application deadline:❔
+Application deadline: ❔
 
 **Andreas Abel** — [Homepage](http://www.cse.chalmers.se/~abela) ·
 [Scholar](https://scholar.google.com/citations?user=diMIMosAAAAJ) ·
@@ -1252,7 +1295,7 @@ Application deadline:❔
 
 ### Uppsala University
 
-Application deadline:❔
+Application deadline: ❔
 
 **Bengt Jonsson** — [Homepage](http://user.it.uu.se/~bengt) ·
 [Scholar](https://scholar.google.com/citations?user=idIfuU4AAAAJ) ·
@@ -1275,7 +1318,8 @@ Application deadline:❔
 
 ### EPFL
 
-Application deadline:❔
+[Application deadline](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/):
+December 1st
 
 **Clément Pit-Claudel** — [Homepage](https://pit-claudel.fr/clement) ·
 [Scholar](https://scholar.google.com/citations?user=kMj6fBwAAAAJ) ·
@@ -1311,7 +1355,8 @@ Application deadline:❔
 
 ### ETH Zurich
 
-Application deadline:❔
+[Application deadline](https://inf.ethz.ch/doctorate.html): Rolling
+(position-based)
 
 **Peter Müller** —
 [Homepage](http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html) ·
@@ -1340,7 +1385,10 @@ Application deadline:❔
 
 ### Università della Svizzera italiana
 
-Application deadline:❔
+[Application deadline](https://www.inf.usi.ch/en/study-informatics/phd-doctoral-studies/admission):
+
+- Fall: May 1st
+- Spring: November 1st
 
 **Walter Binder** — [Homepage](http://www.inf.usi.ch/faculty/binder) ·
 [Scholar](https://scholar.google.com/citations?user=g0nBOnMAAAAJ) ·
@@ -1354,6 +1402,8 @@ Application deadline:❔
 ## United Kingdom
 
 ### Heriot-Watt University
+
+Application deadline: ❔
 
 **Filip Sieczkowski** — [Homepage](https://fsieczkowski.github.io/) ·
 [Scholar](https://scholar.google.com/citations?user=aNLxzEkAAAAJ) ·
@@ -1374,7 +1424,15 @@ Application deadline:❔
 
 ### Imperial College London
 
-Application deadline:❔
+[Application deadlines](https://www.imperial.ac.uk/computing/prospective-students/phd/):
+
+- October 15th
+
+- December 15th
+
+- February 15th
+
+- April 15th
 
 **Alastair F. Donaldson** — [Homepage](https://www.doc.ic.ac.uk/~afd) ·
 [Scholar](https://scholar.google.com/citations?user=ZIUuqNwAAAAJ) ·
@@ -1425,7 +1483,7 @@ Application deadline:❔
 
 ### King's College London
 
-Application deadline:❔
+Application deadline: ❔
 
 **Stephen Kell** — [Homepage](https://www.humprog.org/~stephen) ·
 [Scholar](https://scholar.google.com/citations?user=4GHlcNoAAAAJ)
@@ -1436,7 +1494,7 @@ Application deadline:❔
 
 ### Queen Mary University of London
 
-Application deadline:❔
+Application deadline: ❔
 
 **Raymond Hu** — [Homepage](https://www.seresearch.qmul.ac.uk/cfcs/people/rhu) ·
 [Scholar](https://scholar.google.com/citations?user=b08Zz1kAAAAJ) ·
@@ -1457,7 +1515,7 @@ Application deadline:❔
 
 ### Royal Holloway Univ. of London
 
-Application deadline:❔
+Application deadline: ❔
 
 **Francisco Ferreira** — [Homepage](https://franciscoferreira.org) ·
 [ORCID](https://orcid.org/0000-0001-8494-7696)
@@ -1494,7 +1552,7 @@ Application deadline:❔
 
 ### [Theory Group @ University of Birmingham](http://www.cs.bham.ac.uk/research/groupings/theory/)
 
-Application deadline:❔
+Application deadline: ❔
 
 **Sergey Goncharov** — [Homepage](https://sergey-goncharov.org) ·
 [Scholar](https://scholar.google.com/citations?user=O6as6pAAAAAJ)
@@ -1506,7 +1564,7 @@ Application deadline:❔
 
 ### University of Bristol
 
-Application deadline:❔
+Application deadline: ❔
 
 **Eddie Jones** — [Homepage](https://ec-jones.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=k9BLV_0AAAAJ) ·
@@ -1543,7 +1601,9 @@ Application deadline:❔
 
 ### University of Cambridge
 
-Application deadline:❔
+[Application deadlines](https://www.cst.cam.ac.uk/admissions/phd): December 2nd
+
+- There's more, check link for now
 
 **Anil Madhavapeddy** — [Homepage](https://anil.recoil.org) ·
 [Scholar](https://scholar.google.com/citations?user=u2nZ7F8AAAAJ) ·
@@ -1587,7 +1647,7 @@ Application deadline:❔
 
 ### [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
 
-Application deadline:❔
+Application deadline: ❔
 
 **Amir Shaikhha** — [Homepage](https://amirsh.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=97wlbikAAAAJ) ·
@@ -1659,7 +1719,7 @@ Application deadline:❔
 
 ### University of Glasgow
 
-Application deadline:❔
+Application deadline: ❔
 
 **Ornela Dardha** — [Homepage](https://www.dcs.gla.ac.uk/~ornela/index.html) ·
 [Scholar](https://scholar.google.com/citations?user=nXneHtMAAAAJ) ·
@@ -1686,7 +1746,7 @@ Application deadline:❔
 
 ### [PLAS @ University of Kent](https://www.cs.kent.ac.uk/research/groups/plas/)
 
-Application deadline:❔
+Application deadline: ❔
 
 **David Castro-Perez** — [Homepage](https://dcastrop.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=amY0bxEAAAAJ) ·
@@ -1716,7 +1776,7 @@ Application deadline:❔
 
 ### [FP Lab @ University of Nottingham](https://www.nottingham.ac.uk/research/groups/fp-lab/index.aspx)
 
-Application deadline:❔
+Application deadline: ❔
 
 **Graham Hutton** — [Homepage](https://people.cs.nott.ac.uk/pszgmh) ·
 [Scholar](https://scholar.google.com/citations?user=6wDy-sMAAAAJ) ·
@@ -1737,7 +1797,7 @@ Application deadline:❔
 
 ### University of Oxford
 
-Application deadline:❔
+[Application deadline](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science):❔
 
 **Sam Staton** —
 [Homepage](http://www.cs.ox.ac.uk/people/samuel.staton/main.html) ·
@@ -1751,7 +1811,7 @@ Application deadline:❔
 
 ### University of Sheffield
 
-Application deadline:❔
+Application deadline: ❔
 
 **Andrei Popescu** — [Homepage](https://www.andreipopescu.uk) ·
 [Scholar](https://scholar.google.com/citations?user=nxOkXN0AAAAJ) ·
@@ -1764,7 +1824,7 @@ Application deadline:❔
 
 ### University of St Andrews
 
-Application deadline:❔
+Application deadline: ❔
 
 **Edwin C. Brady** —
 [Homepage](https://www.st-andrews.ac.uk/computer-science/people/ecb10) ·
@@ -1777,7 +1837,7 @@ Application deadline:❔
 
 ### [MSP @ University of Strathclyde](https://msp.cis.strath.ac.uk/index.html)
 
-Application deadline:❔
+Application deadline: ❔
 
 **Conor McBride** — [Homepage](http://strictlypositive.org/) ·
 [Scholar](https://scholar.google.com/citations?user=vO7qGKwAAAAJ) ·
@@ -1834,13 +1894,13 @@ Application deadline: Rolling
 [Scholar](https://scholar.google.com/citations?user=_KCqeIEAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-2768-3898)
 
-- Research: energy-aware software, energy-effecient software, security
+- Research: energy-aware software, energy-efficient software, security
 
 - Taking students:❔
 
 ### Boston College
 
-Application deadline:❔
+Application deadline: January 2nd
 
 **Aaron Stump** — [Homepage](https://cshub.bc.edu/stumpaa/) ·
 [Scholar](https://scholar.google.com/citations?user=568MtVQAAAAJ) ·
@@ -1884,7 +1944,7 @@ Application deadline: December 15th
 
 ### [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
 
-Application deadline:❔
+[Application deadline](https://www.csd.cs.cmu.edu/academics/doctoral/admissions):❔
 
 **Feras Saad** — [Homepage](https://www.cs.cmu.edu/~fsaad) ·
 [Scholar](https://scholar.google.com/citations?user=1aou7GkAAAAJ) ·
@@ -1955,7 +2015,8 @@ Application deadline:❔
 
 ### [PL @ Cornell University](http://pl.cs.cornell.edu/)
 
-Application deadline: December 15th
+[Application deadline](https://www.cs.cornell.edu/phd-computer-science/apply):
+December 15th
 
 **Adrian Sampson** — [Homepage](http://adriansampson.net) ·
 [Scholar](https://scholar.google.com/citations?user=Bq50aCUAAAAJ) ·
@@ -2001,9 +2062,10 @@ Application deadline: December 15th
 
 - Taking students:❔
 
-### Georgia Institute of Technology
+### [Georgia Institute of Technology](https://www.cc.gatech.edu/)
 
-Application deadline: December 15th
+[Application deadline](https://www.cc.gatech.edu/phd-cs-admissions-requirements):
+December 15th
 
 **Jacob Laurel** — [Homepage](https://jsl1994.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=5F3KT14AAAAJ) ·
@@ -2038,9 +2100,10 @@ Application deadline: December 15th
 
 - Taking students:❔
 
-### Harvard University
+### [Harvard University](https://seas.harvard.edu/)
 
-Application deadline: December 15th
+[Application deadline](https://seas.harvard.edu/computer-science/graduate-programs/how-apply):
+December 15th
 
 **Nada Amin** — [Homepage](http://namin.net) ·
 [Scholar](https://scholar.google.com/citations?user=9cGEmcgAAAAJ) ·
@@ -2060,7 +2123,8 @@ Application deadline: December 15th
 
 ### [Wonks @ Indiana University](http://wonks.github.io/)
 
-Application deadline: December 15th
+[Application deadline](https://luddy.iu.edu/admissions/graduate/index.html):
+December 15th
 
 **Amr Sabry** — [Homepage](http://www.cs.indiana.edu/~sabry) ·
 [Scholar](https://scholar.google.com/citations?user=dYGSG4EAAAAJ) ·
@@ -2108,7 +2172,8 @@ Application deadline: December 15th
 
 ### [PL @ Massachusetts Inst. of Technology](http://projects.csail.mit.edu/pl/)
 
-Application deadline: December 1st
+[Application deadline](https://oge.mit.edu/programs/computational-science-and-engineering-phd/):
+December 1st
 
 **Adam Chlipala** — [Homepage](http://adam.chlipala.net) ·
 [Scholar](https://scholar.google.com/citations?user=Imh0w3AAAAAJ) ·
@@ -2157,7 +2222,8 @@ Application deadline: December 1st
 
 ### [ACSys @ New York University](https://cs.nyu.edu/acsys/)
 
-Application deadline: December 1st
+[Application deadline](https://engineering.nyu.edu/admissions/graduate/apply/application-deadlines):
+December 1st
 
 **Dennis E. Shasha** — [Homepage](http://cs.nyu.edu/shasha) ·
 [Scholar](https://scholar.google.com/citations?user=UQ9Ws6wAAAAJ)
@@ -2205,7 +2271,8 @@ Application deadline: December 1st
 
 ### [PRL @ Northeastern University](https://prl.ccs.neu.edu)
 
-Application deadline: December 15th
+[Application deadline](https://www.khoury.northeastern.edu/apply/phd-apply/):
+December 15th
 
 **Amal Ahmed** — [Homepage](http://www.ccs.neu.edu/home/amal) ·
 [Scholar](https://scholar.google.com/citations?user=Y1C007wAAAAJ) ·
@@ -2276,9 +2343,10 @@ Application deadline: December 15th
 
 - Taking students:❔
 
-### Northwestern University
+### [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/)
 
-Application deadline: December 1st
+[Application deadline](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/):
+December 1st
 
 **Christos Dimoulas** — [Homepage](http://users.eecs.northwestern.edu/~chrdimo)
 · [Scholar](https://scholar.google.com/citations?user=mFs4fikAAAAJ) ·
@@ -2298,7 +2366,10 @@ Application deadline: December 1st
 
 ### Ohio State University
 
-Application deadline:❔
+[Application deadline](https://cse.osu.edu/prospective-students/graduate/admissions):
+
+- Fall: December 15th
+- Spring: October 1st
 
 **Michael D. Bond** — [Homepage](https://mdbond.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=zoBZ_FMAAAAJ) ·
@@ -2310,7 +2381,8 @@ Application deadline:❔
 
 ### [PL @ Princeton University](http://pl.cs.princeton.edu/)
 
-Application deadline: December 15th
+[Application deadline](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/computer-science):
+December 15th
 
 **David Walker** — [Homepage](http://www.cs.princeton.edu/~dpw) ·
 [Scholar](https://scholar.google.com/citations?user=UEI2g60AAAAJ) ·
@@ -2340,7 +2412,8 @@ Application deadline: December 15th
 
 ### [PurPL @ Purdue University](https://purpl.cs.purdue.edu/)
 
-Application deadline: December 1st
+[Application deadline](https://www.cs.purdue.edu/graduate/admission/steps.html):
+December 1st
 
 **Benjamin Delaware** — [Homepage](https://www.cs.purdue.edu/homes/bendy) ·
 [Scholar](https://scholar.google.com/citations?user=VS21MfgAAAAJ) ·
@@ -2377,7 +2450,7 @@ Application deadline: December 1st
 
 ### Rice University
 
-Application deadline:❔
+[Application deadline](https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application): January 1st (Check link there's more)
 
 **Konstantinos Mamouras** — [Homepage](https://kmamouras.github.io) ·
 [Scholar](https://scholar.google.com/citations?user=ZvY6VHsAAAAJ) ·
@@ -2411,9 +2484,10 @@ Application deadline:❔
 
 - Taking students:❔
 
-### Stanford University
+### [Stanford University](https://www.cs.stanford.edu/)
 
-Application deadline: December 2nd
+[Application deadline](https://www.cs.stanford.edu/admissions-graduate-application-deadlines):
+December 2nd
 
 **Alex Aiken** — [Homepage](https://theory.stanford.edu/~aiken) ·
 [Scholar](https://scholar.google.com/citations?user=3vKjkoQAAAAJ) ·
@@ -2433,7 +2507,7 @@ Application deadline: December 2nd
 
 ### Stevens Institute of Technology
 
-Application deadline:❔
+Application deadline: ❔
 
 **Eric Koskinen** — [Homepage](http://www.erickoskinen.com) ·
 [Scholar](https://scholar.google.com/citations?user=XUhd_LwAAAAJ) ·
@@ -2454,7 +2528,7 @@ Application deadline:❔
 
 ### [TUPL @ Tufts University](https://tupl.cs.tufts.edu/)
 
-Application deadline:❔
+Application deadline: ❔
 
 **Guannan Wei** —
 [Homepage](https://engineering.tufts.edu/cs/people/faculty/guannan-wei) ·
@@ -2476,7 +2550,8 @@ Application deadline:❔
 
 ### [Univ. of California - Berkeley](https://eecs.berkeley.edu/)
 
-Application deadline: December 1st
+[Application deadline](https://grad.berkeley.edu/admissions/our-programs/):
+December 1st
 
 **Max Willsey** — [Homepage](https://www.mwillsey.com) ·
 [Scholar](https://scholar.google.com/citations?user=zko9-RwAAAAJ) ·
@@ -2496,7 +2571,7 @@ Application deadline: December 1st
 
 ### Univ. of California - Davis
 
-Application deadline:❔
+Application deadline: ❔
 
 **Caleb Stanford** — [Homepage](https://web.cs.ucdavis.edu/~cdstanford) ·
 [Scholar](https://scholar.google.com/citations?user=VDFGNZ0AAAAJ) ·
@@ -2508,7 +2583,8 @@ Application deadline:❔
 
 ### [Univ. of California - Los Angeles](http://www.cs.ucla.edu/)
 
-Application deadline: December 15th
+[Application deadline](https://www.cs.ucla.edu/graduate-requirements/): December
+15th
 
 **Guoqing Harry Xu** — [Homepage](http://www.cs.ucla.edu/~harryxu) ·
 [Scholar](https://scholar.google.com/citations?user=DS6rCasAAAAJ) ·
@@ -2554,7 +2630,7 @@ Application deadline: December 15th
 
 ### Univ. of California - Riverside
 
-Application deadline:❔
+Application deadline: ❔
 
 **Jay P. Lim** — [Homepage](https://dongura.me) ·
 [Scholar](https://scholar.google.com/citations?user=5oKUbqoAAAAJ) ·
@@ -2574,7 +2650,7 @@ Application deadline:❔
 
 ### [ProgSys @ Univ. of California - San Diego](https://cseweb.ucsd.edu/groups/progsys/)
 
-Application deadline: December 23rd
+[Application deadline](https://cse.ucsd.edu/graduate/admissions): December 23rd
 
 **Deian Stefan** — [Homepage](https://cseweb.ucsd.edu/~dstefan) ·
 [Scholar](https://scholar.google.com/citations?user=qTVj7nwAAAAJ) ·
@@ -2630,9 +2706,10 @@ Application deadline: December 23rd
 
 - Taking students:❔
 
-### Univ. of California - Santa Barbara
+### [Univ. of California - Santa Barbara](https://cs.ucsb.edu/)
 
-Application deadline: December 15th
+[Application deadline](https://cs.ucsb.edu/education/graduate/how-to-apply):
+December 15th
 
 **Ben Hardekopf** — [Homepage](http://www.cs.ucsb.edu/~benh) ·
 [ORCID](https://orcid.org/0009-0008-1199-6129)
@@ -2653,7 +2730,8 @@ Application deadline: December 15th
 
 ### [Univ. of California - Santa Cruz](https://lsd.ucsc.edu/)
 
-Application deadline: January 5
+[Application deadline](https://graduateadmissions.ucsc.edu/application-deadlines/):
+January 5
 
 **Cormac Flanagan** — [Homepage](https://users.soe.ucsc.edu/~cormac) ·
 [Scholar](https://scholar.google.com/citations?user=XkiApd4AAAAJ) ·
@@ -2693,15 +2771,16 @@ Application deadline: January 5
 
 - Taking students:❔
 
-### Univ. of Illinois at Urbana-Champaign
+### [Univ. of Illinois at Urbana-Champaign](https://siebelschool.illinois.edu/)
 
-Application deadline: December 15th
+[Application deadline](https://siebelschool.illinois.edu/admissions/graduate/application-deadlines):
+December 15th
 
 **Charith Mendis** — [Homepage](https://charithmendis.com) ·
 [Scholar](https://scholar.google.com/citations?user=utZ3JYUAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-8140-2321)
 
-- Research: compilers, language semantics
+- Research: compilers, language semantics, compiler verification, ML compilers
 
 - Taking students:❔
 
@@ -2709,7 +2788,8 @@ Application deadline: December 15th
 [Scholar](https://scholar.google.com/citations?user=m4b2ruEAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9299-2961)
 
-- Research: automated reasoning, program analysis, static analysis, compilers
+- Research: formal methods, trustworthy AI, program synthesis, software
+  verification
 
 - Taking students:❔
 
@@ -2725,7 +2805,7 @@ Application deadline: December 15th
 [Scholar](https://scholar.google.com/citations?user=nztNRM0AAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7977-0080)
 
-- Research:❔
+- Research: algorithms, automata theory, logic, software verification
 
 - Taking students:❔
 
@@ -2733,16 +2813,16 @@ Application deadline: December 15th
 [Scholar](https://scholar.google.com/citations?user=V828uG8AAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9782-721X)
 
-- Research: program synthesis, security, model checking
+- Research: software verification, trustworthy AI, program synthesis, logic
 
-- Taking students:❔
+- Taking students: ✅
 
-**Sasa Misailovic** —
-[Homepage](http://illinois.edu/calendar/detail/2568/32614650) ·
+**Sasa Misailovic** — [Homepage](https://misailo.cs.illinois.edu/) ·
 [Scholar](https://scholar.google.com/citations?user=3qJQjIYAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7319-8845)
 
-- Research:❔
+- Research: probabilistic programming, compilers, trustworthy AI, program
+  synthesis
 
 - Taking students:❔
 
@@ -2751,15 +2831,7 @@ Application deadline: December 15th
 [ORCID](https://orcid.org/0000-0003-1854-3321)
 
 - Research: type theory, formal methods, automated reasoning, proof assistants,
-  compilers, interactive theorem provers, dependent types
-
-- Taking students:❔
-
-**Vikram S. Adve** — [Homepage](https://vikram.cs.illinois.edu) ·
-[Scholar](https://scholar.google.com/citations?user=VbruE20AAAAJ) ·
-[ORCID](https://orcid.org/0000-0002-0760-9690)
-
-- Research: compilers, parallel programming, memory management
+  compilers, interactive theorem provers, dependent types, Rocq
 
 - Taking students:❔
 
@@ -2773,7 +2845,7 @@ Application deadline: December 15th
 
 ### [PLUM @ Univ. of Maryland - College Park](https://plum-umd.github.io/)
 
-Application deadline: December 5th
+[Application deadline](https://www.cs.umd.edu/grad/apply): December 5th
 
 **David Van Horn** — [Homepage](http://www.cs.umd.edu/~dvanhorn) ·
 [Scholar](https://scholar.google.com/citations?user=9ZM8OlMAAAAJ) ·
@@ -2788,30 +2860,30 @@ Application deadline: December 5th
 [Scholar](https://scholar.google.com/citations?user=JNUvp5kAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-0269-9815)
 
-- Research: property-based testing, functional programming, type systems
+- Research: property-based testing, functional programming, type systems, type
+  theory
 
 - Taking students:❔
 
-**Milijana Surbatovich** — [Homepage](https://www.cs.umd.edu/people/milijana) ·
+**Milijana Surbatovich** — [Homepage](https://msurbatovich.github.io/) ·
 [Scholar](https://scholar.google.com/citations?user=fv2u3RcAAAAJ) ·
 [ORCID](https://orcid.org/0009-0004-6948-6683)
 
-- Research:❔
+- Research: formal methods, systems
 
 - Taking students:❔
 
-### University at Buffalo
+### [University at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html)
 
-Application deadline (Fall):
+[Application deadlines](https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions/application-materials.html):
 
-- For early consideration for special scholarships: December 10th
+- For early consideration for special scholarships (Fall): December 10th
 
-- For full consideration for funding/fellowships: December 31st
+- For full consideration for funding/fellowships (Fall): December 31st
 
-Application Deadline (Spring):
+- International applications (Spring): September 30th
 
-- International applications: September 30th
-- Domestic applications: October 31st
+- Domestic applications (Spring): October 31st
 
 **Andrew K. Hirsch** — [Homepage](https://cse.buffalo.edu/~akhirsch) ·
 [Scholar](https://scholar.google.com/citations?user=VMu58x0AAAAJ) ·
@@ -2932,7 +3004,7 @@ Application deadline: January 1st
 
 ### [University of Massachusetts Lowell](https://cs.uml.edu)
 
-Application deadline:❔
+Applcation deadline: ❔
 
 **Matteo Cimini** — [Homepage](http://cimini.info) ·
 [Scholar](https://scholar.google.com/citations?user=nq6IfV4AAAAJ) ·
