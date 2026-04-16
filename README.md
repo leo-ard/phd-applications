@@ -37,6 +37,33 @@ Inspired by and sourced from
 
 [Application deadline](https://study.anu.edu.au/apply/postgraduate-research): ❔
 
+**Alex Potanin** -
+[Homepage](https://potanin.github.io/) ·
+[Scholar](https://scholar.google.com.au/citations?user=NUl2HRkAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-4242-2725)
+
+- Research: security, language design, software engineering, quantum devices, trustworthy systems.
+
+- Taking students:❔
+
+**Alwen Tiu** -
+[Homepage](https://comp.anu.edu.au/people/alwen-tiu/) ·
+[Scholar](https://scholar.google.com/citations?user=92pa9z8AAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-2695-5636)
+
+- Research: formal methods, logic, automated theorem proving, security.
+
+- Taking students:❔
+
+**Dirk Pattinson** -
+[Homepage](https://users.cecs.anu.edu.au/~dpattinson/) ·
+[Scholar](https://scholar.google.com/citations?user=_QbFzhkAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-5832-6666)
+
+- Research: modal logic, domain theory, coalgebraic semantics, category theory.
+
+- Taking students:❔
+
 **Fabian Muehlboeck** —
 [Homepage](https://users.cecs.anu.edu.au/~fabian.muehlboeck) ·
 [Scholar](https://scholar.google.com/citations?user=ESll9OcAAAAJ) ·
@@ -60,6 +87,50 @@ Inspired by and sourced from
 [ORCID](https://orcid.org/0000-0003-1163-8467)
 
 - Research: interactive theorem provers, language semantics
+
+- Taking students:❔
+
+**Nisansala Yatapanage** -
+[Homepage](https://yatapanage.com/) ·
+[Scholar](https://scholar.google.com/citations?user=_Kgwm9YAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-0498-513X)
+
+- Research: software verification, formal methods, concurrency, rely/guarantee, separation logic, temporal logic
+
+- Taking students:❔
+
+**Peter Hoefner** -
+[Homepage](https://comp.anu.edu.au/people/peter-hoefner/) ·
+[Scholar](https://scholar.google.com/citations?user=JbCZr9sAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-2141-5868)
+
+- Research: formal methods, software verification, algebraic methods, concurrency and distributed systems
+
+- Taking students:❔
+
+**Ranald Clouston** -
+[Homepage](https://comp.anu.edu.au/people/ranald-clouston/) ·
+[Scholar](https://scholar.google.com/citations?user=_7YKlyMAAAAJ) ·
+
+- Research: logic, type systems, type theory
+
+- Taking students:❔
+
+**Steve Blackburn** -
+[Homepage](https://www.steveblackburn.org/) ·
+[Scholar](https://scholar.google.com/citations?user=HgSTO7oAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-6632-6001)
+
+- Research: garbage collection, language implementation, performance analysis
+
+- Taking students:❔
+
+**Tony Hosking** -
+[Homepage](https://hosking.github.io/) ·
+[Scholar](https://scholar.google.com/citations?user=5LINiuEAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-4487-6923)
+
+- Research: programming language runtimes, compilation, garbage collection, data storage and management
 
 - Taking students:❔
 
