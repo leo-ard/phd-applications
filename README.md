@@ -7,7 +7,7 @@
 
 A community-maintained list of professors working in programming language theory, organized by institution, to help prospective PhD students find potential advisors. Contributions and corrections are welcome — open a PR!
 
-**[Browse the directory online](https://bodzioney.github.io/phd-applications/)**
+**[Browse the directory online](https://bodzioney.org/phd-applications/)**
 
 Inspired by and sourced from [PLGradSchools](https://github.com/LeifAndersen/PLGradSchools), [CSRankings](https://csrankings.org), [SPLI](https://spli.scot/supervisors.html).
 

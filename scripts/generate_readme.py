@@ -47,7 +47,7 @@ def generate_readme(data, config):
     lines.append("")
     lines.append(config["description"])
     lines.append("")
-    page_url = f"https://bodzioney.github.io{config['baseurl']}/"
+    page_url = f"{config['url']}{config['baseurl']}/"
     lines.append(f"**[Browse the directory online]({page_url})**")
     lines.append("")
     credit_links = ", ".join(

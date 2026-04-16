@@ -11,7 +11,7 @@ credits:
   - text: SPLI
     url: https://spli.scot/supervisors.html
 baseurl: "/phd-applications"
-url: ""
+url: "https://bodzioney.org"
 
 exclude:
   - LICENSE
