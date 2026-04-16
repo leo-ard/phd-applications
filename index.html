@@ -1,0 +1,89 @@
+---
+layout: default
+title: PL Theory PhD Directory (2026-2027)
+---
+
+<h1>{{ site.title }}</h1>
+
+<p class="intro">{{ site.description }}</p>
+<p class="intro">Inspired by and sourced from
+  {% for credit in site.credits %}
+    <a href="{{ credit.url }}">{{ credit.text }}</a>{% unless forloop.last %}, {% endunless %}
+  {% endfor %}.
+</p>
+
+<p class="legend">
+  ✅ = actively taking students &nbsp;·&nbsp; ❌ = not taking students
+</p>
+
+<nav class="toc">
+  <h2>Countries</h2>
+  <ul>
+    {% for country in site.data.directory %}
+    <li><a href="#{{ country.name | slugify }}">{{ country.name }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
+{% for country in site.data.directory %}
+<section id="{{ country.name | slugify }}">
+  <h2>{{ country.name }}</h2>
+
+  {% for uni in country.universities %}
+  <section class="university">
+    <h3>
+      {% if uni.url %}<a href="{{ uni.url }}">{{ uni.name }}</a>{% else %}{{ uni.name }}{% endif %}
+    </h3>
+
+    {% if uni.deadline.first %}
+    <details class="deadline">
+      <summary>
+        {% if uni.deadline_url %}<a href="{{ uni.deadline_url }}">Application deadline</a>{% else %}Application deadline{% endif %}
+        (multiple — click to expand)
+      </summary>
+      <ul class="deadline-list">
+        {% for item in uni.deadline %}
+        <li>
+          {% if item.text %}{{ item.text }}{% if item.url %} — <a href="{{ item.url }}">details</a>{% endif %}
+          {% else %}{{ item }}{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </details>
+    {% elsif uni.deadline or uni.deadline_url %}
+    <p class="deadline">
+      {% if uni.deadline_url %}<a href="{{ uni.deadline_url }}">Application deadline</a>:{% else %}Application deadline:{% endif %}
+      {{ uni.deadline | default: "❔" }}
+    </p>
+    {% endif %}
+
+    <div class="professor-grid">
+      {% for prof in uni.professors %}
+      <div class="professor-card">
+        {% if prof.image %}
+          <img class="avatar" src="{{ prof.image | relative_url }}" alt="{{ prof.name }}">
+        {% elsif prof.scholar %}
+          {% assign scholar_id = prof.scholar | split: "user=" | last %}
+          <img class="avatar" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user={{ scholar_id }}" alt="{{ prof.name }}" onerror="this.classList.add('avatar-fallback'); this.outerHTML='<div class=\'avatar avatar-placeholder\'>{{ prof.name | slice: 0 }}</div>'">
+        {% else %}
+          <div class="avatar avatar-placeholder">{{ prof.name | slice: 0 }}</div>
+        {% endif %}
+        <div class="card-body">
+          <h4>
+            {% if prof.homepage %}<a href="{{ prof.homepage }}">{{ prof.name }}</a>{% else %}{{ prof.name }}{% endif %}
+            {% if prof.taking_students == "yes" %}<span class="badge" title="Taking students">✅</span>
+            {% elsif prof.taking_students == "no" %}<span class="badge" title="Not taking students">❌</span>{% endif %}
+          </h4>
+          <div class="links">
+            {% if prof.scholar %}<a href="{{ prof.scholar }}" title="Google Scholar">Scholar</a>{% endif %}
+            {% if prof.orcid %}<a href="{{ prof.orcid }}" title="ORCID">ORCID</a>{% endif %}
+          </div>
+          {% if prof.research %}<p class="research">{{ prof.research }}</p>{% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</section>
+{% endfor %}

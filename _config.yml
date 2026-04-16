@@ -1,0 +1,19 @@
+title: PL Theory PhD Directory (2026-2027)
+description: >-
+  A community-maintained list of professors working in programming language
+  theory, organized by institution, to help prospective PhD students find
+  potential advisors. Contributions and corrections are welcome — open a PR!
+credits:
+  - text: PLGradSchools
+    url: https://github.com/LeifAndersen/PLGradSchools
+  - text: CSRankings
+    url: https://csrankings.org
+  - text: SPLI
+    url: https://spli.scot/supervisors.html
+baseurl: "/phd-applications"
+url: ""
+
+exclude:
+  - LICENSE
+  - CONTRIBUTING.md
+  - scripts
