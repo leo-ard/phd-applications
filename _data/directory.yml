@@ -182,6 +182,15 @@
       scholar: https://scholar.google.com/citations?user=Vbnpt_EAAAAJ
       orcid: https://orcid.org/0000-0002-6402-4840
       research: verified compilation, dependent types, program verification, metaprogramming
+  - name: University of Regina
+    url: https://www.uregina.ca/science/computer-science/index.html
+    professors:
+    - name: Joseph Eremondi
+      homepage: https://www2.cs.uregina.ca/~eremondj/
+      scholar: https://scholar.google.ca/citations?user=dO1wEV0AAAAJ
+      orcid: https://orcid.org/0000-0002-9631-4826
+      research: language semantics, dependent types, type theory, gradual typing, dependent pattern matching, type error diagnosis
+      taking_students: 'yes'
   - name: ProSE @ University of Toronto
     url: https://www.cs.toronto.edu/~prose/
     deadline: December 1st

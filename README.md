@@ -233,6 +233,16 @@ Inspired by and sourced from [PLGradSchools](https://github.com/LeifAndersen/PLG
 
 - Taking students:❔
 
+### [University of Regina](https://www.uregina.ca/science/computer-science/index.html)
+
+Application deadline: ❔
+
+**Joseph Eremondi** — [Homepage](https://www2.cs.uregina.ca/~eremondj/) · [Scholar](https://scholar.google.ca/citations?user=dO1wEV0AAAAJ) · [ORCID](https://orcid.org/0000-0002-9631-4826)
+
+- Research: language semantics, dependent types, type theory, gradual typing, dependent pattern matching, type error diagnosis
+
+- Taking students: ✅
+
 ### [ProSE @ University of Toronto](https://www.cs.toronto.edu/~prose/)
 
 [Application deadline](https://www.sgs.utoronto.ca/programs/computer-science/): December 1st
