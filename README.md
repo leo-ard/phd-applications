@@ -119,6 +119,16 @@ Multiple (check link)
 [Application deadline](https://www.kuleuven.be/english/apply/application-instructions/instructions-doctoral):
 Rolling (position-based)
 
+**Bart Jacobs** — [Homepage](http://www.cs.kuleuven.be/~bartj/) ·
+[Scholar](https://scholar.google.com/citations?user=kCLViEMAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-3605-249X)
+
+- Research: program logics, separation logic, program verification, language
+  features for security and correctness, static analysis, type systems,
+  concurrent programming, language semantics, theorem proving, proof assistants
+
+- Taking students: ✅
+
 **Dominique Devriese** —
 [Homepage](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese) ·
 [Scholar](https://scholar.google.com/citations?user=9vEspiUAAAAJ) ·
@@ -1405,6 +1415,24 @@ December 1st
 
 Application deadline: ❔
 
+**Andrew Ireland** —
+[Homepage](https://www.hw.ac.uk/staff/uk/macs/andrew-ireland.htm) ·
+[Scholar](https://scholar.google.com/citations?user=LQpzXygAAAAJ) ·
+[ORCID](https://orcid.org/0009-0004-3530-9996)
+
+- Research:❔
+
+- Taking students:❔
+
+**Ekaterina Komendantskaya** —
+[Homepage](https://www.hw.ac.uk/staff/uk/macs/ekaterina-komendantskaya.htm) ·
+[Scholar](https://scholar.google.com/citations?user=-HbSa84AAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-3240-0987)
+
+- Research:❔
+
+- Taking students:❔
+
 **Filip Sieczkowski** — [Homepage](https://fsieczkowski.github.io/) ·
 [Scholar](https://scholar.google.com/citations?user=aNLxzEkAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-5011-3458)
@@ -1413,10 +1441,80 @@ Application deadline: ❔
 
 - Taking students:❔
 
+**Hans-Wolfgang Loidl** —
+[Homepage](https://www.hw.ac.uk/staff/uk/macs/hans-wolfgang-loidl.htm) ·
+[Scholar](https://scholar.google.com/citations?user=lwb1Va0AAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-6318-1732)
+
+- Research:❔
+
+- Taking students:❔
+
+**Jamie Gabbay** —
+[Homepage](https://www.hw.ac.uk/staff/uk/macs/murdoch-james-gabbay.htm) ·
+[Scholar](https://scholar.google.com/citations?user=2B9QID8AAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-5796-3455)
+
+- Research:❔
+
+- Taking students:❔
+
 **James McKinna** —
 [Homepage](https://researchportal.hw.ac.uk/en/persons/james-mckinna) ·
 [Scholar](https://scholar.google.com/citations?user=_CjMNVsAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-6745-2560)
+
+- Research:❔
+
+- Taking students:❔
+
+**Joe Wells** —
+[Homepage](https://researchportal.hw.ac.uk/en/persons/joseph-brian-wells)
+
+- Research:❔
+
+- Taking students:❔
+
+**Jurriaan Hage** —
+[Homepage](https://www.hw.ac.uk/staff/uk/macs/jurriaan-hage.htm)
+
+- Research:❔
+
+- Taking students:❔
+
+**Kathrin Stark** —
+[Homepage](https://www.hw.ac.uk/staff/uk/macs/kathrin-stark.htm)
+
+- Research:❔
+
+- Taking students:❔
+
+**Lilia Georgieva** —
+[Homepage](https://www.hw.ac.uk/staff/uk/macs/lilia-georgieva.htm)
+
+- Research:❔
+
+- Taking students:❔
+
+**Marko Doko** —
+[Homepage](https://www.hw.ac.uk/staff/uk/macs/marko-doko.htm)
+
+- Research:❔
+
+- Taking students:❔
+
+**Radu Mardare** —
+[Homepage](http://people.cs.aau.dk/~mardare)
+
+- Research: logics for algebras and co-algebras, quantitative algebraic
+  reasoning, approximation theories for systems, reasoning about probabilistic
+  and stochastic systems, behavioural metrics
+
+- Taking students:❔
+
+**Rob Stewart** —
+[Homepage](https://www.hw.ac.uk/staff/uk/macs/robert-stewart.htm) ·
+[Scholar](https://scholar.google.com/citations?user=ArZWHf4AAAAJ)
 
 - Research:❔
 
@@ -1653,8 +1751,27 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=97wlbikAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9062-759X)
 
-- Research: program synthesis, compilers, memory management, domain specific
-  languages, concurrency, probabilistic programming
+- Research: domain-specific languages, databases, compilers
+
+- Taking students:❔
+
+**Ajitha Rajan** —
+[Homepage](http://homepages.inf.ed.ac.uk/arajan) ·
+[Scholar](https://scholar.google.com/citations?user=Y8ROiBEAAAAJ) ·
+[ORCID](https://orcid.org/0000-0003-3765-3075)
+
+- Research: software engineering, software testing, static analysis, robustness
+  and interpretability of AI models
+
+- Taking students:❔
+
+**Björn Franke** —
+[Homepage](http://homepages.inf.ed.ac.uk/bfranke) ·
+[Scholar](https://scholar.google.com/citations?user=Y6aTqRQAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-1219-8523)
+
+- Research: compilers, JIT compilers, parallelisation, dynamic binary
+  translation, processor simulation
 
 - Taking students:❔
 
@@ -1662,7 +1779,17 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=K_LnaH0AAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-7393-2640)
 
-- Research: quantum programming
+- Research: quantum programming languages, categorical semantics
+
+- Taking students:❔
+
+**David Aspinall** —
+[Homepage](http://homepages.inf.ed.ac.uk/da) ·
+[Scholar](https://scholar.google.com/citations?user=_pT1xEwAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-6073-9013)
+
+- Research: software security and privacy, theorem proving, specification and
+  verification
 
 - Taking students:❔
 
@@ -1670,7 +1797,7 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=wFYhUkIAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-9032-7661)
 
-- Research: formal verification, program verification, program synthesis
+- Research: program synthesis, software verification
 
 - Taking students:❔
 
@@ -1678,8 +1805,14 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=_WljoL8AAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-6800-812X)
 
-- Research: concurrency, program verification, compiler verification, modal
-  logic, type theory, type systems
+- Research: programming language models, concurrency
+
+- Taking students:❔
+
+**Jacques Fleuriot** —
+[Homepage](https://homepages.inf.ed.ac.uk/jdf)
+
+- Research: formal verification, interactive theorem proving
 
 - Taking students:❔
 
@@ -1687,7 +1820,37 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=G-1f1G4AAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1307-9286)
 
-- Research: compilers, automated reasoning, XML
+- Research: databases, logic, verification, provenance, scientific-data
+  management, security
+
+- Taking students:❔
+
+**Markulf Kohlweiss** —
+[Homepage](https://www.inf.ed.ac.uk/people/staff/Markulf_Kohlweiss.html) ·
+[Scholar](https://scholar.google.com/citations?user=pOfF9ygAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-8660-9663)
+
+- Research: formal verification of cryptographic-protocol designs and
+  implementations
+
+- Taking students:❔
+
+**Mike O'Boyle** —
+[Homepage](http://www.dcs.ed.ac.uk/~mob) ·
+[ORCID](https://orcid.org/0000-0003-1619-5052)
+
+- Research: compilers, machine-learning-based compilation, heterogeneous
+  systems, design space exploration
+
+- Taking students:❔
+
+**Myrto Arapinis** —
+[Homepage](https://www.inf.ed.ac.uk/people/staff/Myrto_Arapinis.html) ·
+[Scholar](https://scholar.google.com/citations?user=1GaX8xQAAAAJ) ·
+[ORCID](https://orcid.org/0009-0007-1757-1423)
+
+- Research: provable security, verification of cryptographic protocols, formal
+  models, applied cryptography, quantum cryptography, electronic voting
 
 - Taking students:❔
 
@@ -1695,9 +1858,34 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=-BLwCMkAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-2071-0929)
 
-- Research: compilers, algebraic effects, domain theory, probabilistic
-  programming, concurrency, dependent types, security, metaprogramming, category
-  theory
+- Research: programming-language theory, probabilistic programming,
+  metaprogramming, category theory, logic in computer science
+
+- Taking students:❔
+
+**Paul Jackson** —
+[Homepage](http://homepages.inf.ed.ac.uk/pbj) ·
+[Scholar](https://scholar.google.com/citations?user=WUuHiYQAAAAJ)
+
+- Research: formal verification of hardware, software and cyber-physical
+  systems, interactive theorem proving
+
+- Taking students:❔
+
+**Perdita Stevens** —
+[Homepage](http://homepages.inf.ed.ac.uk/perdita) ·
+[Scholar](https://scholar.google.com/citations?user=KdBhbbYAAAAJ)
+
+- Research: software engineering, model-driven engineering
+
+- Taking students:❔
+
+**Peter Buneman** —
+[Homepage](http://homepages.inf.ed.ac.uk/opb) ·
+[Scholar](https://scholar.google.com/citations?user=d9bq04sAAAAJ) ·
+[ORCID](https://orcid.org/0009-0004-9056-8587)
+
+- Research: query languages, semistructured data, data provenance
 
 - Taking students:❔
 
@@ -1705,7 +1893,7 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=Ngf21nIAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-4712-7423)
 
-- Research: concurrency, language semantics, linear logic, process algebra
+- Research: foundations of concurrency and distribution
 
 - Taking students:❔
 
@@ -1713,7 +1901,8 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=0cB7Ky4AAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1360-4714)
 
-- Research: effect handlers, functional programming
+- Research: functional programming, effect handlers, behavioural types,
+  metaprogramming, type inference
 
 - Taking students:❔
 
@@ -1721,11 +1910,85 @@ Application deadline: ❔
 
 Application deadline: ❔
 
+**Blair Archibald** —
+[Homepage](https://www.gla.ac.uk/schools/computing/staff/blairarchibald) ·
+[Scholar](https://scholar.google.com/citations?user=8i6CAKEAAAAJ) ·
+[ORCID](https://orcid.org/0000-0003-3699-6658)
+
+- Research: modelling concurrent systems, parallel functional programming
+
+- Taking students:❔
+
+**Colin Perkins** —
+[Homepage](https://csperkins.org) ·
+[Scholar](https://scholar.google.com/citations?user=0GDoTyMAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-3404-8964)
+
+- Research: protocol specifications and standards
+
+- Taking students:❔
+
+**Gerardo Aragon Camarasa** —
+[Homepage](http://www.dcs.gla.ac.uk/~gerardo) ·
+[Scholar](https://scholar.google.com/citations?user=mbSbOegAAAAJ) ·
+[ORCID](https://orcid.org/0000-0003-3756-5569)
+
+- Research: programming languages for robotics
+
+- Taking students:❔
+
+**Gul Calikli** —
+[Homepage](https://www.gla.ac.uk/schools/computing/staff/gulcalikli)
+
+- Research: software engineering and programming languages
+
+- Taking students:❔
+
+**Jeremy Singer** —
+[Homepage](http://www.dcs.gla.ac.uk/~jsinger) ·
+[Scholar](https://scholar.google.com/citations?user=UTdRqF8AAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-9462-6802)
+
+- Research: managed runtime systems
+
+- Taking students:❔
+
+**Jose Cano Reyes** —
+[Homepage](https://www.gla.ac.uk/schools/computing/staff/josecano)
+
+- Research: hardware-software co-design, edge computing
+
+- Taking students:❔
+
+**Michele Sevegnani** —
+[Homepage](https://www.gla.ac.uk/schools/computing/staff/michelesevegnani) ·
+[Scholar](https://scholar.google.com/citations?user=ycI17poAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-6773-9481)
+
+- Research: concurrent modelling languages
+
+- Taking students:❔
+
 **Ornela Dardha** — [Homepage](https://www.dcs.gla.ac.uk/~ornela/index.html) ·
 [Scholar](https://scholar.google.com/citations?user=nXneHtMAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-9927-7875)
 
-- Research:❔
+- Research: behavioural types, mechanised programming language theory
+
+- Taking students:❔
+
+**Paul Harvey** —
+[Homepage](https://www.gla.ac.uk/schools/computing/staff/paulharvey) ·
+[Scholar](https://scholar.google.com/citations?user=0w6uYlMAAAAJ)
+
+- Research: runtime systems, adaptability, autonomous networks
+
+- Taking students:❔
+
+**Quintin Cutts** —
+[Homepage](https://www.gla.ac.uk/schools/computing/staff/quintincutts)
+
+- Research: programming language education
 
 - Taking students:❔
 
@@ -1733,14 +1996,24 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=34hm_7UAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-5143-5475)
 
-- Research:❔
+- Research: functional programming, concurrent programming, behavioural types,
+  multi-tier programming
 
 - Taking students:❔
 
 **Simon J. Gay** — [Homepage](https://www.dcs.gla.ac.uk/~simon/) ·
 [Scholar](https://scholar.google.com/citations?user=5x7ArxsAAAAJ)
 
-- Research:❔
+- Research: behavioural types, quantum programming languages
+
+- Taking students:❔
+
+**Wim Vanderbauwhede** —
+[Homepage](http://www.dcs.gla.ac.uk/~wim) ·
+[Scholar](https://scholar.google.com/citations?user=8k8c2f4AAAAJ)
+
+- Research: programming language approaches to security, compilation to
+  hardware, low-carbon and sustainable computing
 
 - Taking students:❔
 
@@ -1826,12 +2099,88 @@ Application deadline: ❔
 
 Application deadline: ❔
 
+**Adam Barwell** —
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/adb23)
+
+- Research: concurrency, parallelism, refactoring, behavioural types
+
+- Taking students:❔
+
+**Chris Brown** —
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/cmb21)
+
+- Research: refactoring, energy-aware programming, parallel programming
+
+- Taking students:❔
+
 **Edwin C. Brady** —
 [Homepage](https://www.st-andrews.ac.uk/computer-science/people/ecb10) ·
 [Scholar](https://scholar.google.com/citations?user=v1butH8AAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9734-367X)
 
-- Research:❔
+- Research: dependent types, type-driven development, domain-specific languages,
+  reasoning about effects
+
+- Taking students:❔
+
+**Ian Miguel** —
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/ijm)
+
+- Research: constraint modelling and solving
+
+- Taking students:❔
+
+**Olexandr Konovalov** —
+[Homepage](https://alex-konovalov.github.io) ·
+[Scholar](https://scholar.google.com/citations?user=EH74mBQAAAAJ)
+
+- Research: programming language education, modelling
+
+- Taking students:❔
+
+**Özgür Akgün** —
+[Homepage](https://ozgurakgun.github.io) ·
+[Scholar](https://scholar.google.com/citations?user=heG7k-gAAAAJ)
+
+- Research: domain-specific languages, constraint solutions, automated
+  configuration
+
+- Taking students:❔
+
+**Ruth Hoffmann** —
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/rh347) ·
+[Scholar](https://scholar.google.com/citations?user=eQQKLD8AAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-1011-5894)
+
+- Research: domain-specific languages, models and symmetry reduction
+
+- Taking students:❔
+
+**Susmit Sarkar** —
+[Homepage](https://ss265.host.cs.st-andrews.ac.uk) ·
+[Scholar](https://scholar.google.com/citations?user=j4LMPLwAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-4259-9213)
+
+- Research: formal architecture, memory consistency, compiler correctness
+
+- Taking students:❔
+
+**Tom Spink** —
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/tcs6)
+
+- Research: compiler implementations, runtime systems, security
+
+- Taking students:❔
+
+### University of Stirling
+
+Application deadline: ❔
+
+**Patrick Maier** —
+[Homepage](https://www.stir.ac.uk/people/257547)
+
+- Research: parallel and distributed programming languages, parallel symbolic
+  computation, parallel cost models
 
 - Taking students:❔
 
@@ -1839,12 +2188,21 @@ Application deadline: ❔
 
 Application deadline: ❔
 
+**Clemens Kupke** —
+[Homepage](https://pureportal.strath.ac.uk/en/persons/clemens-kupke/publications) ·
+[ORCID](https://orcid.org/0000-0002-0502-391X)
+
+- Research: coalgebraic modelling of systems, logical verification,
+  model-checking, fixpoint logics, game-theoretic semantics, automata theory
+
+- Taking students:❔
+
 **Conor McBride** — [Homepage](http://strictlypositive.org/) ·
 [Scholar](https://scholar.google.com/citations?user=vO7qGKwAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-1487-0886)
 
-- Research: functional programming, type systems, dependent types, type theory,
-  Haskell
+- Research: dependent type theory, functional programming, effects and handlers,
+  programming language design and metatheory, category theory
 
 - Taking students:❔
 
@@ -1852,8 +2210,24 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=-0ALlRsAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-6157-9288)
 
-- Research: category theory, constructive mathematics, type theory, dependent
-  types
+- Research: dependent type theory, homotopy type theory, constructive
+  mathematics, categorical semantics of programming languages
+
+- Taking students:❔
+
+**Guillaume Allais** —
+[Homepage](https://gallais.github.io)
+
+- Research: type-driven programming, correct-by-construction methodology, proof
+  automation, generic programming
+
+- Taking students:❔
+
+**Jan de Muijnck-Hughes** —
+[Homepage](https://www.strath.ac.uk/staff/demuijnck-hughesjandr)
+
+- Research: applications of type systems, dependent types, and functional
+  programming to make systems more trustworthy
 
 - Taking students:❔
 
@@ -1861,8 +2235,28 @@ Application deadline: ❔
 [Scholar](https://scholar.google.com/citations?user=0bo89OQAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-4414-5047)
 
-- Research: linear types, dependent types, type theory, type systems,
-  trustworthy AI
+- Research: formal analysis of programming languages, type theory, denotational
+  semantics, theorem provers
+
+- Taking students:❔
+
+**Ross Horne** —
+[Homepage](https://www.strath.ac.uk/staff/hornerossdr)
+
+- Research: protocol verification, session types, proof theory, attack trees,
+  logic on graphs
+
+- Taking students:❔
+
+### University of the West of Scotland
+
+Application deadline: ❔
+
+**Paul Keir** —
+[Homepage](https://www.uws.ac.uk/staff-directory/paul-keir)
+
+- Research: compilers, heterogeneous systems, metaprogramming, functional
+  programming
 
 - Taking students:❔
 
