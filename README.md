@@ -1416,7 +1416,7 @@ December 1st
 Application deadline: ❔
 
 **Andrew Ireland** —
-[Homepage](https://www.hw.ac.uk/staff/uk/macs/andrew-ireland.htm) ·
+[Homepage](https://www.macs.hw.ac.uk/~air/) ·
 [Scholar](https://scholar.google.com/citations?user=LQpzXygAAAAJ) ·
 [ORCID](https://orcid.org/0009-0004-3530-9996)
 
@@ -1425,7 +1425,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Ekaterina Komendantskaya** —
-[Homepage](https://www.hw.ac.uk/staff/uk/macs/ekaterina-komendantskaya.htm) ·
+[Homepage](https://www.macs.hw.ac.uk/~ek19/) ·
 [Scholar](https://scholar.google.com/citations?user=-HbSa84AAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-3240-0987)
 
@@ -1442,7 +1442,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Hans-Wolfgang Loidl** —
-[Homepage](https://www.hw.ac.uk/staff/uk/macs/hans-wolfgang-loidl.htm) ·
+[Homepage](https://www.macs.hw.ac.uk/~hwloidl/) ·
 [Scholar](https://scholar.google.com/citations?user=lwb1Va0AAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-6318-1732)
 
@@ -1451,7 +1451,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Jamie Gabbay** —
-[Homepage](https://www.hw.ac.uk/staff/uk/macs/murdoch-james-gabbay.htm) ·
+[Homepage](https://gabbay.org.uk/) ·
 [Scholar](https://scholar.google.com/citations?user=2B9QID8AAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-5796-3455)
 
@@ -1469,42 +1469,42 @@ Application deadline: ❔
 - Taking students:❔
 
 **Joe Wells** —
-[Homepage](https://researchportal.hw.ac.uk/en/persons/joseph-brian-wells)
+[Homepage](https://www.macs.hw.ac.uk/~jbw/)
 
 - Research:❔
 
 - Taking students:❔
 
 **Jurriaan Hage** —
-[Homepage](https://www.hw.ac.uk/staff/uk/macs/jurriaan-hage.htm)
+[Homepage](https://www.macs.hw.ac.uk/~jh2054/index.html)
 
 - Research:❔
 
 - Taking students:❔
 
 **Kathrin Stark** —
-[Homepage](https://www.hw.ac.uk/staff/uk/macs/kathrin-stark.htm)
+[Homepage](https://www.k-stark.de/)
 
 - Research:❔
 
 - Taking students:❔
 
 **Lilia Georgieva** —
-[Homepage](https://www.hw.ac.uk/staff/uk/macs/lilia-georgieva.htm)
+[Homepage](https://www.macs.hw.ac.uk/~lilia/)
 
 - Research:❔
 
 - Taking students:❔
 
 **Marko Doko** —
-[Homepage](https://www.hw.ac.uk/staff/uk/macs/marko-doko.htm)
+[Homepage](https://www.macs.hw.ac.uk/~md2021/)
 
 - Research:❔
 
 - Taking students:❔
 
 **Radu Mardare** —
-[Homepage](http://people.cs.aau.dk/~mardare)
+[Homepage](https://personal.cis.strath.ac.uk/r.mardare/)
 
 - Research: logics for algebras and co-algebras, quantitative algebraic
   reasoning, approximation theories for systems, reasoning about probabilistic
@@ -1513,7 +1513,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Rob Stewart** —
-[Homepage](https://www.hw.ac.uk/staff/uk/macs/robert-stewart.htm) ·
+[Homepage](https://www.macs.hw.ac.uk/~rs46/) ·
 [Scholar](https://scholar.google.com/citations?user=ArZWHf4AAAAJ)
 
 - Research:❔
@@ -1756,7 +1756,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Ajitha Rajan** —
-[Homepage](http://homepages.inf.ed.ac.uk/arajan) ·
+[Homepage](https://homepages.inf.ed.ac.uk/arajan/) ·
 [Scholar](https://scholar.google.com/citations?user=Y8ROiBEAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-3765-3075)
 
@@ -1766,7 +1766,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Björn Franke** —
-[Homepage](http://homepages.inf.ed.ac.uk/bfranke) ·
+[Homepage](https://blog.inf.ed.ac.uk/bfranke/) ·
 [Scholar](https://scholar.google.com/citations?user=Y6aTqRQAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-1219-8523)
 
@@ -1784,7 +1784,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **David Aspinall** —
-[Homepage](http://homepages.inf.ed.ac.uk/da) ·
+[Homepage](https://homepages.inf.ed.ac.uk/da/) ·
 [Scholar](https://scholar.google.com/citations?user=_pT1xEwAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-6073-9013)
 
@@ -1810,7 +1810,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Jacques Fleuriot** —
-[Homepage](https://homepages.inf.ed.ac.uk/jdf)
+[Homepage](https://homepages.inf.ed.ac.uk/jdf/)
 
 - Research: formal verification, interactive theorem proving
 
@@ -1826,7 +1826,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Markulf Kohlweiss** —
-[Homepage](https://www.inf.ed.ac.uk/people/staff/Markulf_Kohlweiss.html) ·
+[Homepage](https://homepages.inf.ed.ac.uk/mkohlwei/) ·
 [Scholar](https://scholar.google.com/citations?user=pOfF9ygAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-8660-9663)
 
@@ -1836,7 +1836,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Mike O'Boyle** —
-[Homepage](http://www.dcs.ed.ac.uk/~mob) ·
+[Homepage](https://www.dcs.ed.ac.uk/home/mob/) ·
 [ORCID](https://orcid.org/0000-0003-1619-5052)
 
 - Research: compilers, machine-learning-based compilation, heterogeneous
@@ -1845,7 +1845,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Myrto Arapinis** —
-[Homepage](https://www.inf.ed.ac.uk/people/staff/Myrto_Arapinis.html) ·
+[Homepage](https://homepages.inf.ed.ac.uk/marapini/) ·
 [Scholar](https://scholar.google.com/citations?user=1GaX8xQAAAAJ) ·
 [ORCID](https://orcid.org/0009-0007-1757-1423)
 
@@ -1873,7 +1873,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Perdita Stevens** —
-[Homepage](http://homepages.inf.ed.ac.uk/perdita) ·
+[Homepage](https://perditastevens.com/homepage/) ·
 [Scholar](https://scholar.google.com/citations?user=KdBhbbYAAAAJ)
 
 - Research: software engineering, model-driven engineering
@@ -1911,7 +1911,7 @@ Application deadline: ❔
 Application deadline: ❔
 
 **Blair Archibald** —
-[Homepage](https://www.gla.ac.uk/schools/computing/staff/blairarchibald) ·
+[Homepage](http://blairarchibald.co.uk/) ·
 [Scholar](https://scholar.google.com/citations?user=8i6CAKEAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-3699-6658)
 
@@ -1929,7 +1929,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Gerardo Aragon Camarasa** —
-[Homepage](http://www.dcs.gla.ac.uk/~gerardo) ·
+[Homepage](https://www.gla.ac.uk/schools/computing/staff/gerardoaragoncamarasa/) ·
 [Scholar](https://scholar.google.com/citations?user=mbSbOegAAAAJ) ·
 [ORCID](https://orcid.org/0000-0003-3756-5569)
 
@@ -1938,14 +1938,14 @@ Application deadline: ❔
 - Taking students:❔
 
 **Gul Calikli** —
-[Homepage](https://www.gla.ac.uk/schools/computing/staff/gulcalikli)
+[Homepage](https://gulcalikli.github.io/)
 
 - Research: software engineering and programming languages
 
 - Taking students:❔
 
 **Jeremy Singer** —
-[Homepage](http://www.dcs.gla.ac.uk/~jsinger) ·
+[Homepage](https://www.dcs.gla.ac.uk/~jsinger/) ·
 [Scholar](https://scholar.google.com/citations?user=UTdRqF8AAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-9462-6802)
 
@@ -1954,14 +1954,14 @@ Application deadline: ❔
 - Taking students:❔
 
 **Jose Cano Reyes** —
-[Homepage](https://www.gla.ac.uk/schools/computing/staff/josecano)
+[Homepage](https://www.dcs.gla.ac.uk/~josecr/)
 
 - Research: hardware-software co-design, edge computing
 
 - Taking students:❔
 
 **Michele Sevegnani** —
-[Homepage](https://www.gla.ac.uk/schools/computing/staff/michelesevegnani) ·
+[Homepage](https://www.gla.ac.uk/schools/computing/staff/michelesevegnani/) ·
 [Scholar](https://scholar.google.com/citations?user=ycI17poAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-6773-9481)
 
@@ -1978,7 +1978,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Paul Harvey** —
-[Homepage](https://www.gla.ac.uk/schools/computing/staff/paulharvey) ·
+[Homepage](http://paul-harvey.org) ·
 [Scholar](https://scholar.google.com/citations?user=0w6uYlMAAAAJ)
 
 - Research: runtime systems, adaptability, autonomous networks
@@ -1986,7 +1986,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Quintin Cutts** —
-[Homepage](https://www.gla.ac.uk/schools/computing/staff/quintincutts)
+[Homepage](https://www.dcs.gla.ac.uk/~quintin/)
 
 - Research: programming language education
 
@@ -2001,7 +2001,7 @@ Application deadline: ❔
 
 - Taking students:❔
 
-**Simon J. Gay** — [Homepage](https://www.dcs.gla.ac.uk/~simon/) ·
+**Simon J. Gay** — [Homepage](https://www.gla.ac.uk/schools/computing/staff/simongay/) ·
 [Scholar](https://scholar.google.com/citations?user=5x7ArxsAAAAJ)
 
 - Research: behavioural types, quantum programming languages
@@ -2009,7 +2009,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Wim Vanderbauwhede** —
-[Homepage](http://www.dcs.gla.ac.uk/~wim) ·
+[Homepage](https://www.dcs.gla.ac.uk/~wim/) ·
 [Scholar](https://scholar.google.com/citations?user=8k8c2f4AAAAJ)
 
 - Research: programming language approaches to security, compilation to
@@ -2100,21 +2100,21 @@ Application deadline: ❔
 Application deadline: ❔
 
 **Adam Barwell** —
-[Homepage](https://www.st-andrews.ac.uk/computer-science/people/adb23)
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/adb23/)
 
 - Research: concurrency, parallelism, refactoring, behavioural types
 
 - Taking students:❔
 
 **Chris Brown** —
-[Homepage](https://www.st-andrews.ac.uk/computer-science/people/cmb21)
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/cmb21/)
 
 - Research: refactoring, energy-aware programming, parallel programming
 
 - Taking students:❔
 
 **Edwin C. Brady** —
-[Homepage](https://www.st-andrews.ac.uk/computer-science/people/ecb10) ·
+[Homepage](https://www.type-driven.org.uk/edwinb/) ·
 [Scholar](https://scholar.google.com/citations?user=v1butH8AAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-9734-367X)
 
@@ -2131,7 +2131,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Olexandr Konovalov** —
-[Homepage](https://alex-konovalov.github.io) ·
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/obk1/) ·
 [Scholar](https://scholar.google.com/citations?user=EH74mBQAAAAJ)
 
 - Research: programming language education, modelling
@@ -2157,7 +2157,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Susmit Sarkar** —
-[Homepage](https://ss265.host.cs.st-andrews.ac.uk) ·
+[Homepage](https://www.st-andrews.ac.uk/computer-science/people/ss265/) ·
 [Scholar](https://scholar.google.com/citations?user=j4LMPLwAAAAJ) ·
 [ORCID](https://orcid.org/0000-0002-4259-9213)
 
@@ -2166,7 +2166,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Tom Spink** —
-[Homepage](https://www.st-andrews.ac.uk/computer-science/people/tcs6)
+[Homepage](https://tom-spink.com/)
 
 - Research: compiler implementations, runtime systems, security
 
@@ -2177,7 +2177,7 @@ Application deadline: ❔
 Application deadline: ❔
 
 **Patrick Maier** —
-[Homepage](https://www.stir.ac.uk/people/257547)
+[Homepage](https://www.cs.stir.ac.uk/~cpm/)
 
 - Research: parallel and distributed programming languages, parallel symbolic
   computation, parallel cost models
@@ -2189,7 +2189,7 @@ Application deadline: ❔
 Application deadline: ❔
 
 **Clemens Kupke** —
-[Homepage](https://pureportal.strath.ac.uk/en/persons/clemens-kupke/publications) ·
+[Homepage](https://www.strath.ac.uk/staff/kupkeclemensdr/) ·
 [ORCID](https://orcid.org/0000-0002-0502-391X)
 
 - Research: coalgebraic modelling of systems, logical verification,
@@ -2206,7 +2206,7 @@ Application deadline: ❔
 
 - Taking students:❔
 
-**Fredrik Nordvall Forsberg** — [Homepage](https://fredriknf.com/) ·
+**Fredrik Nordvall Forsberg** — [Homepage](https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/) ·
 [Scholar](https://scholar.google.com/citations?user=-0ALlRsAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-6157-9288)
 
@@ -2224,7 +2224,7 @@ Application deadline: ❔
 - Taking students:❔
 
 **Jan de Muijnck-Hughes** —
-[Homepage](https://www.strath.ac.uk/staff/demuijnck-hughesjandr)
+[Homepage](https://tyde.systems)
 
 - Research: applications of type systems, dependent types, and functional
   programming to make systems more trustworthy
@@ -2253,7 +2253,7 @@ Application deadline: ❔
 Application deadline: ❔
 
 **Paul Keir** —
-[Homepage](https://www.uws.ac.uk/staff-directory/paul-keir)
+[Homepage](https://pkeir.github.io/)
 
 - Research: compilers, heterogeneous systems, metaprogramming, functional
   programming
