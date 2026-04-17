@@ -79,11 +79,13 @@ placeholder[^1].
 
 ## Regenerating the README
 
-After editing the YAML, regenerate the README (GitHub actions coming soon):
+After editing the YAML, you can manually regenerate the README:
 
 ```
 python scripts/generate_readme.py
 ```
+
+Or just push and let the workflow do it.
 
 ## Previewing the site locally
 
