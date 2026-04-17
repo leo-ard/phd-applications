@@ -361,7 +361,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Rasmus Ejlers Møgelberg** — [Homepage](http://www.itu.dk/people/mogel) · [ORCID](https://orcid.org/0000-0003-0386-4376)
+**Rasmus Ejlers Møgelberg** — [Homepage](http://www.itu.dk/people/mogel) · [Scholar](https://scholar.google.com/citations?user=MBiWoI8AAAAJ) · [ORCID](https://orcid.org/0000-0003-0386-4376)
 
 - Research: type theory, language semantics, category theory, domain theory, type systems, algebraic effects
 
@@ -457,7 +457,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Kenji Maillard** — [Homepage](https://kenji.maillard.blue) · [ORCID](https://orcid.org/0000-0001-5554-3203)
+**Kenji Maillard** — [Homepage](https://kenji.maillard.blue) · [Scholar](https://scholar.google.com/citations?user=FHFfxRAAAAAJ) · [ORCID](https://orcid.org/0000-0001-5554-3203)
 
 - Research: type theory, dependent types, type systems, program verification, proof assistants
 
@@ -559,7 +559,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Gilles Barthe** — [Homepage](https://gbarthe.github.io) · [ORCID](https://orcid.org/0000-0002-3853-1777)
+**Gilles Barthe** — [Homepage](https://gbarthe.github.io) · [Scholar](https://scholar.google.com/citations?user=kAkmfWEAAAAJ) · [ORCID](https://orcid.org/0000-0002-3853-1777)
 
 - Research: program verification, relational verification, security, cryptography, differential privacy, formal methods, logic
 
@@ -992,7 +992,7 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Zhoulai Fu** — [Homepage](https://zhoulaifu.com) · [ORCID](https://orcid.org/0000-0003-2073-0564)
+**Zhoulai Fu** — [Homepage](https://zhoulaifu.com) · [Scholar](https://scholar.google.com/citations?user=1syaDm8AAAAJ) · [ORCID](https://orcid.org/0000-0003-2073-0564)
 
 - Research: security
 
@@ -1028,13 +1028,13 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Magnus O. Myreen** — [Homepage](https://www.cse.chalmers.se/~myreen) · [ORCID](https://orcid.org/0000-0002-9504-4107)
+**Magnus O. Myreen** — [Homepage](https://www.cse.chalmers.se/~myreen) · [Scholar](https://scholar.google.com/citations?user=XfqNgKwAAAAJ) · [ORCID](https://orcid.org/0000-0002-9504-4107)
 
 - Research: program verification, interactive theorem provers
 
 - Taking students: ❔
 
-**Nils Anders Danielsson** — [Homepage](https://www.cse.chalmers.se/~nad) · [ORCID](https://orcid.org/0000-0001-8688-0333)
+**Nils Anders Danielsson** — [Homepage](https://www.cse.chalmers.se/~nad) · [Scholar](https://scholar.google.com/citations?user=YMU90ywAAAAJ) · [ORCID](https://orcid.org/0000-0001-8688-0333)
 
 - Research: dependent types
 
@@ -1187,13 +1187,13 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Marko Doko** — [Homepage](https://marko.doko.foo/)
+**Marko Doko** — [Homepage](https://marko.doko.foo/) · [ORCID](https://orcid.org/0000-0001-6573-8346)
 
 - Research: foundations of mathematics, interactive theorem proving, program verification, formal methods, weak memory concurrency
 
 - Taking students: ❔
 
-**Radu Mardare** — [Homepage](https://www.macs.hw.ac.uk/~rm4023/)
+**Radu Mardare** — [Homepage](https://www.macs.hw.ac.uk/~rm4023/) · [Scholar](https://scholar.google.com/citations?user=8Ksxvc0AAAAJ) · [ORCID](https://orcid.org/0000-0001-8660-1832)
 
 - Research: logics for algebras and co-algebras, quantitative algebraic reasoning, approximation theories for systems, reasoning about probabilistic and stochastic systems, behavioural metrics
 
@@ -1280,7 +1280,7 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Francisco Ferreira** — [Homepage](https://franciscoferreira.org) · [ORCID](https://orcid.org/0000-0001-8494-7696)
+**Francisco Ferreira** — [Homepage](https://franciscoferreira.org) · [Scholar](https://scholar.google.com/citations?user=-N9rTUQAAAAJ) · [ORCID](https://orcid.org/0000-0001-8494-7696)
 
 - Research: type systems, formal methods, concurrency, modal types
 
@@ -1358,13 +1358,13 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Neelakantan R. Krishnaswami** — [Homepage](https://www.cl.cam.ac.uk/~nk480) · [Scholar](https://scholar.google.com/citations?user=qCE8eVcAAAAJ)
+**Neelakantan R. Krishnaswami** — [Homepage](https://www.cl.cam.ac.uk/~nk480) · [Scholar](https://scholar.google.com/citations?user=qCE8eVcAAAAJ) · [ORCID](https://orcid.org/0000-0003-2838-5865)
 
 - Research: program verification, language design, language semantics, type theory
 
 - Taking students: ❔
 
-**Peter Sewell** — [Homepage](https://www.cl.cam.ac.uk/~pes20) · [ORCID](https://orcid.org/0000-0001-9352-1013)
+**Peter Sewell** — [Homepage](https://www.cl.cam.ac.uk/~pes20) · [Scholar](https://scholar.google.com/citations?user=EkIgIUcAAAAJ) · [ORCID](https://orcid.org/0000-0001-9352-1013)
 
 - Research: type systems, formal methods, concurrency, memory management, program verification
 
@@ -1422,7 +1422,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Jacques Fleuriot** — [Homepage](https://homepages.inf.ed.ac.uk/jdf/)
+**Jacques Fleuriot** — [Homepage](https://homepages.inf.ed.ac.uk/jdf/) · [ORCID](https://orcid.org/0000-0002-6867-9836)
 
 - Research: formal verification, interactive theorem proving
 
@@ -1510,11 +1510,11 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Gul Calikli** — [Homepage](https://gulcalikli.github.io/)
+**H. Gül Çalikli** — [Homepage](https://gulcalikli.github.io/) · [Scholar](https://scholar.google.com/citations?user=lShgfvwAAAAJ) · [ORCID](https://orcid.org/0000-0003-4578-1747)
 
 - Research: software engineering and programming languages
 
-- Taking students: ❔
+- Taking students: ✅
 
 **Jeremy Singer** — [Homepage](https://www.dcs.gla.ac.uk/~jsinger/) · [Scholar](https://scholar.google.com/citations?user=UTdRqF8AAAAJ) · [ORCID](https://orcid.org/0000-0001-9462-6802)
 
@@ -1522,7 +1522,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Jose Cano Reyes** — [Homepage](https://www.dcs.gla.ac.uk/~josecr/)
+**José Cano Reyes** — [Homepage](https://www.dcs.gla.ac.uk/~josecr/) · [ORCID](https://orcid.org/0000-0002-2243-389X)
 
 - Research: hardware-software co-design, edge computing
 
@@ -1546,7 +1546,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Quintin Cutts** — [Homepage](https://www.dcs.gla.ac.uk/~quintin/)
+**Quintin Cutts** — [Homepage](https://www.dcs.gla.ac.uk/~quintin/) · [Scholar](https://scholar.google.com/citations?user=I9U41jQAAAAJ) · [ORCID](https://orcid.org/0000-0002-6368-9912)
 
 - Research: programming language education
 
@@ -1632,13 +1632,13 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Adam Barwell** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/adb23/)
+**Adam Barwell** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/adb23/) · [Scholar](https://scholar.google.com/citations?user=4s-50FIAAAAJ) · [ORCID](https://orcid.org/0000-0003-1236-7160)
 
 - Research: concurrency, parallelism, refactoring, behavioural types
 
 - Taking students: ❔
 
-**Chris Brown** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/cmb21/)
+**Christopher Brown** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/cmb21/) · [Scholar](https://scholar.google.com/citations?user=WBbFjMcAAAAJ) · [ORCID](https://orcid.org/0000-0001-6030-2885)
 
 - Research: refactoring, energy-aware programming, parallel programming
 
@@ -1650,7 +1650,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Ian Miguel** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/ijm)
+**Ian Miguel** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/ijm) · [Scholar](https://scholar.google.com/citations?user=IS6YSBkAAAAJ) · [ORCID](https://orcid.org/0000-0002-6930-2686)
 
 - Research: constraint modelling and solving
 
@@ -1680,7 +1680,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Tom Spink** — [Homepage](https://tom-spink.com/)
+**Tom Spink** — [Homepage](https://tom-spink.com/) · [Scholar](https://scholar.google.com/citations?user=x2MfRUYAAAAJ) · [ORCID](https://orcid.org/0000-0002-7662-3146)
 
 - Research: compiler implementations, runtime systems, security
 
@@ -1690,7 +1690,7 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Patrick Maier** — [Homepage](https://www.cs.stir.ac.uk/~cpm/)
+**Patrick Maier** — [Homepage](https://www.cs.stir.ac.uk/~cpm/) · [Scholar](https://scholar.google.com/citations?user=FDIrRFoAAAAJ) · [ORCID](https://orcid.org/0000-0002-7051-8169)
 
 - Research: parallel and distributed programming languages, parallel symbolic computation, parallel cost models
 
@@ -1718,13 +1718,13 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Guillaume Allais** — [Homepage](https://gallais.github.io)
+**Guillaume Allais** — [Homepage](https://gallais.github.io) · [Scholar](https://scholar.google.com/citations?user=kUWJDssAAAAJ) · [ORCID](https://orcid.org/0000-0002-4091-657X)
 
 - Research: type-driven programming, correct-by-construction methodology, proof automation, generic programming
 
 - Taking students: ❔
 
-**Jan de Muijnck-Hughes** — [Homepage](https://tyde.systems)
+**Jan de Muijnck-Hughes** — [Homepage](https://tyde.systems) · [Scholar](https://scholar.google.com/citations?user=MoieSwcAAAAJ) · [ORCID](https://orcid.org/0000-0003-2185-8543)
 
 - Research: applications of type systems, dependent types, and functional programming to make systems more trustworthy
 
@@ -1736,7 +1736,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Ross Horne** — [Homepage](https://www.strath.ac.uk/staff/hornerossdr)
+**Ross Horne** — [Homepage](https://www.strath.ac.uk/staff/hornerossdr) · [Scholar](https://scholar.google.com/citations?user=RWT1XmsAAAAJ) · [ORCID](https://orcid.org/0000-0003-0162-1901)
 
 - Research: protocol verification, session types, proof theory, attack trees, logic on graphs
 
@@ -1746,7 +1746,7 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Paul Keir** — [Homepage](https://pkeir.github.io/)
+**Paul Keir** — [Homepage](https://pkeir.github.io/) · [Scholar](https://scholar.google.com/citations?user=U6acCsEAAAAJ) · [ORCID](https://orcid.org/0000-0002-4781-9377)
 
 - Research: compilers, heterogeneous systems, metaprogramming, functional programming
 
@@ -2084,7 +2084,7 @@ Application deadline: December 15th
 
 - Taking students: ❔
 
-**Joshua Gancher** — [Homepage](https://gancher.dev) · [ORCID](https://orcid.org/0000-0003-2257-7073)
+**Joshua Gancher** — [Homepage](https://gancher.dev) · [Scholar](https://scholar.google.com/citations?user=PdDZvm0AAAAJ) · [ORCID](https://orcid.org/0000-0003-2257-7073)
 
 - Research: proof assistants, distributed systems
 
@@ -2265,7 +2265,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Sarah E. Chasins** — [Homepage](https://schasins.com) · [ORCID](https://orcid.org/0000-0003-0557-3580)
+**Sarah E. Chasins** — [Homepage](https://schasins.com) · [Scholar](https://scholar.google.com/citations?user=-5Em-tcAAAAJ) · [ORCID](https://orcid.org/0000-0003-0557-3580)
 
 - Research: program synthesis, compilers
 
@@ -2608,13 +2608,13 @@ Application deadline: December 15th
 
 **Max S. New** — [Homepage](http://maxsnew.com) · [Scholar](https://scholar.google.com/citations?user=Mvl9hhEAAAAJ) · [ORCID](https://orcid.org/0000-0001-8141-195X)
 
-- Research: category theory
+- Research: language semantics, gradual typing, interoperability, category theory, compiler intermediate languages
 
 - Taking students: ❔
 
 **Xinyu Wang** — [Homepage](https://web.eecs.umich.edu/~xwangsd) · [Scholar](https://scholar.google.com/citations?user=mvasb5AAAAAJ) · [ORCID](https://orcid.org/0000-0002-1836-0202)
 
-- Research: formal methods
+- Research: program synthesis, query optimization, databases, web automation, formal methods
 
 - Taking students: ❔
 
@@ -2640,7 +2640,7 @@ Application deadline: Decmeber 15th
 
 - Taking students: ✅
 
-**Stephanie Weirich** — [Homepage](https://www.cis.upenn.edu/~sweirich) · [ORCID](https://orcid.org/0000-0002-6756-9168)
+**Stephanie Weirich** — [Homepage](https://www.cis.upenn.edu/~sweirich) · [Scholar](https://scholar.google.com/citations?user=-vC_l2kAAAAJ) · [ORCID](https://orcid.org/0000-0002-6756-9168)
 
 - Research: type systems, dependent types
 
@@ -2754,7 +2754,7 @@ Application deadline: December 15th
 
 Application deadline: December 15th
 
-**Alexander K. Lew** — [Homepage](https://engineering.yale.edu/research-and-faculty/faculty-directory/alex-lew) · [Scholar](https://scholar.google.com/citations?user=TiF1WEsAAAAJ)
+**Alexander K. Lew** — [Homepage](https://engineering.yale.edu/research-and-faculty/faculty-directory/alex-lew) · [Scholar](https://scholar.google.com/citations?user=TiF1WEsAAAAJ) · [ORCID](https://orcid.org/0000-0002-9262-4392)
 
 - Research: probabilistic programming
 
