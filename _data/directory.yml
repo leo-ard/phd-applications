@@ -352,12 +352,10 @@
     - name: Cezara Dragoi
       homepage: http://www.di.ens.fr/~cezarad
       research: formal verification, automated reasoning, separation logic, static analysis
-      image: /assets/img/profiles/cezara-dragoi.jpg
     - name: Marc Pouzet
       homepage: https://www.di.ens.fr/~pouzet
       orcid: https://orcid.org/0000-0002-2651-7708
       research: type systems, functional programming, language design, language implementation, language semantics
-      image: /assets/img/profiles/marc-pouzet.jpg
     - name: Xavier Rival
       homepage: http://www.di.ens.fr/~rival
       scholar: https://scholar.google.com/citations?user=YGy_zroAAAAJ
