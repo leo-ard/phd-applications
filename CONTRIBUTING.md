@@ -22,8 +22,9 @@ Edit `_data/directory.yml`. Each professor entry looks like this:
   homepage: https://example.com/~jsmith
   scholar: https://scholar.google.com/citations?user=XXXXXXXXXXXX
   orcid: https://orcid.org/0000-0000-0000-0000
+  dblp: https://dblp.org/pid/XX/XXXX.html
   research: type systems, formal methods, program verification
-  taking_students: "yes"    # "yes", "no", or omit if unknown
+  taking_students: true    # true, false, or omit if unknown
   image: /assets/img/profiles/jane-smith.jpg  # optional
 ```
 

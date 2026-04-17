@@ -23,6 +23,7 @@
 {%- if prof.homepage %}{% set _ = links.append("[Homepage](" ~ prof.homepage ~ ")") %}{% endif -%}
 {%- if prof.scholar %}{% set _ = links.append("[Scholar](" ~ prof.scholar ~ ")") %}{% endif -%}
 {%- if prof.orcid %}{% set _ = links.append("[ORCID](" ~ prof.orcid ~ ")") %}{% endif -%}
+{%- if prof.dblp %}{% set _ = links.append("[DBLP](" ~ prof.dblp ~ ")") %}{% endif -%}
 {% if links -%}
 **{{ prof.name }}** — {{ links | join(' · ') }}
 {%- else -%}
@@ -33,7 +34,7 @@
 
 - Taking students: {% if prof.taking_students is true %}✅{% elif prof.taking_students is false %}❌{% else %}❔{% endif %}
 {%- endmacro %}
-# {{ config.title }}
+# {{ config.title }} ({{ config.cycle }})
 
 > **Note:** This file is auto-generated from
 > [`_data/directory.yml`](_data/directory.yml). To make changes,

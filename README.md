@@ -1,4 +1,4 @@
-# PL Theory PhD Directory (2026-2027)
+# PL Theory PhD Directory (2026–2027)
 
 > **Note:** This file is auto-generated from
 > [`_data/directory.yml`](_data/directory.yml). To make changes,
@@ -41,25 +41,25 @@ Inspired by and sourced from [PLGradSchools](https://github.com/LeifAndersen/PLG
 
 [Application deadline](https://study.anu.edu.au/apply/postgraduate-research): ❔
 
-**Alex Potanin** — [Homepage](https://potanin.github.io/) · [Scholar](https://scholar.google.com.au/citations?user=NUl2HRkAAAAJ) · [ORCID](https://orcid.org/0000-0002-4242-2725)
+**Alex Potanin** — [Homepage](https://potanin.github.io/) · [Scholar](https://scholar.google.com.au/citations?user=NUl2HRkAAAAJ) · [ORCID](https://orcid.org/0000-0002-4242-2725) · [DBLP](https://dblp.org/pid/88/4178)
 
 - Research: security, language design, software engineering, quantum devices, trustworthy systems
 
 - Taking students: ❔
 
-**Alwen Tiu** — [Homepage](https://comp.anu.edu.au/people/alwen-tiu/) · [Scholar](https://scholar.google.com/citations?user=92pa9z8AAAAJ) · [ORCID](https://orcid.org/0000-0002-2695-5636)
+**Alwen Tiu** — [Homepage](https://comp.anu.edu.au/people/alwen-tiu/) · [Scholar](https://scholar.google.com/citations?user=92pa9z8AAAAJ) · [ORCID](https://orcid.org/0000-0002-2695-5636) · [DBLP](https://dblp.org/pid/t/AlwenTiu)
 
 - Research: formal methods, logic, automated theorem proving, security
 
 - Taking students: ❔
 
-**Dirk Pattinson** — [Homepage](https://users.cecs.anu.edu.au/~dpattinson/) · [Scholar](https://scholar.google.com/citations?user=_QbFzhkAAAAJ) · [ORCID](https://orcid.org/0000-0002-5832-6666)
+**Dirk Pattinson** — [Homepage](https://users.cecs.anu.edu.au/~dpattinson/) · [Scholar](https://scholar.google.com/citations?user=_QbFzhkAAAAJ) · [ORCID](https://orcid.org/0000-0002-5832-6666) · [DBLP](https://dblp.org/pid/p/DPattinson)
 
 - Research: modal logic, domain theory, coalgebraic semantics, category theory
 
 - Taking students: ❔
 
-**Fabian Muehlboeck** — [Homepage](https://users.cecs.anu.edu.au/~fabian.muehlboeck) · [Scholar](https://scholar.google.com/citations?user=ESll9OcAAAAJ) · [ORCID](https://orcid.org/0000-0003-1548-0177)
+**Fabian Muehlboeck** — [Homepage](https://users.cecs.anu.edu.au/~fabian.muehlboeck) · [Scholar](https://scholar.google.com/citations?user=ESll9OcAAAAJ) · [ORCID](https://orcid.org/0000-0003-1548-0177) · [DBLP](https://dblp.org/pid/145/1074)
 
 - Research: type systems, gradual typing, language design, language implementation
 
@@ -273,7 +273,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Yizhou Zhang** — [Homepage](https://cs.uwaterloo.ca/~yizhou) · [Scholar](https://scholar.google.com/citations?user=8n7ZcbwAAAAJ) · [ORCID](https://orcid.org/0000-0002-8206-4694)
+**Yizhou Zhang** — [Homepage](https://cs.uwaterloo.ca/~yizhou) · [Scholar](https://scholar.google.com/citations?user=8n7ZcbwAAAAJ) · [ORCID](https://orcid.org/0000-0002-8206-4694) · [DBLP](https://dblp.org/pid/120/2740)
 
 - Research: language design, compilers, formal verification, proof assistants, probabilistic programming, machine learning
 
@@ -291,7 +291,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Éric Tanter** — [Homepage](https://pleiad.cl/people/etanter) · [Scholar](https://scholar.google.com/citations?user=d0LISE4AAAAJ) · [ORCID](https://orcid.org/0000-0002-7359-890X)
+**Éric Tanter** — [Homepage](https://pleiad.cl/people/etanter) · [Scholar](https://scholar.google.com/citations?user=d0LISE4AAAAJ) · [ORCID](https://orcid.org/0000-0002-7359-890X) · [DBLP](https://dblp.org/pid/t/EricTanter)
 
 - Research: gradual typing, type systems, algebraic effects, security typing, language semantics, language design, functional programming, object-oriented programming, formal methods
 
@@ -303,7 +303,7 @@ Application deadline: ❔
 
 [Application deadline](https://cs.au.dk/education/phd): Multiple (check link)
 
-**Amin Timany** — [Homepage](https://cs.au.dk/~timany) · [Scholar](https://scholar.google.com/citations?user=Cgs2hEgAAAAJ) · [ORCID](https://orcid.org/0000-0002-2237-851X)
+**Amin Timany** — [Homepage](https://cs.au.dk/~timany) · [Scholar](https://scholar.google.com/citations?user=Cgs2hEgAAAAJ) · [ORCID](https://orcid.org/0000-0002-2237-851X) · [DBLP](https://dblp.org/pid/163/1794)
 
 - Research: type theory, formal methods, program verification, separation logic, proof assistants, distributed systems
 
@@ -315,37 +315,37 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Andreas Pavlogiannis** — [Homepage](https://cs.au.dk/~pavlogiannis) · [Scholar](https://scholar.google.com/citations?user=9QvqaqUAAAAJ) · [ORCID](https://orcid.org/0000-0002-8943-0722)
+**Andreas Pavlogiannis** — [Homepage](https://cs.au.dk/~pavlogiannis) · [Scholar](https://scholar.google.com/citations?user=9QvqaqUAAAAJ) · [ORCID](https://orcid.org/0000-0002-8943-0722) · [DBLP](https://dblp.org/pid/47/8037)
 
 - Research: formal methods, algorithmic verification, automata theory, concurrency, static & dynamic program analysis, network diffusion, evolutionary graph theory, evolutionary game theory
 
 - Taking students: ❔
 
-**Daniel Gratzer** — [Homepage](https://www.danielgratzer.com/) · [Scholar](https://scholar.google.com/citations?user=ayQ83fwAAAAJ) · [ORCID](https://orcid.org/0000-0003-1944-0789)
+**Daniel Gratzer** — [Homepage](https://www.danielgratzer.com/) · [Scholar](https://scholar.google.com/citations?user=ayQ83fwAAAAJ) · [ORCID](https://orcid.org/0000-0003-1944-0789) · [DBLP](https://dblp.org/pid/233/0181)
 
 - Research: modal types, type theory, category theory, program logic, denotational semantics, dependent types
 
 - Taking students: ❔
 
-**Jaco van de Pol** — [Homepage](https://cs.au.dk/~jaco) · [Scholar](https://scholar.google.com/citations?user=gbSSgnkAAAAJ) · [ORCID](https://orcid.org/0000-0003-4305-0625)
+**Jaco van de Pol** — [Homepage](https://cs.au.dk/~jaco) · [Scholar](https://scholar.google.com/citations?user=gbSSgnkAAAAJ) · [ORCID](https://orcid.org/0000-0003-4305-0625) · [DBLP](https://dblp.org/pid/p/JvdPol)
 
 - Research: formal methods, model checking, automated reasoning, concurrency, distributed systems, quantum computing, quantum programming
 
 - Taking students: ❔
 
-**Jean Pichon-Pharabod** — [Homepage](https://jeanpichon.github.io) · [Scholar](https://scholar.google.com/citations?user=ReYyKJAAAAAJ) · [ORCID](https://orcid.org/0000-0002-4442-6543)
+**Jean Pichon-Pharabod** — [Homepage](https://jeanpichon.github.io) · [Scholar](https://scholar.google.com/citations?user=ReYyKJAAAAAJ) · [ORCID](https://orcid.org/0000-0002-4442-6543) · [DBLP](https://dblp.org/pid/160/7730)
 
 - Research: model checking, separation logic, program verification, compilers, concurrency
 
 - Taking students: ❔
 
-**Lars Birkedal** — [Homepage](http://cs.au.dk/~birke) · [Scholar](https://scholar.google.com/citations?user=1rW-bi0AAAAJ) · [ORCID](https://orcid.org/0000-0003-1320-0098)
+**Lars Birkedal** — [Homepage](http://cs.au.dk/~birke) · [Scholar](https://scholar.google.com/citations?user=1rW-bi0AAAAJ) · [ORCID](https://orcid.org/0000-0003-1320-0098) · [DBLP](https://dblp.org/pid/31/910)
 
 - Research: type theory, program verification, separation logic, distributed systems, language semantics
 
 - Taking students: ❔
 
-**Magnus Madsen** — [Homepage](https://cs.au.dk/~magnusm) · [Scholar](https://scholar.google.com/citations?user=FuOCN_oAAAAJ) · [ORCID](https://orcid.org/0000-0002-7510-8724)
+**Magnus Madsen** — [Homepage](https://cs.au.dk/~magnusm) · [Scholar](https://scholar.google.com/citations?user=FuOCN_oAAAAJ) · [ORCID](https://orcid.org/0000-0002-7510-8724) · [DBLP](https://dblp.org/pid/43/10082)
 
 - Research: algebraic effects, program analysis, static analysis, compilers, language design, logic programming, concurrency
 
@@ -355,7 +355,7 @@ Application deadline: ❔
 
 [Application deadline](https://en.itu.dk/Research/PhD-Programme/PhD-Admission-Requirements): Rolling (position-based)
 
-**Patrick Bahr** — [Homepage](https://bahr.io) · [Scholar](https://scholar.google.com/citations?user=eMKdREgAAAAJ) · [ORCID](https://orcid.org/0000-0003-1600-8261)
+**Patrick Bahr** — [Homepage](https://bahr.io) · [Scholar](https://scholar.google.com/citations?user=eMKdREgAAAAJ) · [ORCID](https://orcid.org/0000-0003-1600-8261) · [DBLP](https://dblp.org/pid/67/8292)
 
 - Research: type systems, formal methods, functional programming, compilers
 
@@ -553,25 +553,25 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Georg Zetzsche** — [Homepage](http://zetzsche.xyz) · [Scholar](https://scholar.google.com/citations?user=BHNdXKxbM-8C) · [ORCID](https://orcid.org/0000-0002-6421-4388)
+**Georg Zetzsche** — [Homepage](http://zetzsche.xyz) · [Scholar](https://scholar.google.com/citations?user=BHNdXKxbM-8C) · [ORCID](https://orcid.org/0000-0002-6421-4388) · [DBLP](https://dblp.org/pid/24/651)
 
 - Research: model checking, automated reasoning, concurrency, program verification, formal methods
 
 - Taking students: ❔
 
-**Gilles Barthe** — [Homepage](https://gbarthe.github.io) · [Scholar](https://scholar.google.com/citations?user=kAkmfWEAAAAJ) · [ORCID](https://orcid.org/0000-0002-3853-1777)
+**Gilles Barthe** — [Homepage](https://gbarthe.github.io) · [Scholar](https://scholar.google.com/citations?user=kAkmfWEAAAAJ) · [ORCID](https://orcid.org/0000-0002-3853-1777) · [DBLP](https://dblp.org/pid/b/GBarthe)
 
 - Research: program verification, relational verification, security, cryptography, differential privacy, formal methods, logic
 
 - Taking students: ❔
 
-**Rupak Majumdar** — [Homepage](https://www.mpi-sws.org/~rupak) · [Scholar](https://scholar.google.com/citations?user=COuXyKwAAAAJ) · [ORCID](https://orcid.org/0000-0003-2136-0542)
+**Rupak Majumdar** — [Homepage](https://www.mpi-sws.org/~rupak) · [Scholar](https://scholar.google.com/citations?user=COuXyKwAAAAJ) · [ORCID](https://orcid.org/0000-0003-2136-0542) · [DBLP](https://dblp.org/pid/71/1981)
 
 - Research: automated reasoning, program analysis, program verification
 
 - Taking students: ❔
 
-**Viktor Vafeiadis** — [Homepage](https://people.mpi-sws.org/~viktor/) · [Scholar](https://scholar.google.com/citations?user=kysdyH4AAAAJ) · [ORCID](https://orcid.org/0000-0001-8436-0334)
+**Viktor Vafeiadis** — [Homepage](https://people.mpi-sws.org/~viktor/) · [Scholar](https://scholar.google.com/citations?user=kysdyH4AAAAJ) · [ORCID](https://orcid.org/0000-0001-8436-0334) · [DBLP](https://dblp.org/pid/69/1549)
 
 - Research: memory models, concurrency, separation logic, program verification, model checking, compiler verification, proof assistants, non-volatile memory, language semantics
 
@@ -809,7 +809,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Maciej Piróg** — [Homepage](https://maciejpirog.github.io/) · [Scholar](https://scholar.google.com/citations?user=xxwcLlAAAAAJ) · [ORCID](https://orcid.org/0000-0002-5889-3388)
+**Maciej Piróg** — [Homepage](https://maciejpirog.github.io/) · [Scholar](https://scholar.google.com/citations?user=xxwcLlAAAAAJ) · [ORCID](https://orcid.org/0000-0002-5889-3388) · [DBLP](https://dblp.org/pid/53/10735)
 
 - Research: type theory, dependent types, automated reasoning, interactive theorem provers, program analysis
 
@@ -826,31 +826,31 @@ Application deadline:
 - Fundação "la Caixa" INPhINIT: January 28th — see [fundacaolacaixa.pt](https://fundacaolacaixa.pt/pt/bolsas-doutoramento-inphinit)
 - FCT Doctoral Grants 2026 (general call): March 31st — see [www.fct.pt](https://www.fct.pt/concursos/concurso-bolsas-de-doutoramento-2026-linha-de-candidatura-geral)
 
-**Alcides Fonseca** — [Homepage](http://alcidesfonseca.com) · [Scholar](https://scholar.google.com/citations?user=0nKEYVsAAAAJ) · [ORCID](https://orcid.org/0000-0002-0879-4015)
+**Alcides Fonseca** — [Homepage](http://alcidesfonseca.com) · [Scholar](https://scholar.google.com/citations?user=0nKEYVsAAAAJ) · [ORCID](https://orcid.org/0000-0002-0879-4015) · [DBLP](https://dblp.org/pid/144/6172)
 
 - Research: program synthesis, liquid types, concurrent programming, parallel programming
 
 - Taking students: ✅
 
-**Bernardo Toninho** — [Homepage](https://web.tecnico.ulisboa.pt/bernardo.toninho/) · [Scholar](https://scholar.google.com/citations?user=LqQoVtgAAAAJ) · [ORCID](https://orcid.org/0000-0002-0746-7514)
+**Bernardo Toninho** — [Homepage](https://web.tecnico.ulisboa.pt/bernardo.toninho/) · [Scholar](https://scholar.google.com/citations?user=LqQoVtgAAAAJ) · [ORCID](https://orcid.org/0000-0002-0746-7514) · [DBLP](https://dblp.org/pid/46/9220)
 
 - Research: type theory, type systems, concurrency, distributed systems
 
 - Taking students: ❔
 
-**José Fragoso Santos** — [Homepage](http://web.ist.utl.pt/jose.fragoso) · [Scholar](https://scholar.google.com/citations?user=5buWYbcAAAAJ) · [ORCID](https://orcid.org/0000-0001-5077-300X)
+**José Fragoso Santos** — [Homepage](http://web.ist.utl.pt/jose.fragoso) · [Scholar](https://scholar.google.com/citations?user=5buWYbcAAAAJ) · [ORCID](https://orcid.org/0000-0001-5077-300X) · [DBLP](https://dblp.org/pid/121/5552)
 
 - Research: automated reasoning, program analysis, static analysis, program synthesis, logic programming, object-oriented programming, language-based security, formal methods
 
 - Taking students: ❔
 
-**Nuno P. Lopes** — [Homepage](https://web.ist.utl.pt/nuno.lopes) · [Scholar](https://scholar.google.com/citations?user=DQnsjaoAAAAJ) · [ORCID](https://orcid.org/0000-0002-3160-1672)
+**Nuno P. Lopes** — [Homepage](https://web.ist.utl.pt/nuno.lopes) · [Scholar](https://scholar.google.com/citations?user=DQnsjaoAAAAJ) · [ORCID](https://orcid.org/0000-0002-3160-1672) · [DBLP](https://dblp.org/pid/77/2149)
 
 - Research: model checking, static analysis, compilers, program verification, formal methods
 
 - Taking students: ❔
 
-**Vasco Thudichum Vasconcelos** — [Homepage](https://www.di.fc.ul.pt/~vv/) · [Scholar](https://scholar.google.com/citations?user=dsRKl04AAAAJ) · [ORCID](https://orcid.org/0000-0002-9539-8861)
+**Vasco Thudichum Vasconcelos** — [Homepage](https://www.di.fc.ul.pt/~vv/) · [Scholar](https://scholar.google.com/citations?user=dsRKl04AAAAJ) · [ORCID](https://orcid.org/0000-0002-9539-8861) · [DBLP](https://dblp.org/pid/97/1086)
 
 - Research: concurrency, distributed systems, type systems, process calculi, specification and verification
 
@@ -865,19 +865,19 @@ Application deadline:
 - Fall: January 31st
 - Winter: July 31st
 
-**C.-H. Luke Ong** — [Homepage](https://personal.ntu.edu.sg/luke.ong/index.html) · [Scholar](https://scholar.google.com/citations?user=gNFel3QAAAAJ) · [ORCID](https://orcid.org/0000-0001-7509-680X)
+**C.-H. Luke Ong** — [Homepage](https://personal.ntu.edu.sg/luke.ong/index.html) · [Scholar](https://scholar.google.com/citations?user=gNFel3QAAAAJ) · [ORCID](https://orcid.org/0000-0001-7509-680X) · [DBLP](https://dblp.org/pid/o/CHLukeOng)
 
 - Research: probabilistic programming, game semantics, higher-order model checking, lambda calculus, type theory, algorithmic game theory, categorical logic
 
 - Taking students: ❔
 
-**Conrad Watt** — [Homepage](https://conrad-watt.github.io) · [Scholar](https://scholar.google.com/citations?user=SVU1RU8AAAAJ) · [ORCID](https://orcid.org/0000-0002-0596-877X)
+**Conrad Watt** — [Homepage](https://conrad-watt.github.io) · [Scholar](https://scholar.google.com/citations?user=SVU1RU8AAAAJ) · [ORCID](https://orcid.org/0000-0002-0596-877X) · [DBLP](https://dblp.org/pid/165/2801)
 
 - Research: WebAssembly, formal methods, concurrency
 
 - Taking students: ❌
 
-**Yong Kiam Tan** — [Homepage](https://dr.ntu.edu.sg/entities/person/Tan-Yong-Kiam) · [Scholar](https://scholar.google.com/citations?user=WzG0S8MAAAAJ) · [ORCID](https://orcid.org/0000-0001-7033-2463)
+**Yong Kiam Tan** — [Homepage](https://dr.ntu.edu.sg/entities/person/Tan-Yong-Kiam) · [Scholar](https://scholar.google.com/citations?user=WzG0S8MAAAAJ) · [ORCID](https://orcid.org/0000-0001-7033-2463) · [DBLP](https://dblp.org/pid/156/7492)
 
 - Research: deductive verification, interactive theorem proving, automated reasoning, compilers, formalized mathematics, hybrid systems, security
 
@@ -890,13 +890,13 @@ Application deadline:
 - Fall: December 15th
 - Winter: June 15th
 
-**Ilya Sergey** — [Homepage](https://ilyasergey.net/) · [Scholar](https://scholar.google.com/citations?user=oCIeffUAAAAJ) · [ORCID](https://orcid.org/0000-0003-4250-5392)
+**Ilya Sergey** — [Homepage](https://ilyasergey.net/) · [Scholar](https://scholar.google.com/citations?user=oCIeffUAAAAJ) · [ORCID](https://orcid.org/0000-0003-4250-5392) · [DBLP](https://dblp.org/pid/77/9770)
 
 - Research: program verification, distributed systems, program synthesis, proof assistants, Lean
 
 - Taking students: ✅
 
-**Umang Mathur** — [Homepage](https://www.comp.nus.edu.sg/~umathur) · [Scholar](https://scholar.google.com/citations?user=6rB8UjgAAAAJ) · [ORCID](https://orcid.org/0000-0002-7610-0660)
+**Umang Mathur** — [Homepage](https://www.comp.nus.edu.sg/~umathur) · [Scholar](https://scholar.google.com/citations?user=6rB8UjgAAAAJ) · [ORCID](https://orcid.org/0000-0002-7610-0660) · [DBLP](https://dblp.org/pid/137/7835)
 
 - Research: concurrency, formal methods, hardware design, program analysis, automata theory, program synthesis, logic
 
@@ -914,7 +914,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Yoonseung Kim** — [Homepage](https://dgist-vesl.github.io/people/yoonseung.kim) · [Scholar](https://scholar.google.com/citations?user=RRcTF10AAAAJ) · [ORCID](https://orcid.org/0000-0001-5294-1046)
+**Yoonseung Kim** — [Homepage](https://dgist-vesl.github.io/people/yoonseung.kim) · [Scholar](https://scholar.google.com/citations?user=RRcTF10AAAAJ) · [ORCID](https://orcid.org/0000-0001-5294-1046) · [DBLP](https://dblp.org/pid/173/9453)
 
 - Research: formal methods, compilers, language design, object-oriented programming, distributed systems
 
@@ -934,13 +934,13 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Hongseok Yang** — [Homepage](https://sites.google.com/view/hongseokyang/home) · [Scholar](https://scholar.google.com/citations?user=cLuwH14AAAAJ) · [ORCID](https://orcid.org/0000-0003-1502-2942)
+**Hongseok Yang** — [Homepage](https://sites.google.com/view/hongseokyang/home) · [Scholar](https://scholar.google.com/citations?user=cLuwH14AAAAJ) · [ORCID](https://orcid.org/0000-0003-1502-2942) · [DBLP](https://dblp.org/pid/82/5808)
 
 - Research: probabilistic programming, program analysis, machine-learning
 
 - Taking students: ❔
 
-**Kihong Heo** — [Homepage](https://kihongheo.kaist.ac.kr) · [Scholar](https://scholar.google.com/citations?user=bWY6MmgAAAAJ) · [ORCID](https://orcid.org/0000-0003-2671-0142)
+**Kihong Heo** — [Homepage](https://kihongheo.kaist.ac.kr) · [Scholar](https://scholar.google.com/citations?user=bWY6MmgAAAAJ) · [ORCID](https://orcid.org/0000-0003-2671-0142) · [DBLP](https://dblp.org/pid/17/11515)
 
 - Research: program analysis, program synthesis, language-based security
 
@@ -1280,19 +1280,19 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Julien Lange** — [Homepage](https://pure.royalholloway.ac.uk/en/persons/julien-lange/) · [Scholar](https://scholar.google.com/citations?user=mpXU9XQAAAAJ) · [ORCID](https://orcid.org/0000-0001-9697-1378)
+**Julien Lange** — [Homepage](https://pure.royalholloway.ac.uk/en/persons/julien-lange/) · [Scholar](https://scholar.google.com/citations?user=mpXU9XQAAAAJ) · [ORCID](https://orcid.org/0000-0001-9697-1378) · [DBLP](https://dblp.org/pid/96/7159)
 
 - Research: type systems, program verification, session types, automata theory, static analysis, GPU program verification, distributed systems
 
 - Taking students: ❔
 
-**Matthew Hague** — [Homepage](https://www.cs.rhul.ac.uk/home/uxac009) · [Scholar](https://scholar.google.com/citations?user=s37BfYAAAAAJ) · [ORCID](https://orcid.org/0000-0003-4913-3800)
+**Matthew Hague** — [Homepage](https://www.cs.rhul.ac.uk/home/uxac009) · [Scholar](https://scholar.google.com/citations?user=s37BfYAAAAAJ) · [ORCID](https://orcid.org/0000-0003-4913-3800) · [DBLP](https://dblp.org/pid/59/4321)
 
 - Research: program verification, model checking, concurrency
 
 - Taking students: ❔
 
-**Reuben N. S. Rowe** — [Homepage](https://www.cs.rhul.ac.uk/home/uhac003) · [Scholar](https://scholar.google.com/citations?user=7jBLbSsAAAAJ) · [ORCID](https://orcid.org/0000-0002-4271-9078)
+**Reuben N. S. Rowe** — [Homepage](https://www.cs.rhul.ac.uk/home/uhac003) · [Scholar](https://scholar.google.com/citations?user=7jBLbSsAAAAJ) · [ORCID](https://orcid.org/0000-0002-4271-9078) · [DBLP](https://dblp.org/pid/46/9730)
 
 - Research: type systems, program verification, automated reasoning, separation logic, program synthesis, language design, concurrency
 
@@ -1302,7 +1302,7 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Sergey Goncharov** — [Homepage](https://sergey-goncharov.org) · [Scholar](https://scholar.google.com/citations?user=O6as6pAAAAAJ) · [ORCID](https://orcid.org/0000-0001-6924-8766)
+**Sergey Goncharov** — [Homepage](https://sergey-goncharov.org) · [Scholar](https://scholar.google.com/citations?user=O6as6pAAAAAJ) · [ORCID](https://orcid.org/0000-0001-6924-8766) · [DBLP](https://dblp.org/pid/g/SergeyGoncharov2)
 
 - Research: algebraic effects, program verification, language semantics, category theory
 
@@ -1318,7 +1318,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**G. A. Kavvos** — [Homepage](https://www.lambdabetaeta.eu) · [Scholar](https://scholar.google.com/citations?user=yWerYFkAAAAJ) · [ORCID](https://orcid.org/0000-0001-7953-7975)
+**G. A. Kavvos** — [Homepage](https://www.lambdabetaeta.eu) · [Scholar](https://scholar.google.com/citations?user=yWerYFkAAAAJ) · [ORCID](https://orcid.org/0000-0001-7953-7975) · [DBLP](https://dblp.org/pid/176/5528)
 
 - Research: homotopy type theory, modal types, category theory, concurrency, security
 
@@ -1330,7 +1330,7 @@ Application deadline: ❔
 
 - Taking students: ✅
 
-**Steven Ramsay** — [Homepage](https://sjrsay.github.io) · [Scholar](https://scholar.google.com/citations?user=mxxKCzcAAAAJ) · [ORCID](https://orcid.org/0000-0002-0825-8386)
+**Steven Ramsay** — [Homepage](https://sjrsay.github.io) · [Scholar](https://scholar.google.com/citations?user=mxxKCzcAAAAJ) · [ORCID](https://orcid.org/0000-0002-0825-8386) · [DBLP](https://dblp.org/pid/16/9032)
 
 - Research: functional programming, automated reasoning, model checking
 
@@ -1340,31 +1340,31 @@ Application deadline: ❔
 
 [Application deadline](https://www.cst.cam.ac.uk/admissions/phd): December 2nd (check link for more)
 
-**Anil Madhavapeddy** — [Homepage](https://anil.recoil.org) · [Scholar](https://scholar.google.com/citations?user=u2nZ7F8AAAAJ) · [ORCID](https://orcid.org/0000-0001-8954-2428)
+**Anil Madhavapeddy** — [Homepage](https://anil.recoil.org) · [Scholar](https://scholar.google.com/citations?user=u2nZ7F8AAAAJ) · [ORCID](https://orcid.org/0000-0001-8954-2428) · [DBLP](https://dblp.org/pid/32/1528)
 
 - Research: OCaml, functional programming
 
 - Taking students: ❔
 
-**Jeremy Yallop** — [Homepage](https://www.cl.cam.ac.uk/~jdy22/) · [Scholar](https://scholar.google.com/citations?user=NIk5CuwAAAAJ) · [ORCID](https://orcid.org/0009-0002-1650-6340)
+**Jeremy Yallop** — [Homepage](https://www.cl.cam.ac.uk/~jdy22/) · [Scholar](https://scholar.google.com/citations?user=NIk5CuwAAAAJ) · [ORCID](https://orcid.org/0009-0002-1650-6340) · [DBLP](https://dblp.org/pid/35/6244)
 
 - Research: OCaml, metaprogramming, program verification, algebraic effects
 
 - Taking students: ❔
 
-**Neelakantan R. Krishnaswami** — [Homepage](https://www.cl.cam.ac.uk/~nk480) · [Scholar](https://scholar.google.com/citations?user=qCE8eVcAAAAJ) · [ORCID](https://orcid.org/0000-0003-2838-5865)
+**Neel Krishnaswami** — [Homepage](https://www.cl.cam.ac.uk/~nk480) · [Scholar](https://scholar.google.com/citations?user=qCE8eVcAAAAJ) · [ORCID](https://orcid.org/0000-0003-2838-5865) · [DBLP](https://dblp.org/pid/92/1903)
 
 - Research: program verification, language design, language semantics, type theory
 
 - Taking students: ❔
 
-**Peter Sewell** — [Homepage](https://www.cl.cam.ac.uk/~pes20) · [Scholar](https://scholar.google.com/citations?user=EkIgIUcAAAAJ) · [ORCID](https://orcid.org/0000-0001-9352-1013)
+**Peter Sewell** — [Homepage](https://www.cl.cam.ac.uk/~pes20) · [Scholar](https://scholar.google.com/citations?user=EkIgIUcAAAAJ) · [ORCID](https://orcid.org/0000-0001-9352-1013) · [DBLP](https://dblp.org/pid/74/185)
 
 - Research: type systems, formal methods, concurrency, memory management, program verification
 
 - Taking students: ❔
 
-**Tobias Grosser** — [Homepage](https://grosser.science) · [Scholar](https://scholar.google.com/citations?user=c_PWJQEAAAAJ) · [ORCID](https://orcid.org/0000-0003-3874-6003)
+**Tobias Grosser** — [Homepage](https://grosser.science) · [Scholar](https://scholar.google.com/citations?user=c_PWJQEAAAAJ) · [ORCID](https://orcid.org/0000-0003-3874-6003) · [DBLP](https://dblp.org/pid/91/9231)
 
 - Research: formal methods, compilers, language design, HCI, SMT
 
@@ -1374,19 +1374,19 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Amir Shaikhha** — [Homepage](https://amirsh.github.io) · [Scholar](https://scholar.google.com/citations?user=97wlbikAAAAJ) · [ORCID](https://orcid.org/0000-0002-9062-759X)
+**Amir Shaikhha** — [Homepage](https://amirsh.github.io) · [Scholar](https://scholar.google.com/citations?user=97wlbikAAAAJ) · [ORCID](https://orcid.org/0000-0002-9062-759X) · [DBLP](https://dblp.org/pid/143/6186)
 
 - Research: domain-specific languages, databases, compilers
 
 - Taking students: ❔
 
-**Ajitha Rajan** — [Homepage](https://homepages.inf.ed.ac.uk/arajan/) · [Scholar](https://scholar.google.com/citations?user=Y8ROiBEAAAAJ) · [ORCID](https://orcid.org/0000-0003-3765-3075)
+**Ajitha Rajan** — [Homepage](https://homepages.inf.ed.ac.uk/arajan/) · [Scholar](https://scholar.google.com/citations?user=Y8ROiBEAAAAJ) · [ORCID](https://orcid.org/0000-0003-3765-3075) · [DBLP](https://dblp.org/pid/33/3526)
 
 - Research: software engineering, software testing, static analysis, robustness and interpretability of AI models
 
 - Taking students: ❔
 
-**Björn Franke** — [Homepage](https://blog.inf.ed.ac.uk/bfranke/) · [Scholar](https://scholar.google.com/citations?user=Y6aTqRQAAAAJ) · [ORCID](https://orcid.org/0000-0002-1219-8523)
+**Björn Franke** — [Homepage](https://blog.inf.ed.ac.uk/bfranke/) · [Scholar](https://scholar.google.com/citations?user=Y6aTqRQAAAAJ) · [ORCID](https://orcid.org/0000-0002-1219-8523) · [DBLP](https://dblp.org/pid/56/4341)
 
 - Research: compilers, JIT compilers, parallelisation, dynamic binary translation, processor simulation
 
@@ -1572,7 +1572,7 @@ Application deadline: ❔
 
 - Research: interactive theorem provers, language design, language implementation, concurrency, distributed systems, parallel programming
 
-- Taking students: ❔
+- Taking students: ✅
 
 **Dominic A. Orchard** — [Homepage](https://dorchard.github.io) · [Scholar](https://scholar.google.com/citations?user=vEsF_IwAAAAJ) · [ORCID](https://orcid.org/0000-0002-7058-7842)
 
@@ -1656,25 +1656,25 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Özgür Akgün** — [Homepage](https://ozgurakgun.github.io) · [Scholar](https://scholar.google.com/citations?user=heG7k-gAAAAJ) · [ORCID](https://orcid.org/0000-0001-9519-938X)
+**Özgür Akgün** — [Homepage](https://ozgurakgun.github.io) · [Scholar](https://scholar.google.com/citations?user=heG7k-gAAAAJ) · [ORCID](https://orcid.org/0000-0001-9519-938X) · [DBLP](https://dblp.org/pid/35/9923)
 
 - Research: domain-specific languages, constraint solutions, automated configuration
 
 - Taking students: ❔
 
-**Ruth Hoffmann** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/rh347) · [Scholar](https://scholar.google.com/citations?user=eQQKLD8AAAAJ) · [ORCID](https://orcid.org/0000-0002-1011-5894)
+**Ruth Hoffmann** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/rh347) · [Scholar](https://scholar.google.com/citations?user=eQQKLD8AAAAJ) · [ORCID](https://orcid.org/0000-0002-1011-5894) · [DBLP](https://dblp.org/pid/176/5552)
 
 - Research: domain-specific languages, models and symmetry reduction
 
 - Taking students: ❔
 
-**Susmit Sarkar** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/ss265/) · [Scholar](https://scholar.google.com/citations?user=j4LMPLwAAAAJ) · [ORCID](https://orcid.org/0000-0002-4259-9213)
+**Susmit Sarkar** — [Homepage](https://www.st-andrews.ac.uk/computer-science/people/ss265/) · [Scholar](https://scholar.google.com/citations?user=j4LMPLwAAAAJ) · [ORCID](https://orcid.org/0000-0002-4259-9213) · [DBLP](https://dblp.org/pid/99/365)
 
 - Research: formal architecture, memory consistency, compiler correctness
 
 - Taking students: ❔
 
-**Tom Spink** — [Homepage](https://tom-spink.com/) · [Scholar](https://scholar.google.com/citations?user=x2MfRUYAAAAJ) · [ORCID](https://orcid.org/0000-0002-7662-3146)
+**Tom Spink** — [Homepage](https://tom-spink.com/) · [Scholar](https://scholar.google.com/citations?user=x2MfRUYAAAAJ) · [ORCID](https://orcid.org/0000-0002-7662-3146) · [DBLP](https://dblp.org/pid/146/4572)
 
 - Research: compiler implementations, runtime systems, security
 
@@ -1862,25 +1862,25 @@ Application deadline: December 15th
 
 [Application deadline](https://www.cs.cornell.edu/phd-computer-science/apply): December 15th
 
-**Adrian Sampson** — [Homepage](http://adriansampson.net) · [Scholar](https://scholar.google.com/citations?user=Bq50aCUAAAAJ) · [ORCID](https://orcid.org/0000-0003-0837-8924)
+**Adrian Sampson** — [Homepage](http://adriansampson.net) · [Scholar](https://scholar.google.com/citations?user=Bq50aCUAAAAJ) · [ORCID](https://orcid.org/0000-0003-0837-8924) · [DBLP](https://dblp.org/pid/25/4161)
 
 - Research: computer architecture, hardware-software interface, approximate computing, compilers, hardware design
 
 - Taking students: ❔
 
-**Alexandra Silva** — [Homepage](https://alexandrasilva.org/) · [Scholar](https://scholar.google.com/citations?user=Vgu38TgAAAAJ) · [ORCID](https://orcid.org/0000-0001-5014-9784)
+**Alexandra Silva** — [Homepage](https://alexandrasilva.org/) · [Scholar](https://scholar.google.com/citations?user=Vgu38TgAAAAJ) · [ORCID](https://orcid.org/0000-0001-5014-9784) · [DBLP](https://dblp.org/pid/242/4919)
 
 - Research: category theory, automata theory, Kleene algebra, language semantics, formal verification, automata learning
 
 - Taking students: ❔
 
-**Andrew C. Myers** — [Homepage](http://www.cs.cornell.edu/andru) · [Scholar](https://scholar.google.com/citations?user=ovlpa_IAAAAJ) · [ORCID](https://orcid.org/0000-0001-5819-7588)
+**Andrew C. Myers** — [Homepage](http://www.cs.cornell.edu/andru) · [Scholar](https://scholar.google.com/citations?user=ovlpa_IAAAAJ) · [ORCID](https://orcid.org/0000-0001-5819-7588) · [DBLP](https://dblp.org/pid/m/AndrewCMyers)
 
 - Research: type systems, compilers, functional programming, object-oriented programming, language-based security, formal methods, probabilistic programming
 
 - Taking students: ❔
 
-**J. Gregory Morrisett** — [Homepage](http://www.cs.cornell.edu/~jgm) · [Scholar](https://scholar.google.com/citations?user=Dswus94AAAAJ) · [ORCID](https://orcid.org/0000-0002-2619-5614)
+**J. Gregory Morrisett** — [Homepage](http://www.cs.cornell.edu/~jgm) · [Scholar](https://scholar.google.com/citations?user=Dswus94AAAAJ) · [ORCID](https://orcid.org/0000-0002-2619-5614) · [DBLP](https://dblp.org/pid/m/JGMorrisett)
 
 - Research: type systems, compilers, memory management, language-based security, formal methods
 
@@ -1946,7 +1946,7 @@ Application deadline: December 15th
 
 [Application deadline](https://luddy.iu.edu/admissions/graduate/index.html): December 15th
 
-**Amr Sabry** — [Homepage](http://www.cs.indiana.edu/~sabry) · [Scholar](https://scholar.google.com/citations?user=dYGSG4EAAAAJ) · [ORCID](https://orcid.org/0000-0002-1025-7331)
+**Amr Sabry** — [Homepage](https://homes.luddy.indiana.edu/sabry/) · [Scholar](https://scholar.google.com/citations?user=dYGSG4EAAAAJ) · [ORCID](https://orcid.org/0000-0002-1025-7331)
 
 - Research: language semantics, continuations, monadic effects, staged computation, quantum computing, functional programming
 
@@ -2072,25 +2072,25 @@ Application deadline: December 15th
 
 - Taking students: ❔
 
-**Jan Vitek** — [Homepage](https://www.khoury.northeastern.edu/people/jan-vitek) · [Scholar](https://scholar.google.com/citations?user=Ws0GjboAAAAJ) · [ORCID](https://orcid.org/0000-0003-4052-3458)
+**Jan Vitek** — [Homepage](https://www.khoury.northeastern.edu/people/jan-vitek) · [Scholar](https://scholar.google.com/citations?user=Ws0GjboAAAAJ) · [ORCID](https://orcid.org/0000-0003-4052-3458) · [DBLP](https://dblp.org/pid/v/JanVitek)
 
 - Research: type systems, gradual typing, program analysis, compilers, memory management
 
 - Taking students: ❔
 
-**Joshua Gancher** — [Homepage](https://gancher.dev) · [Scholar](https://scholar.google.com/citations?user=PdDZvm0AAAAJ) · [ORCID](https://orcid.org/0000-0003-2257-7073)
+**Joshua Gancher** — [Homepage](https://gancher.dev) · [Scholar](https://scholar.google.com/citations?user=PdDZvm0AAAAJ) · [ORCID](https://orcid.org/0000-0003-2257-7073) · [DBLP](https://dblp.org/pid/193/7166)
 
 - Research: proof assistants, distributed systems
 
 - Taking students: ❔
 
-**Olin Shivers** — [Homepage](http://www.ccs.neu.edu/home/shivers) · [Scholar](https://scholar.google.com/citations?user=4FcaMpgAAAAJ) · [ORCID](https://orcid.org/0000-0001-8171-386X)
+**Olin Shivers** — [Homepage](http://www.ccs.neu.edu/home/shivers) · [Scholar](https://scholar.google.com/citations?user=4FcaMpgAAAAJ) · [ORCID](https://orcid.org/0000-0001-8171-386X) · [DBLP](https://dblp.org/pid/s/OlinShivers)
 
 - Research: compilers
 
 - Taking students: ❔
 
-**Steven Holtzen** — [Homepage](https://www.khoury.northeastern.edu/home/sholtzen) · [Scholar](https://scholar.google.com/citations?user=ak46IwwAAAAJ) · [ORCID](https://orcid.org/0000-0002-8190-5412)
+**Steven Holtzen** — [Homepage](https://www.khoury.northeastern.edu/home/sholtzen) · [Scholar](https://scholar.google.com/citations?user=ak46IwwAAAAJ) · [ORCID](https://orcid.org/0000-0002-8190-5412) · [DBLP](https://dblp.org/pid/190/8502)
 
 - Research: type systems, program verification, automated reasoning, separation logic, probabilistic programming
 
@@ -2297,13 +2297,13 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Todd D. Millstein** — [Homepage](http://www.cs.ucla.edu/~todd) · [Scholar](https://scholar.google.com/citations?user=u_tOExoAAAAJ) · [ORCID](https://orcid.org/0000-0002-2031-1514)
+**Todd D. Millstein** — [Homepage](http://www.cs.ucla.edu/~todd) · [Scholar](https://scholar.google.com/citations?user=u_tOExoAAAAJ) · [ORCID](https://orcid.org/0000-0002-2031-1514) · [DBLP](https://dblp.org/pid/93/4679)
 
 - Research: type systems, program verification, automated reasoning, interactive theorem provers, property-based testing, probabilistic programming
 
 - Taking students: ❔
 
-**Yisu Remy Wang** — [Homepage](https://remy.wang) · [Scholar](https://scholar.google.com/citations?user=leLJqREAAAAJ) · [ORCID](https://orcid.org/0000-0002-6887-9395)
+**Yisu Remy Wang** — [Homepage](https://remy.wang) · [Scholar](https://scholar.google.com/citations?user=leLJqREAAAAJ) · [ORCID](https://orcid.org/0000-0002-6887-9395) · [DBLP](https://dblp.org/pid/185/9964)
 
 - Research: equality saturation, query optimization, databases, Datalog, program synthesis
 
@@ -2313,13 +2313,13 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Jay P. Lim** — [Homepage](https://dongura.me) · [Scholar](https://scholar.google.com/citations?user=5oKUbqoAAAAJ) · [ORCID](https://orcid.org/0000-0002-7572-4017)
+**Jay P. Lim** — [Homepage](https://dongura.me) · [Scholar](https://scholar.google.com/citations?user=5oKUbqoAAAAJ) · [ORCID](https://orcid.org/0000-0002-7572-4017) · [DBLP](https://dblp.org/pid/219/9089)
 
 - Research: compilers, language design
 
 - Taking students: ❔
 
-**Manu Sridharan** — [Homepage](https://manu.sridharan.net) · [Scholar](https://scholar.google.com/citations?user=iNtk_EQAAAAJ) · [ORCID](https://orcid.org/0000-0001-7993-302X)
+**Manu Sridharan** — [Homepage](https://manu.sridharan.net) · [Scholar](https://scholar.google.com/citations?user=iNtk_EQAAAAJ) · [ORCID](https://orcid.org/0000-0001-7993-302X) · [DBLP](https://dblp.org/pid/83/2559)
 
 - Research: static analysis
 
@@ -2504,7 +2504,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Qianchuan Ye** — [Homepage](https://cse.buffalo.edu/~qcye) · [Scholar](https://scholar.google.com/citations?user=IZisiCwAAAAJ) · [ORCID](https://orcid.org/0000-0002-5977-5236)
+**Qianchuan Ye** — [Homepage](https://cse.buffalo.edu/~qcye) · [Scholar](https://scholar.google.com/citations?user=IZisiCwAAAAJ) · [ORCID](https://orcid.org/0000-0002-5977-5236) · [DBLP](https://dblp.org/pid/232/5248)
 
 - Research: type theory, program verification, proof assistants, language-based security
 
@@ -2514,19 +2514,19 @@ Application deadline: ❔
 
 Application deadline: December 11
 
-**John H. Reppy** — [Homepage](http://people.cs.uchicago.edu/~jhr) · [Scholar](https://scholar.google.com/citations?user=hz1S-asAAAAJ) · [ORCID](https://orcid.org/0000-0002-5881-298X)
+**John H. Reppy** — [Homepage](http://people.cs.uchicago.edu/~jhr) · [Scholar](https://scholar.google.com/citations?user=hz1S-asAAAAJ) · [ORCID](https://orcid.org/0000-0002-5881-298X) · [DBLP](https://dblp.org/pid/r/JohnHReppy)
 
 - Research: language design, language implementation, parallel programming
 
 - Taking students: ❔
 
-**Ravi Chugh** — [Homepage](https://people.cs.uchicago.edu/~rchugh/) · [Scholar](https://scholar.google.com/citations?user=DKuq2fIAAAAJ) · [ORCID](https://orcid.org/0000-0002-1339-2889)
+**Ravi Chugh** — [Homepage](https://people.cs.uchicago.edu/~rchugh/) · [Scholar](https://scholar.google.com/citations?user=DKuq2fIAAAAJ) · [ORCID](https://orcid.org/0000-0002-1339-2889) · [DBLP](https://dblp.org/pid/54/4184)
 
 - Research: HCI, live programming, domain specific languages, functional programming
 
 - Taking students: ❔
 
-**Robert Rand** — [Homepage](http://rand.cs.uchicago.edu) · [Scholar](https://scholar.google.com/citations?user=jYrnZVwAAAAJ) · [ORCID](https://orcid.org/0000-0001-6842-5505)
+**Robert Rand** — [Homepage](http://rand.cs.uchicago.edu) · [Scholar](https://scholar.google.com/citations?user=jYrnZVwAAAAJ) · [ORCID](https://orcid.org/0000-0001-6842-5505) · [DBLP](https://dblp.org/pid/55/10359)
 
 - Research: type systems, formal methods, program analysis, quantum computing, quantum programming
 
@@ -2732,13 +2732,13 @@ Application deadline: December 15th
 
 - Taking students: ❔
 
-**Ethan Cecchetti** — [Homepage](https://cecchetti.sites.cs.wisc.edu) · [Scholar](https://scholar.google.com/citations?user=GoanxxoAAAAJ) · [ORCID](https://orcid.org/0000-0001-7900-8328)
+**Ethan Cecchetti** — [Homepage](https://cecchetti.sites.cs.wisc.edu) · [Scholar](https://scholar.google.com/citations?user=GoanxxoAAAAJ) · [ORCID](https://orcid.org/0000-0001-7900-8328) · [DBLP](https://dblp.org/pid/177/2245)
 
 - Research: security
 
 - Taking students: ❔
 
-**Thomas W. Reps** — [Homepage](http://pages.cs.wisc.edu/~reps) · [Scholar](https://scholar.google.com/citations?user=pwhyTq0AAAAJ) · [ORCID](https://orcid.org/0000-0002-5676-9949)
+**Thomas W. Reps** — [Homepage](http://pages.cs.wisc.edu/~reps) · [Scholar](https://scholar.google.com/citations?user=pwhyTq0AAAAJ) · [ORCID](https://orcid.org/0000-0002-5676-9949) · [DBLP](https://dblp.org/pid/r/TWReps)
 
 - Research: everything apparently
 
@@ -2748,13 +2748,13 @@ Application deadline: December 15th
 
 Application deadline: December 15th
 
-**Alexander K. Lew** — [Homepage](https://engineering.yale.edu/research-and-faculty/faculty-directory/alex-lew) · [Scholar](https://scholar.google.com/citations?user=TiF1WEsAAAAJ) · [ORCID](https://orcid.org/0000-0002-9262-4392)
+**Alexander K. Lew** — [Homepage](https://engineering.yale.edu/research-and-faculty/faculty-directory/alex-lew) · [Scholar](https://scholar.google.com/citations?user=TiF1WEsAAAAJ) · [ORCID](https://orcid.org/0000-0002-9262-4392) · [DBLP](https://dblp.org/pid/242/4530)
 
 - Research: probabilistic programming
 
 - Taking students: ❔
 
-**Ruzica Piskac** — [Homepage](http://www.cs.yale.edu/~piskac) · [Scholar](https://scholar.google.com/citations?user=71RQt3sAAAAJ) · [ORCID](https://orcid.org/0000-0002-3267-0776)
+**Ruzica Piskac** — [Homepage](http://www.cs.yale.edu/~piskac) · [Scholar](https://scholar.google.com/citations?user=71RQt3sAAAAJ) · [ORCID](https://orcid.org/0000-0002-3267-0776) · [DBLP](https://dblp.org/pid/p/RuzicaPiskac)
 
 - Research: program verification, security, automated reasoning, program synthesis
 
