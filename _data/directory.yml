@@ -309,11 +309,12 @@
       homepage: https://traytel.bitbucket.io/
       scholar: https://scholar.google.com/citations?user=MJppLgoAAAAJ
       orcid: https://orcid.org/0000-0001-7982-2768
-      research: automated reasoning, interactive theorem provers
+      research: interactive theorem provers, automata theory, runtime verification, decision procedures, (co)induction, (co)recursion
     - name: Fritz Henglein
       homepage: http://www.diku.dk/~henglein
       scholar: https://scholar.google.com/citations?user=FOM81UEAAAAJ
-      research: type systems, program analysis, functional programming
+      orcid: https://orcid.org/0000-0001-5190-2125
+      research: type systems, program analysis, functional programming, language semantics, type inference, program analysis
     - name: Martin Elsman
       homepage: https://elsman.com
       scholar: https://scholar.google.com/citations?user=B_kB3DUAAAAJ
@@ -322,6 +323,7 @@
     - name: Thomas P. Jensen
       homepage: https://di.ku.dk/english/staff/vip/researchers_pltc/?pure=en/persons/120287
       scholar: https://scholar.google.com/citations?user=AAe9c3sAAAAJ
+      orcid: https://orcid.org/0000-0002-4064-7170
       research: static analysis, abstract interpretation, type systems, information flow, security, program analysis, compiler verification
     - name: Troels Henriksen
       homepage: https://hjemmesider.diku.dk/~athas
@@ -351,6 +353,7 @@
       research: program analysis, static analysis, program verification
     - name: Cezara Dragoi
       homepage: http://www.di.ens.fr/~cezarad
+      dblp: https://dblp.org/pid/46/4882.html
       research: formal verification, automated reasoning, separation logic, static analysis
     - name: Marc Pouzet
       homepage: https://www.di.ens.fr/~pouzet
@@ -422,8 +425,7 @@
       homepage: https://simongregersen.com
       scholar: https://scholar.google.com/citations?user=I-ltakEAAAAJ
       orcid: https://orcid.org/0000-0001-6045-5232
-      research: type systems, program verification, separation logic, distributed systems, formal methods, interactive theorem
-        provers
+      research: type systems, program verification, separation logic, distributed systems, formal methods, interactive theorem provers
   - name: Karlsruhe Inst. of Technology
     professors:
     - name: Sebastian Erdweg
@@ -443,9 +445,9 @@
       scholar: https://scholar.google.com/citations?user=d-3XtW8AAAAJ
       orcid: https://orcid.org/0000-0001-8919-8081
       research: verified compilation, memory management, program verification, dependent types, language semantics, property-based
-        testing, cryptography, IFC
+        testing, cryptography, information flow control analysis
     - name: Deepak Garg
-      homepage: http://www.mpi-sws.org/~dg
+      homepage: https://people.mpi-sws.org/~dg/
       scholar: https://scholar.google.com/citations?user=BCXxazwAAAAJ
       orcid: https://orcid.org/0000-0002-0888-3093
       research: security, privacy, type systems, information flow, separation logic, logic, incremental computation
@@ -470,7 +472,7 @@
       orcid: https://orcid.org/0000-0003-2136-0542
       research: automated reasoning, program analysis, program verification
     - name: Viktor Vafeiadis
-      homepage: http://www.mpi-sws.org/~viktor
+      homepage: https://people.mpi-sws.org/~viktor/
       scholar: https://scholar.google.com/citations?user=kysdyH4AAAAJ
       orcid: https://orcid.org/0000-0001-8436-0334
       research: memory models, concurrency, separation logic, program verification, model checking, compiler verification, proof assistants, non-volatile memory, language semantics
@@ -507,7 +509,8 @@
       homepage: https://programming-group.com/members/salvaneschi
       scholar: https://scholar.google.com/citations?user=Hm0V7MUAAAAJ
       orcid: https://orcid.org/0000-0002-9324-8894
-      research: distributed systems
+      research: distributed systems, reactive programming, security, testing, e-graphs
+      taking_students: true
   - name: TU Kaiserslautern
     professors:
     - name: Anthony Widjaja Lin
@@ -533,15 +536,12 @@
       homepage: https://se.cs.uni-tuebingen.de/team/brachthaeuser
       scholar: https://scholar.google.com/citations?user=fv_M9OoAAAAJ
       orcid: https://orcid.org/0000-0001-9128-0391
-      research: type systems, dependent types, algebraic effects, program analysis, compilers, memory management, language
-        design, functional programming, object-oriented programming, concurrency, metaprogramming, probabilistic programming
+      research: algebraic effects, effect handlers, effect systems, continuations, type systems
     - name: Klaus Ostermann
       homepage: https://ps.cs.uni-tuebingen.de/team/ostermann
       scholar: https://scholar.google.com/citations?user=doJ07f8oUtQC
       orcid: https://orcid.org/0000-0001-5294-5506
-      research: type systems, dependent types, model checking, automated reasoning, interactive theorem provers, memory management,
-        language design, domain specific languages, functional programming, object-oriented programming, metaprogramming,
-        formal methods, probabilistic programming
+      research: functional programming, type systems, program analysis, object-oriented programming, program transformation
 - name: Greece
   universities:
   - name: University of Athens
@@ -613,7 +613,7 @@
       homepage: http://robbertkrebbers.nl
       scholar: https://scholar.google.com/citations?user=8JmcliwAAAAJ
       orcid: https://orcid.org/0000-0002-1185-5237
-      research: program verification, separation logic, static analysis, langauge semantics
+      research: program verification, separation logic, static analysis, language semantics
   - name: PL Group @ TU Delft
     url: https://pl.ewi.tudelft.nl/
     professors:
@@ -621,7 +621,7 @@
       homepage: https://benediktahrens.gitlab.io
       scholar: https://scholar.google.com/citations?user=hdr4g6UAAAAJ
       orcid: https://orcid.org/0000-0002-6786-4538
-      research: type theory, functional programming
+      research: type theory, functional programming, language semantics, homotopy type theory, univalent foundations, category theory
     - name: Casper Bach
       homepage: http://casperbp.net
       scholar: https://scholar.google.com/citations?user=cK5ddQ4AAAAJ
@@ -660,7 +660,7 @@
       homepage: http://www.ii.uni.wroc.pl/~dabi
       scholar: https://scholar.google.com/citations?user=7lCF6cYAAAAJ
       orcid: https://orcid.org/0000-0002-1477-4635
-      research: functional programming, language semantics,
+      research: functional programming, language semantics, abstract machines, continuations, control effects, Curry-Howard isomorphism, program equivalence
     - name: Maciej Piróg
       homepage: https://maciejpirog.github.io/
       scholar: https://scholar.google.com/citations?user=xxwcLlAAAAAJ
@@ -772,15 +772,10 @@
   - name: KAIST
     professors:
     - name: Hongseok Yang
-      homepage: https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=167
+      homepage: https://sites.google.com/view/hongseokyang/home
       scholar: https://scholar.google.com/citations?user=cLuwH14AAAAJ
       orcid: https://orcid.org/0000-0003-1502-2942
-      research: separation logic
-    - name: Jeehoon Kang
-      homepage: https://cp.kaist.ac.kr/jeehoon.kang
-      scholar: https://scholar.google.com/citations?user=rVgfdSYAAAAJ
-      orcid: https://orcid.org/0000-0002-2115-0871
-      research: concurrency
+      research: probabilistic programming, program analysis, machine-learning
     - name: Kihong Heo
       homepage: https://kihongheo.kaist.ac.kr
       scholar: https://scholar.google.com/citations?user=bWY6MmgAAAAJ
@@ -810,17 +805,18 @@
       research: type theory, automated reasoning, interactive theorem provers, concurrency, program verification, probabilistic
         programming
     - name: Kwangkeun Yi
-      homepage: http://ropas.snu.ac.kr/~kwang
+      homepage: https://ropas.snu.ac.kr/~kwang/
       scholar: https://scholar.google.com/citations?user=VddKJ_wAAAAJ
       orcid: https://orcid.org/0009-0007-5027-2177
-      research: program analysis
+      research: static program analysis, software verification, program analysis
   - name: State University of New York, Korea
     professors:
     - name: Zhoulai Fu
       homepage: https://zhoulaifu.com
       scholar: https://scholar.google.com/citations?user=1syaDm8AAAAJ
       orcid: https://orcid.org/0000-0003-2073-0564
-      research: security
+      research: security, program analysis, testing, program verification, machine-learning, abstract interpretation, scientific computing
+      taking_students: true
 - name: Spain
   universities:
   - name: IMDEA Software Institute
@@ -845,8 +841,7 @@
       homepage: http://www.cse.chalmers.se/~abela
       scholar: https://scholar.google.com/citations?user=diMIMosAAAAJ
       orcid: https://orcid.org/0000-0003-0420-4492
-      research: program verification, dependent types, type theory, functional programming, type systems, modal types, automated
-        reasoning
+      research: program verification, dependent types, type theory, functional programming, type systems, modal types, automated reasoning
     - name: Magnus O. Myreen
       homepage: https://www.cse.chalmers.se/~myreen
       scholar: https://scholar.google.com/citations?user=XfqNgKwAAAAJ
@@ -856,7 +851,7 @@
       homepage: https://www.cse.chalmers.se/~nad
       scholar: https://scholar.google.com/citations?user=YMU90ywAAAAJ
       orcid: https://orcid.org/0000-0001-8688-0333
-      research: dependent types
+      research: dependent types, functional programming, proof assistants, interactive theorem provers, type theory, type systems, modal types, Agda
   - name: Uppsala University
     professors:
     - name: Bengt Jonsson
@@ -868,7 +863,8 @@
       homepage: http://wrigstad.com
       scholar: https://scholar.google.com/citations?user=EfO5KRQAAAAJ
       orcid: https://orcid.org/0000-0002-4269-5408
-      research: memory management, type systems, security
+      research: memory management, type systems, security, data-race freedom, concurrency, garbage collection, verified compilation, nominal typing
+      taking_students: true
 - name: Switzerland
   universities:
   - name: EPFL
@@ -900,7 +896,7 @@
     deadline_url: https://inf.ethz.ch/doctorate.html
     professors:
     - name: Peter Müller
-      homepage: http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html
+      homepage: https://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html
       scholar: https://scholar.google.com/citations?user=iJ0qZckAAAAJ
       orcid: https://orcid.org/0000-0001-7001-2566
       research: automated reasoning, Viper
@@ -1014,11 +1010,12 @@
       homepage: https://www.doc.ic.ac.uk/~afd
       scholar: https://scholar.google.com/citations?user=ZIUuqNwAAAAJ
       orcid: https://orcid.org/0000-0002-7448-7961
-      research: formal methods, HPC
+      research: formal methods, testing, parallel programming, compilers, concurrency, software verification, GPU programming, HPC
     - name: Azalea Raad
       homepage: http://www.soundandcomplete.org
+      scholar: https://scholar.google.com/citations?user=uiSg96QAAAAJ
       orcid: https://orcid.org/0000-0002-2319-3242
-      research: concurrency, language semantics
+      research: concurrency, language semantics, static analysis, weak memory models, program logic, formal methods
     - name: Nicolas Wu
       homepage: https://www.imperial.ac.uk/people/n.wu
       scholar: https://scholar.google.com/citations?user=0E8zPucAAAAJ
@@ -1028,7 +1025,7 @@
       homepage: https://www.doc.ic.ac.uk/~yoshida
       scholar: https://scholar.google.com/citations?user=4T-p76AAAAAJ
       orcid: https://orcid.org/0000-0002-3925-8557
-      research: type systems
+      research: type systems, type theory, session types, language semantics, information flow analysis, distributed systems, Hoare logic, concurrency
     - name: Philippa Gardner
       homepage: https://www.doc.ic.ac.uk/~pg
       scholar: https://scholar.google.com/citations?user=LDe0mUwAAAAJ
@@ -1044,6 +1041,7 @@
     - name: Stephen Kell
       homepage: https://www.humprog.org/~stephen
       scholar: https://scholar.google.com/citations?user=4GHlcNoAAAAJ
+      orcid: https://orcid.org/0000-0002-2702-5983
       research: language implementation, compilers, language design
   - name: Queen Mary University of London
     professors:
@@ -1051,9 +1049,9 @@
       homepage: https://www.seresearch.qmul.ac.uk/cfcs/people/rhu
       scholar: https://scholar.google.com/citations?user=b08Zz1kAAAAJ
       orcid: https://orcid.org/0000-0003-4361-6772
-      research: distributed systems, type systems
+      research: distributed systems, type systems, session types, generics, refinement types, software verification
     - name: Vasileios Klimis
-      homepage: https://www.seresearch.qmul.ac.uk/cfcs/people/vklimis
+      homepage: https://vasileiosklimis.github.io/portfolio/
       scholar: https://scholar.google.com/citations?user=CfeRGyEAAAAJ
       orcid: https://orcid.org/0000-0002-3173-8636
       research: model checking, compilers, quantum computing
@@ -1065,10 +1063,10 @@
       orcid: https://orcid.org/0000-0001-8494-7696
       research: type systems, formal methods, concurrency, modal types
     - name: Julien Lange
-      homepage: <https://pure.royalholloway.ac.uk/portal/en/persons/julien-lange(55a85423-9481-4565-9339-224891092d5e
+      homepage: https://pure.royalholloway.ac.uk/en/persons/julien-lange/
       scholar: https://scholar.google.com/citations?user=mpXU9XQAAAAJ
       orcid: https://orcid.org/0000-0001-9697-1378
-      research: type systems, program verification
+      research: type systems, program verification, session types, automata theory, static analysis, GPU program verification, distributed systems
     - name: Matthew Hague
       homepage: https://www.cs.rhul.ac.uk/home/uxac009
       scholar: https://scholar.google.com/citations?user=s37BfYAAAAAJ
@@ -1086,6 +1084,7 @@
     - name: Sergey Goncharov
       homepage: https://sergey-goncharov.org
       scholar: https://scholar.google.com/citations?user=O6as6pAAAAAJ
+      orcid: https://orcid.org/0000-0001-6924-8766
       research: algebraic effects, program verification, language semantics, category theory
   - name: University of Bristol
     professors:
@@ -1093,7 +1092,7 @@
       homepage: https://ec-jones.github.io
       scholar: https://scholar.google.com/citations?user=k9BLV_0AAAAJ
       orcid: https://orcid.org/0000-0003-1762-5405
-      research: formal methods, functional programming
+      research: formal methods, functional programming, logic programming, formal verification
     - name: G. A. Kavvos
       homepage: https://www.lambdabetaeta.eu
       scholar: https://scholar.google.com/citations?user=yWerYFkAAAAJ
@@ -1103,7 +1102,8 @@
       homepage: https://mengwangoxf.github.io
       scholar: https://scholar.google.com/citations?user=NwDbSggAAAAJ
       orcid: https://orcid.org/0000-0001-7780-630X
-      research: functional programming, bidirectional programming
+      research: functional programming, bidirectional programming, software engineering, testing
+      taking_students: true
     - name: Steven Ramsay
       homepage: https://sjrsay.github.io
       scholar: https://scholar.google.com/citations?user=mxxKCzcAAAAJ
@@ -1119,7 +1119,7 @@
       orcid: https://orcid.org/0000-0001-8954-2428
       research: OCaml, functional programming
     - name: Jeremy Yallop
-      homepage: http://www.cl.cam.ac.uk/~jdy22
+      homepage: https://www.cl.cam.ac.uk/~jdy22/
       scholar: https://scholar.google.com/citations?user=NIk5CuwAAAAJ
       orcid: https://orcid.org/0009-0002-1650-6340
       research: OCaml, metaprogramming, program verification, algebraic effects
@@ -1195,6 +1195,7 @@
       research: formal verification of cryptographic-protocol designs and implementations
     - name: Mike O'Boyle
       homepage: https://www.dcs.ed.ac.uk/home/mob/
+      scholar: https://scholar.google.ca/citations?user=T-JW3vwAAAAJ
       orcid: https://orcid.org/0000-0003-1619-5052
       research: compilers, machine-learning-based compilation, heterogeneous systems, design space exploration
       image: /assets/img/profiles/mike-o-boyle.jpg
@@ -1202,29 +1203,29 @@
       homepage: https://homepages.inf.ed.ac.uk/marapini/
       scholar: https://scholar.google.com/citations?user=1GaX8xQAAAAJ
       orcid: https://orcid.org/0009-0007-1757-1423
-      research: provable security, verification of cryptographic protocols, formal models, applied cryptography, quantum cryptography,
-        electronic voting
+      research: provable security, verification of cryptographic protocols, formal models, applied cryptography, quantum cryptography, electronic voting
       image: /assets/img/profiles/myrto-arapinis.jpg
     - name: Ohad Kammar
       homepage: https://denotational.co.uk
       scholar: https://scholar.google.com/citations?user=-BLwCMkAAAAJ
       orcid: https://orcid.org/0000-0002-2071-0929
-      research: programming-language theory, probabilistic programming, metaprogramming, category theory, logic in computer
-        science
+      research: programming-language theory, probabilistic programming, metaprogramming, category theory, logic in computer science
       image: /assets/img/profiles/ohad-kammar.jpg
     - name: Paul Jackson
       homepage: http://homepages.inf.ed.ac.uk/pbj
       scholar: https://scholar.google.com/citations?user=WUuHiYQAAAAJ
+      orcid: https://orcid.org/0000-0003-3863-8336
       research: formal verification of hardware, software and cyber-physical systems, interactive theorem proving
     - name: Perdita Stevens
       homepage: https://perditastevens.com/homepage/
       scholar: https://scholar.google.com/citations?user=KdBhbbYAAAAJ
+      orcid: https://orcid.org/0000-0002-3975-7612
       research: software engineering, model-driven engineering
     - name: Peter Buneman
       homepage: http://homepages.inf.ed.ac.uk/opb
       scholar: https://scholar.google.com/citations?user=d9bq04sAAAAJ
       orcid: https://orcid.org/0009-0004-9056-8587
-      research: query languages, semistructured data, data provenance
+      research: query languages, semi-structured data, data provenance
       image: /assets/img/profiles/peter-buneman.jpg
     - name: Rob van Glabbeek
       homepage: https://theory.stanford.edu/~rvg/
@@ -1268,6 +1269,7 @@
       image: /assets/img/profiles/jeremy-singer.jpg
     - name: "José Cano Reyes"
       homepage: https://www.dcs.gla.ac.uk/~josecr/
+      scholar: https://scholar.google.ca/citations?user=3Dne4xEAAAAJ
       orcid: https://orcid.org/0000-0002-2243-389X
       research: hardware-software co-design, edge computing
       image: /assets/img/profiles/jose-cano-reyes.png
@@ -1285,6 +1287,7 @@
     - name: Paul Harvey
       homepage: http://paul-harvey.org
       scholar: https://scholar.google.com/citations?user=0w6uYlMAAAAJ
+      orcid: https://orcid.org/0000-0003-1243-938X
       research: runtime systems, adaptability, autonomous networks
     - name: Quintin Cutts
       homepage: https://www.dcs.gla.ac.uk/~quintin/
@@ -1300,10 +1303,12 @@
     - name: Simon J. Gay
       homepage: https://www.gla.ac.uk/schools/computing/staff/simongay/
       scholar: https://scholar.google.com/citations?user=5x7ArxsAAAAJ
+      orcid: https://orcid.org/0000-0003-3033-9091
       research: behavioural types, quantum programming languages
     - name: Wim Vanderbauwhede
       homepage: https://www.dcs.gla.ac.uk/~wim/
       scholar: https://scholar.google.com/citations?user=8k8c2f4AAAAJ
+      orcid: https://orcid.org/0000-0001-6768-0037
       research: programming language approaches to security, compilation to hardware, low-carbon and sustainable computing
       image: /assets/img/profiles/wim-vanderbauwhede.jpg
   - name: PLAS @ University of Kent
@@ -1382,11 +1387,13 @@
     - name: Olexandr Konovalov
       homepage: https://www.st-andrews.ac.uk/computer-science/people/obk1/
       scholar: https://scholar.google.com/citations?user=EH74mBQAAAAJ
+      orcid: https://orcid.org/0000-0001-5299-3292
       research: programming language education, modelling
       image: /assets/img/profiles/olexandr-konovalov.jpg
     - name: Özgür Akgün
       homepage: https://ozgurakgun.github.io
       scholar: https://scholar.google.com/citations?user=heG7k-gAAAAJ
+      orcid: https://orcid.org/0000-0001-9519-938X
       research: domain-specific languages, constraint solutions, automated configuration
     - name: Ruth Hoffmann
       homepage: https://www.st-andrews.ac.uk/computer-science/people/rh347
@@ -1418,21 +1425,18 @@
     - name: Clemens Kupke
       homepage: https://www.strath.ac.uk/staff/kupkeclemensdr/
       orcid: https://orcid.org/0000-0002-0502-391X
-      research: coalgebraic modelling of systems, logical verification, model-checking, fixpoint logics, game-theoretic semantics,
-        automata theory
+      research: coalgebraic modelling of systems, logical verification, model-checking, fixpoint logics, game-theoretic semantics, automata theory
     - name: Conor McBride
       homepage: http://strictlypositive.org/
       scholar: https://scholar.google.com/citations?user=vO7qGKwAAAAJ
       orcid: https://orcid.org/0000-0003-1487-0886
-      research: dependent type theory, functional programming, effects and handlers, programming language design and metatheory,
-        category theory
+      research: dependent type theory, functional programming, effects and handlers, programming language design and metatheory, category theory
       image: /assets/img/profiles/conor-mcbride.jpg
     - name: Fredrik Nordvall Forsberg
       homepage: https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/
       scholar: https://scholar.google.com/citations?user=-0ALlRsAAAAJ
       orcid: https://orcid.org/0000-0001-6157-9288
-      research: dependent type theory, homotopy type theory, constructive mathematics, categorical semantics of programming
-        languages
+      research: dependent type theory, homotopy type theory, constructive mathematics, categorical semantics of programming languages
       image: /assets/img/profiles/fredrik-nordvall-forsberg.webp
     - name: Guillaume Allais
       homepage: https://gallais.github.io
@@ -1556,8 +1560,7 @@
       homepage: https://www.cs.cmu.edu/~balzers
       scholar: https://scholar.google.com/citations?user=xZXNqqYAAAAJ
       orcid: https://orcid.org/0000-0002-8347-3529
-      research: type systems, separation logic, functional programming, object-oriented programming, concurrency, language-based
-        security
+      research: type systems, separation logic, functional programming, object-oriented programming, concurrency, language-based security
     - name: Umut A. Acar
       homepage: http://www.umut-acar.org
       scholar: https://scholar.google.com/citations?user=wJ4NywgAAAAJ
@@ -1582,11 +1585,11 @@
       homepage: http://www.cs.cornell.edu/andru
       scholar: https://scholar.google.com/citations?user=ovlpa_IAAAAJ
       orcid: https://orcid.org/0000-0001-5819-7588
-      research: type systems, compilers, functional programming, object-oriented programming, language-based security, formal
-        methods, probabilistic programming
+      research: type systems, compilers, functional programming, object-oriented programming, language-based security, formal methods, probabilistic programming
     - name: J. Gregory Morrisett
       homepage: http://www.cs.cornell.edu/~jgm
       scholar: https://scholar.google.com/citations?user=Dswus94AAAAJ
+      orcid: https://orcid.org/0000-0002-2619-5614
       research: type systems, compilers, memory management, language-based security, formal methods
     - name: Sorin Lerner
       homepage: https://www.cs.cornell.edu/~lerner/
@@ -1598,8 +1601,7 @@
       homepage: https://justinh.su
       scholar: https://scholar.google.com/citations?user=HsfKE0sAAAAJ
       orcid: https://orcid.org/0000-0002-8953-7060
-      research: type systems, dependent types, refinement types, formal methods, separation logic, program analysis, language
-        design, functional programming, language-based security, probabilistic programming
+      research: type systems, dependent types, refinement types, formal methods, separation logic, program analysis, language design, functional programming, language-based security, probabilistic programming
   - name: Georgia Institute of Technology
     url: https://www.cc.gatech.edu/
     deadline: December 15th
@@ -1621,10 +1623,10 @@
       orcid: https://orcid.org/0000-0001-6723-8062
       research: compilers, program analysis, static analysis, runtime analysis, hardware security, embedded systems
     - name: Vivek Sarkar
-      homepage: http://vsarkar.cc.gatech.edu
+      homepage: https://vsarkar.cc.gatech.edu
       scholar: https://scholar.google.com/citations?user=XjeIqxYAAAAJ
       orcid: https://orcid.org/0000-0002-3433-8830
-      research: compilers, language implementation
+      research: compilers, language implementation, parallel programming, HPC, distributed systems
   - name: Harvard University
     url: https://seas.harvard.edu/
     deadline: December 15th
@@ -1664,14 +1666,12 @@
       homepage: http://wphomes.soic.indiana.edu/jsiek
       scholar: https://scholar.google.com/citations?user=Vuso8H8AAAAJ
       orcid: https://orcid.org/0000-0002-9894-4856
-      research: dependent types, gradual typing, proof assistants, compilers, domain specific languages, functional programming,
-        metaprogramming, language semantics, language-based security
+      research: dependent types, gradual typing, proof assistants, compilers, domain specific languages, functional programming, metaprogramming, language semantics, language-based security
     - name: Sam Tobin-Hochstadt
       homepage: http://www.ccs.neu.edu/home/samth
       scholar: https://scholar.google.com/citations?user=vMSSQbAAAAAJ
       orcid: https://orcid.org/0000-0003-1302-6499
-      research: gradual typing, type systems, program analysis, language design, functional programming, object-oriented programming,
-        formal methods
+      research: gradual typing, type systems, program analysis, language design, functional programming, object-oriented programming, formal methods
   - name: PL @ Massachusetts Inst. of Technology
     url: http://projects.csail.mit.edu/pl/
     deadline: December 1st
@@ -1681,8 +1681,7 @@
       homepage: http://adam.chlipala.net
       scholar: https://scholar.google.com/citations?user=Imh0w3AAAAAJ
       orcid: https://orcid.org/0000-0001-7085-9417
-      research: dependent types, program verification, automated reasoning, proof assistants, program analysis, compilers,
-        language design, functional programming, concurrency
+      research: dependent types, program verification, automated reasoning, proof assistants, program analysis, compilers, language design, functional programming, concurrency
     - name: Armando Solar-Lezama
       homepage: https://people.csail.mit.edu/asolar
       scholar: https://scholar.google.com/citations?user=8BX3BokAAAAJ
@@ -1711,6 +1710,7 @@
     - name: Dennis E. Shasha
       homepage: http://cs.nyu.edu/shasha
       scholar: https://scholar.google.com/citations?user=UQ9Ws6wAAAAJ
+      orcid: https://orcid.org/0000-0002-7036-3312
       research: concurrency
     - name: Joseph Tassarotti
       homepage: https://cs.nyu.edu/~jt4767
@@ -1731,8 +1731,7 @@
       homepage: http://cs.nyu.edu/wies
       scholar: https://scholar.google.com/citations?user=IzLlyzsAAAAJ
       orcid: https://orcid.org/0000-0003-4051-5968
-      research: type systems, model checking, automated reasoning, interactive theorem provers, separation logic, program
-        analysis, static analysis, language design, functional programming, object-oriented programming, concurrency
+      research: type systems, model checking, automated reasoning, interactive theorem provers, separation logic, program analysis, static analysis, language design, functional programming, object-oriented programming, concurrency
   - name: PRL @ Northeastern University
     url: https://prl.ccs.neu.edu
     deadline: December 15th
@@ -1742,8 +1741,7 @@
       homepage: http://www.ccs.neu.edu/home/amal
       scholar: https://scholar.google.com/citations?user=Y1C007wAAAAJ
       orcid: https://orcid.org/0000-0001-7424-572X
-      research: type theory, type systems, dependent types, gradual typing, separation logic, compilers, language design,
-        functional programming, object-oriented programming, concurrency, formal methods, probabilistic programming
+      research: type theory, type systems, dependent types, gradual typing, separation logic, compilers, language design, functional programming, object-oriented programming, concurrency, formal methods, probabilistic programming
     - name: Arjun Guha
       homepage: http://ccs.neu.edu/~arjunguha/main/home
       scholar: https://scholar.google.com/citations?user=yMU0f9EAAAAJ
@@ -1865,14 +1863,12 @@
       homepage: http://herowanzhu.github.io
       scholar: https://scholar.google.com/citations?user=3X9GC2gAAAAJ
       orcid: https://orcid.org/0000-0001-9606-150X
-      research: refinement types, model checking, static analysis, program synthesis, compilers, language design, functional
-        programming
+      research: refinement types, model checking, static analysis, program synthesis, compilers, language design, functional programming
     - name: Santosh Nagarakatte
       homepage: https://www.cs.rutgers.edu/~santosh.nagarakatte
       scholar: https://scholar.google.com/citations?user=J7H4N_4AAAAJ
       orcid: https://orcid.org/0000-0002-5048-8548
-      research: formal methods, program analysis, static analysis, compilers, memory management, language design, object-oriented
-        programming, parallel programming, concurrency
+      research: formal methods, program analysis, static analysis, compilers, memory management, language design, object-oriented programming, parallel programming, concurrency
   - name: Stanford University
     url: https://www.cs.stanford.edu/
     deadline: December 2nd
@@ -1959,8 +1955,7 @@
       homepage: http://www.cs.ucla.edu/~todd
       scholar: https://scholar.google.com/citations?user=u_tOExoAAAAJ
       orcid: https://orcid.org/0000-0002-2031-1514
-      research: type systems, program verification, automated reasoning, interactive theorem provers, property-based testing,
-        probabilistic programming
+      research: type systems, program verification, automated reasoning, interactive theorem provers, property-based testing, probabilistic programming
     - name: Yisu Remy Wang
       homepage: https://remy.wang
       scholar: https://scholar.google.com/citations?user=leLJqREAAAAJ
@@ -1987,8 +1982,7 @@
       homepage: https://cseweb.ucsd.edu/~dstefan
       scholar: https://scholar.google.com/citations?user=qTVj7nwAAAAJ
       orcid: https://orcid.org/0000-0002-7041-7464
-      research: refinement types, program analysis, compilers, language implementation, language design, functional programming,
-        language-based security, memory management
+      research: refinement types, program analysis, compilers, language implementation, language design, functional programming, language-based security, memory management
     - name: Loris D'Antoni
       homepage: https://cseweb.ucsd.edu/~ldantoni
       scholar: https://scholar.google.com/citations?user=ao8EeJ8AAAAJ
@@ -1998,14 +1992,12 @@
       homepage: https://cseweb.ucsd.edu/~mcoblenz
       scholar: https://scholar.google.com/citations?user=sKuY6fIAAAAJ
       orcid: https://orcid.org/0000-0002-9369-4069
-      research: type systems, formal methods, static analysis, memory management, language design, functional programming,
-        property-based testing
+      research: type systems, formal methods, static analysis, memory management, language design, functional programming, property-based testing
     - name: Nadia Polikarpova
       homepage: https://cseweb.ucsd.edu/~npolikarpova
       scholar: https://scholar.google.com/citations?user=CxzUX0EAAAAJ
       orcid: https://orcid.org/0000-0001-5571-173X
-      research: refinement types, separation logic, program analysis, program synthesis, compilers, functional programming,
-        object-oriented programming, language-based security, formal methods
+      research: refinement types, separation logic, program analysis, program synthesis, compilers, functional programming, object-oriented programming, language-based security, formal methods
     - name: Ranjit Jhala
       homepage: https://ranjitjhala.github.io
       scholar: https://scholar.google.com/citations?user=H3wb878AAAAJ
@@ -2178,7 +2170,7 @@
     deadline: December 15th
     professors:
     - name: Bor-Yuh Evan Chang
-      homepage: http://www.cs.colorado.edu/~bec
+      homepage: https://plv.colorado.edu/bec/
       scholar: https://scholar.google.com/citations?user=wg3lXyYAAAAJ
       orcid: https://orcid.org/0000-0002-1954-0774
       research: automated reasoning
