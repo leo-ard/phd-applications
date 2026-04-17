@@ -1,0 +1,70 @@
+{%- macro deadline(uni) -%}
+{%- if uni.deadline is sequence_not_string -%}
+{%- if uni.deadline_url %}[Application deadline]({{ uni.deadline_url }})
+{%- else %}Application deadline
+{%- endif -%}:
+
+{% for item in uni.deadline -%}
+- {% if item is mapping -%}
+{{ item.text }}{{ " — see [%s](%s)" | format(item.url | domain, item.url) if item.url else "" }}
+{%- else -%}
+{{ item }}
+{%- endif %}
+{% endfor -%}
+{%- else -%}
+{%- if uni.deadline_url %}[Application deadline]({{ uni.deadline_url }})
+{%- else %}Application deadline
+{%- endif -%}: {{ uni.deadline | default('❔') }}
+{%- endif -%}
+{%- endmacro -%}
+
+{%- macro professor(prof) -%}
+{%- set links = [] -%}
+{%- if prof.homepage %}{% set _ = links.append("[Homepage](" ~ prof.homepage ~ ")") %}{% endif -%}
+{%- if prof.scholar %}{% set _ = links.append("[Scholar](" ~ prof.scholar ~ ")") %}{% endif -%}
+{%- if prof.orcid %}{% set _ = links.append("[ORCID](" ~ prof.orcid ~ ")") %}{% endif -%}
+{% if links -%}
+**{{ prof.name }}** — {{ links | join(' · ') }}
+{%- else -%}
+**{{ prof.name }}**
+{%- endif %}
+
+- Research: {{ prof.research | default('❔') }}
+
+- Taking students: {% if prof.taking_students is true %}✅{% elif prof.taking_students is false %}❌{% else %}❔{% endif %}
+{%- endmacro %}
+# {{ config.title }}
+
+> **Note:** This file is auto-generated from
+> [`_data/directory.yml`](_data/directory.yml). To make changes,
+> edit the YAML and run `python scripts/generate_readme.py`.
+> See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+{{ config.description }}
+
+**[Browse the directory online]({{ config.url }}{{ config.baseurl }}/)**
+
+Inspired by and sourced from
+{%- for c in config.credits %} [{{ c.text }}]({{ c.url }})
+{%- if not loop.last %},{% endif %}
+{%- endfor %}.
+
+## Table of Contents
+
+{% for country in data -%}
+- [{{ country.name }}](#{{ country.name | slugify }})
+{% endfor %}
+{%- for country in data %}
+
+## {{ country.name }}
+{% for uni in country.universities | default([]) %}
+
+### {% if uni.url %}[{{ uni.name }}]({{ uni.url }}){% else %}{{ uni.name }}{% endif %}
+
+{{ deadline(uni) }}
+{% for prof in uni.professors | default([]) %}
+
+{{ professor(prof) }}
+{% endfor -%}
+{% endfor -%}
+{% endfor -%}

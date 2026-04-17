@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # /// script
 # requires-python = ">=3.9"
-# dependencies = ["pyyaml"]
+# dependencies = ["pyyaml", "jinja2"]
 # ///
-"""Generate README.md from _data/directory.yml."""
+"""Generate README.md from _data/directory.yml using a Jinja2 template."""
 
 import re
 import yaml
+import jinja2
 from pathlib import Path
 
 
@@ -17,122 +18,13 @@ def slugify(text):
     return text
 
 
-def _format_deadline(deadline):
-    """Format a deadline value (string or list) for README. Returns (prefix, lines)."""
-    if not deadline:
-        return "❔", []
-    if isinstance(deadline, str):
-        return deadline, []
-    # List of items — return as bullet points
-    bullets = []
-    for item in deadline:
-        if isinstance(item, dict):
-            text = item["text"]
-            if item.get("url"):
-                text += f" — see [{item['url'].split('//')[1].split('/')[0]}]({item['url']})"
-            bullets.append(text)
-        else:
-            bullets.append(str(item))
-    return None, bullets
+def domain(url):
+    """Extract domain from a URL."""
+    return url.split("//")[1].split("/")[0]
 
 
-def generate_readme(data, config):
-    lines = []
-    lines.append(f"# {config['title']}")
-    lines.append("")
-    lines.append("> **Note:** This file is auto-generated from")
-    lines.append("> [`_data/directory.yml`](_data/directory.yml). To make changes,")
-    lines.append("> edit the YAML and run `python scripts/generate_readme.py`.")
-    lines.append("> See [CONTRIBUTING.md](CONTRIBUTING.md) for details.")
-    lines.append("")
-    lines.append(config["description"])
-    lines.append("")
-    page_url = f"{config['url']}{config['baseurl']}/"
-    lines.append(f"**[Browse the directory online]({page_url})**")
-    lines.append("")
-    credit_links = ", ".join(
-        f"[{c['text']}]({c['url']})" for c in config["credits"]
-    )
-    lines.append(f"Inspired by and sourced from {credit_links}.")
-    lines.append("")
-    lines.append("## Table of Contents")
-    lines.append("")
-    for country in data:
-        slug = slugify(country["name"])
-        lines.append(f"- [{country['name']}](#{slug})")
-    lines.append("")
-
-    for country in data:
-        lines.append(f"## {country['name']}")
-        lines.append("")
-
-        for uni in country.get("universities", []):
-            # University heading
-            if uni.get("url"):
-                lines.append(f"### [{uni['name']}]({uni['url']})")
-            else:
-                lines.append(f"### {uni['name']}")
-            lines.append("")
-
-            # Deadline
-            deadline = uni.get("deadline")
-            deadline_url = uni.get("deadline_url")
-            dl_text, dl_bullets = _format_deadline(deadline)
-
-            if dl_bullets:
-                # Multi-item deadline as bullet list
-                if deadline_url:
-                    lines.append(f"[Application deadline]({deadline_url}):")
-                else:
-                    lines.append("Application deadline:")
-                lines.append("")
-                for bullet in dl_bullets:
-                    lines.append(f"- {bullet}")
-                lines.append("")
-            else:
-                if deadline_url:
-                    lines.append(f"[Application deadline]({deadline_url}): {dl_text}")
-                else:
-                    lines.append(f"Application deadline: {dl_text}")
-                lines.append("")
-
-            # Professors
-            for prof in uni.get("professors", []):
-                # Name and links
-                link_parts = []
-                if prof.get("homepage"):
-                    link_parts.append(f"[Homepage]({prof['homepage']})")
-                if prof.get("scholar"):
-                    link_parts.append(f"[Scholar]({prof['scholar']})")
-                if prof.get("orcid"):
-                    link_parts.append(f"[ORCID]({prof['orcid']})")
-
-                if link_parts:
-                    links = " · ".join(link_parts)
-                    lines.append(f"**{prof['name']}** — {links}")
-                else:
-                    lines.append(f"**{prof['name']}**")
-                lines.append("")
-
-                # Research
-                research = prof.get("research")
-                if research:
-                    lines.append(f"- Research: {research}")
-                else:
-                    lines.append("- Research:❔")
-                lines.append("")
-
-                # Taking students
-                ts = prof.get("taking_students")
-                if ts == "yes":
-                    lines.append("- Taking students: ✅")
-                elif ts == "no":
-                    lines.append("- Taking students: ❌")
-                else:
-                    lines.append("- Taking students:❔")
-                lines.append("")
-
-    return "\n".join(lines).rstrip() + "\n"
+def is_sequence_not_string(value):
+    return isinstance(value, (list, tuple))
 
 
 def main():
@@ -144,7 +36,19 @@ def main():
     with open(repo / "_data" / "directory.yml") as f:
         data = yaml.safe_load(f)
 
-    readme = generate_readme(data, config)
+    env = jinja2.Environment(
+        loader=jinja2.FileSystemLoader(repo / "scripts"),
+        keep_trailing_newline=True,
+    )
+    env.filters["slugify"] = slugify
+    env.filters["domain"] = domain
+    env.tests["sequence_not_string"] = is_sequence_not_string
+
+    template = env.get_template("readme.md.j2")
+    readme = template.render(config=config, data=data)
+    # Normalize whitespace: collapse 3+ newlines to 2, strip leading/trailing
+    readme = re.sub(r"\n{3,}", "\n\n", readme).strip() + "\n"
+
     out = repo / "README.md"
     out.write_text(readme)
     print(f"Generated {out} ({len(readme)} bytes)")
