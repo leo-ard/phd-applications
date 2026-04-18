@@ -273,7 +273,7 @@ Application deadline: ❔
 
 - Taking students: ❔
 
-**Yizhou Zhang** — [Homepage](https://cs.uwaterloo.ca/~yizhou) · [Scholar](https://scholar.google.com/citations?user=8n7ZcbwAAAAJ) · [ORCID](https://orcid.org/0000-0002-8206-4694) · [DBLP](https://dblp.org/pid/120/2740)
+**Yizhou Zhang** — [Homepage](https://cs.uwaterloo.ca/~yizhou) · [Scholar](https://scholar.google.com/citations?user=8n7ZcbwAAAAJ) · [ORCID](https://orcid.org/0000-0002-8206-4694) · [DBLP](https://dblp.org/pid/120/2740-1)
 
 - Research: language design, compilers, formal verification, proof assistants, probabilistic programming, machine learning
 
@@ -1506,7 +1506,7 @@ Application deadline: ❔
 
 **H. Gül Çalikli** — [Homepage](https://gulcalikli.github.io/) · [Scholar](https://scholar.google.com/citations?user=lShgfvwAAAAJ) · [ORCID](https://orcid.org/0000-0003-4578-1747)
 
-- Research: software engineering and programming languages
+- Research: empirical software engineering, cognitive psychology, machine learning, software quality
 
 - Taking students: ✅
 
@@ -1774,9 +1774,9 @@ Application deadline: Rolling
 
 Application deadline: January 2nd
 
-**Aaron Stump** — [Homepage](https://cshub.bc.edu/stumpaa/) · [Scholar](https://scholar.google.com/citations?user=568MtVQAAAAJ) · [ORCID](https://orcid.org/0000-0002-9720-0003)
+**Aaron Stump** — [Homepage](https://cshub.bc.edu/stumpaa/) · [Scholar](https://scholar.google.com/citations?user=568MtVQAAAAJ) · [ORCID](https://orcid.org/0000-0002-9720-0003) · [DBLP](https://dblp.org/pid/46/656)
 
-- Research: automated reasoning
+- Research: type theory, dependent types, lambda encodings, automated reasoning, intuitionistic logic, functional programming
 
 - Taking students: ❔
 
@@ -2014,12 +2014,6 @@ Application deadline: December 15th
 
 [Application deadline](https://engineering.nyu.edu/admissions/graduate/apply/application-deadlines): December 1st
 
-**Dennis E. Shasha** — [Homepage](http://cs.nyu.edu/shasha) · [Scholar](https://scholar.google.com/citations?user=UQ9Ws6wAAAAJ) · [ORCID](https://orcid.org/0000-0002-7036-3312)
-
-- Research: concurrency
-
-- Taking students: ❔
-
 **Joseph Tassarotti** — [Homepage](https://cs.nyu.edu/~jt4767) · [Scholar](https://scholar.google.com/citations?user=zNvgsXAAAAAJ) · [ORCID](https://orcid.org/0000-0001-5692-3347)
 
 - Research: formal methods, separation logic, program synthesis, concurrency, distributed systems, probabilistic programming
@@ -2086,7 +2080,7 @@ Application deadline: December 15th
 
 **Olin Shivers** — [Homepage](http://www.ccs.neu.edu/home/shivers) · [Scholar](https://scholar.google.com/citations?user=4FcaMpgAAAAJ) · [ORCID](https://orcid.org/0000-0001-8171-386X) · [DBLP](https://dblp.org/pid/s/OlinShivers)
 
-- Research: compilers
+- Research: compilers, programming language design, language semantics, systems programming, higher-order languages
 
 - Taking students: ❔
 
@@ -2121,7 +2115,7 @@ Application deadline: December 15th
 
 **Michael D. Bond** — [Homepage](https://mdbond.github.io) · [Scholar](https://scholar.google.com/citations?user=zoBZ_FMAAAAJ) · [ORCID](https://orcid.org/0000-0002-8971-4944)
 
-- Research: security
+- Research: concurrency, memory models, garbage collection, program analysis, runtime systems, security, information flow control
 
 - Taking students: ❔
 
@@ -2269,9 +2263,9 @@ Application deadline: ❔
 
 Application deadline: ❔
 
-**Caleb Stanford** — [Homepage](https://web.cs.ucdavis.edu/~cdstanford) · [Scholar](https://scholar.google.com/citations?user=VDFGNZ0AAAAJ) · [ORCID](https://orcid.org/0000-0002-8428-7736)
+**Caleb Stanford** — [Homepage](https://web.cs.ucdavis.edu/~cdstanford) · [Scholar](https://scholar.google.com/citations?user=VDFGNZ0AAAAJ) · [ORCID](https://orcid.org/0000-0002-8428-7736) · [DBLP](https://dblp.org/pid/202/9985)
 
-- Research: distributed systems
+- Research: formal methods, distributed systems, security, regular expressions, dataflow programming, program verification
 
 - Taking students: ❔
 
@@ -2315,13 +2309,13 @@ Application deadline: ❔
 
 **Jay P. Lim** — [Homepage](https://dongura.me) · [Scholar](https://scholar.google.com/citations?user=5oKUbqoAAAAJ) · [ORCID](https://orcid.org/0000-0002-7572-4017) · [DBLP](https://dblp.org/pid/219/9089)
 
-- Research: compilers, language design
+- Research: compilers, numerical computing, correctly-rounded math libraries, language design
 
 - Taking students: ❔
 
 **Manu Sridharan** — [Homepage](https://manu.sridharan.net) · [Scholar](https://scholar.google.com/citations?user=iNtk_EQAAAAJ) · [ORCID](https://orcid.org/0000-0001-7993-302X) · [DBLP](https://dblp.org/pid/83/2559)
 
-- Research: static analysis
+- Research: static analysis, software engineering, program reliability, software maintenance
 
 - Taking students: ❔
 
@@ -2544,7 +2538,7 @@ Application deadline: December 15th
 
 **Bor-Yuh Evan Chang** — [Homepage](https://plv.colorado.edu/bec/) · [Scholar](https://scholar.google.com/citations?user=wg3lXyYAAAAJ) · [ORCID](https://orcid.org/0000-0002-1954-0774)
 
-- Research: automated reasoning
+- Research: automated reasoning, static analysis, program verification, software engineering
 
 - Taking students: ❔
 
@@ -2570,7 +2564,7 @@ Application deadline: January 1st
 
 **J. Garrett Morris** — [Homepage](https://jgbm.github.io) · [Scholar](https://scholar.google.com/citations?user=PZIdxNgAAAAJ) · [ORCID](https://orcid.org/0000-0002-3992-1080)
 
-- Research: type systems
+- Research: type systems, substructural types, qualified types, concurrency, records and variants
 
 - Taking students: ❔
 
@@ -2684,7 +2678,7 @@ Application deadline: December 15th
 
 **Matthew Flatt** — [Homepage](http://www.cs.utah.edu/~mflatt) · [Scholar](https://scholar.google.com/citations?user=9sMIvdgAAAAJ) · [ORCID](https://orcid.org/0000-0001-8994-2552)
 
-- Research: Racket
+- Research: Racket, macro systems, language extensibility, module systems, language runtimes
 
 - Taking students: ❔
 
@@ -2750,7 +2744,7 @@ Application deadline: December 15th
 
 **Alexander K. Lew** — [Homepage](https://engineering.yale.edu/research-and-faculty/faculty-directory/alex-lew) · [Scholar](https://scholar.google.com/citations?user=TiF1WEsAAAAJ) · [ORCID](https://orcid.org/0000-0002-9262-4392) · [DBLP](https://dblp.org/pid/242/4530)
 
-- Research: probabilistic programming
+- Research: probabilistic programming, differentiable programming, Bayesian inference, machine learning
 
 - Taking students: ❔
 

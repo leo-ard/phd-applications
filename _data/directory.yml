@@ -231,7 +231,7 @@
       homepage: https://cs.uwaterloo.ca/~yizhou
       scholar: https://scholar.google.com/citations?user=8n7ZcbwAAAAJ
       orcid: https://orcid.org/0000-0002-8206-4694
-      dblp: https://dblp.org/pid/120/2740
+      dblp: https://dblp.org/pid/120/2740-1
       research: language design, compilers, formal verification, proof assistants, probabilistic programming, machine learning
 - name: Chile
   universities:
@@ -1342,7 +1342,7 @@
       homepage: https://gulcalikli.github.io/
       scholar: https://scholar.google.com/citations?user=lShgfvwAAAAJ
       orcid: https://orcid.org/0000-0003-4578-1747
-      research: software engineering and programming languages
+      research: empirical software engineering, cognitive psychology, machine learning, software quality
       taking_students: true
       image: /assets/img/profiles/gul-calikli.png
     - name: Jeremy Singer
@@ -1592,7 +1592,8 @@
       homepage: https://cshub.bc.edu/stumpaa/
       scholar: https://scholar.google.com/citations?user=568MtVQAAAAJ
       orcid: https://orcid.org/0000-0002-9720-0003
-      research: automated reasoning
+      dblp: https://dblp.org/pid/46/656
+      research: type theory, dependent types, lambda encodings, automated reasoning, intuitionistic logic, functional programming
   - name: Boston University
     deadline: December 15th
     professors:
@@ -1810,12 +1811,6 @@
     deadline: December 1st
     deadline_url: https://engineering.nyu.edu/admissions/graduate/apply/application-deadlines
     professors:
-    - name: Dennis E. Shasha
-      homepage: http://cs.nyu.edu/shasha
-      scholar: https://scholar.google.com/citations?user=UQ9Ws6wAAAAJ
-      orcid: https://orcid.org/0000-0002-7036-3312
-      image: /assets/img/profiles/dennis-shasha.jpg
-      research: concurrency
     - name: Joseph Tassarotti
       homepage: https://cs.nyu.edu/~jt4767
       scholar: https://scholar.google.com/citations?user=zNvgsXAAAAAJ
@@ -1882,7 +1877,7 @@
       orcid: https://orcid.org/0000-0001-8171-386X
       dblp: https://dblp.org/pid/s/OlinShivers
       image: /assets/img/profiles/olin-shivers.jpg
-      research: compilers
+      research: compilers, programming language design, language semantics, systems programming, higher-order languages
     - name: Steven Holtzen
       homepage: https://www.khoury.northeastern.edu/home/sholtzen
       scholar: https://scholar.google.com/citations?user=ak46IwwAAAAJ
@@ -1915,7 +1910,7 @@
       scholar: https://scholar.google.com/citations?user=zoBZ_FMAAAAJ
       orcid: https://orcid.org/0000-0002-8971-4944
       image: /assets/img/profiles/micheal-bond.jpg
-      research: security
+      research: concurrency, memory models, garbage collection, program analysis, runtime systems, security, information flow control
   - name: PL @ Princeton University
     url: http://pl.cs.princeton.edu/
     deadline: December 15th
@@ -2045,7 +2040,8 @@
       homepage: https://web.cs.ucdavis.edu/~cdstanford
       scholar: https://scholar.google.com/citations?user=VDFGNZ0AAAAJ
       orcid: https://orcid.org/0000-0002-8428-7736
-      research: distributed systems
+      dblp: https://dblp.org/pid/202/9985
+      research: formal methods, distributed systems, security, regular expressions, dataflow programming, program verification
   - name: Univ. of California - Los Angeles
     url: http://www.cs.ucla.edu/
     deadline: December 15th
@@ -2087,13 +2083,13 @@
       orcid: https://orcid.org/0000-0002-7572-4017
       dblp: https://dblp.org/pid/219/9089
       image: /assets/img/profiles/jay-lim.jpg
-      research: compilers, language design
+      research: compilers, numerical computing, correctly-rounded math libraries, language design
     - name: Manu Sridharan
       homepage: https://manu.sridharan.net
       scholar: https://scholar.google.com/citations?user=iNtk_EQAAAAJ
       orcid: https://orcid.org/0000-0001-7993-302X
       dblp: https://dblp.org/pid/83/2559
-      research: static analysis
+      research: static analysis, software engineering, program reliability, software maintenance
   - name: ProgSys @ Univ. of California - San Diego
     url: https://cseweb.ucsd.edu/groups/progsys/
     deadline: December 23rd
@@ -2305,7 +2301,7 @@
       homepage: https://plv.colorado.edu/bec/
       scholar: https://scholar.google.com/citations?user=wg3lXyYAAAAJ
       orcid: https://orcid.org/0000-0002-1954-0774
-      research: automated reasoning
+      research: automated reasoning, static analysis, program verification, software engineering
     - name: Gowtham Kaki
       homepage: https://gowthamk.github.io
       scholar: https://scholar.google.com/citations?user=d3JzmN4AAAAJ
@@ -2328,7 +2324,7 @@
       homepage: https://jgbm.github.io
       scholar: https://scholar.google.com/citations?user=PZIdxNgAAAAJ
       orcid: https://orcid.org/0000-0002-3992-1080
-      research: type systems
+      research: type systems, substructural types, qualified types, concurrency, records and variants
   - name: University of Massachusetts Lowell
     url: https://cs.uml.edu
     professors:
@@ -2429,7 +2425,7 @@
       homepage: http://www.cs.utah.edu/~mflatt
       scholar: https://scholar.google.com/citations?user=9sMIvdgAAAAJ
       orcid: https://orcid.org/0000-0001-8994-2552
-      research: Racket
+      research: Racket, macro systems, language extensibility, module systems, language runtimes
     - name: Pavel Panchekha
       homepage: https://pavpanchekha.com
       scholar: https://scholar.google.com/citations?user=dIOCe1UAAAAJ
@@ -2489,7 +2485,7 @@
       scholar: https://scholar.google.com/citations?user=TiF1WEsAAAAJ
       orcid: https://orcid.org/0000-0002-9262-4392
       dblp: https://dblp.org/pid/242/4530
-      research: probabilistic programming
+      research: probabilistic programming, differentiable programming, Bayesian inference, machine learning
     - name: Ruzica Piskac
       homepage: http://www.cs.yale.edu/~piskac
       scholar: https://scholar.google.com/citations?user=71RQt3sAAAAJ
