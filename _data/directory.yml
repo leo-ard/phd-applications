@@ -33,37 +33,44 @@
       homepage: https://liamoc.net/forest/index/index.xml
       scholar: https://scholar.google.com/citations?user=PDIijq8AAAAJ
       orcid: https://orcid.org/0000-0003-2765-4269
+      dblp: https://dblp.org/pid/146/3436
       research: property-based testing, language semantics, temporal logic
       taking_students: true
     - name: Michael Norrish
       homepage: https://comp.anu.edu.au/people/michael-norrish
       scholar: https://scholar.google.com/citations?user=Ymd4ZfYAAAAJ
       orcid: https://orcid.org/0000-0003-1163-8467
+      dblp: https://dblp.org/pid/10/3457
       research: interactive theorem provers, language semantics
     - name: Nisansala Yatapanage
       homepage: https://yatapanage.com/
       scholar: https://scholar.google.com/citations?user=_Kgwm9YAAAAJ
       orcid: https://orcid.org/0000-0002-0498-513X
+      dblp: https://dblp.org/pid/25/2546
       research: software verification, formal methods, concurrency, rely/guarantee, separation logic, temporal logic
     - name: Peter Hoefner
       homepage: https://comp.anu.edu.au/people/peter-hoefner/
       scholar: https://scholar.google.com/citations?user=JbCZr9sAAAAJ
       orcid: https://orcid.org/0000-0002-2141-5868
+      dblp: https://dblp.org/pid/98/7040
       research: formal methods, software verification, algebraic methods, concurrency and distributed systems
     - name: Ranald Clouston
       homepage: https://comp.anu.edu.au/people/ranald-clouston/
       scholar: https://scholar.google.com/citations?user=_7YKlyMAAAAJ
+      dblp: https://dblp.org/pid/27/6932
       research: logic, type systems, type theory
     - name: Steve Blackburn
       homepage: https://www.steveblackburn.org/
       scholar: https://scholar.google.com/citations?user=HgSTO7oAAAAJ
       orcid: https://orcid.org/0000-0001-6632-6001
+      dblp: https://dblp.org/pid/b/StephenMBlackburn
       research: garbage collection, language implementation, performance analysis
     - name: Tony Hosking
       homepage: https://hosking.github.io/
       scholar: https://scholar.google.com/citations?user=5LINiuEAAAAJ
       orcid: https://orcid.org/0000-0002-4487-6923
       research: programming language runtimes, compilation, garbage collection, data storage and management
+      dblp: https://dblp.org/pid/h/AntonyLHosking
   - name: Trustworthy Systems @ UNSW
     url: https://trustworthy.systems/
     deadline: Multiple (check link)
@@ -74,6 +81,7 @@
       scholar: https://scholar.google.com/citations?user=Vn0Acv0AAAAJ
       orcid: https://orcid.org/0000-0002-4891-0797
       research: formal methods, program verification
+      dblp: https://dblp.org/pid/98/1593
 - name: Austria
   universities:
   - name: IST Austria
@@ -86,11 +94,13 @@
       scholar: https://scholar.google.com/citations?user=1kaW8bwAAAAJ
       orcid: https://orcid.org/0000-0002-4561-241X
       research: formal methods, program analysis, concurrency
+      dblp: https://dblp.org/pid/92/5602
     - name: Michael Sammler
       homepage: https://pub.ista.ac.at/~msammler
       scholar: https://scholar.google.com/citations?user=q8W9hZOJCtMC
       orcid: https://orcid.org/0000-0003-4591-743X
       research: automated reasoning, separation logic, formal methods
+      dblp: https://dblp.org/pid/248/1613
   - name: forsyte @ TU Wien
     url: https://forsyte.at/
     deadline: Multiple (check link)
@@ -101,6 +111,7 @@
       scholar: https://scholar.google.com/citations?user=X4K5SpIAAAAJ
       orcid: https://orcid.org/0000-0002-8299-2714
       image: /assets/img/profiles/laura-kovacs.jpg
+      dblp: https://dblp.org/pid/k/LauraKovacs
       research: automated reasoning, computer algebra, automated deduction, program verification, formal methods
 - name: Belgium
   universities:
@@ -116,16 +127,19 @@
       research: program logics, separation logic, program verification, language features for security and correctness, static
         analysis, type systems, concurrent programming, language semantics, theorem proving, proof assistants
       taking_students: true
+      dblp: https://dblp.org/pid/j/BartJacobs2
     - name: Dominique Devriese
       homepage: https://distrinet.cs.kuleuven.be/people/DominiqueDevriese
       scholar: https://scholar.google.com/citations?user=9vEspiUAAAAJ
       orcid: https://orcid.org/0000-0002-3862-6856
       research: modal types, dependent types, type theory, functional programming, security, verified compilation, capabilities, formalized ISAs
+      dblp: https://dblp.org/pid/74/8301
     - name: Tom Schrijvers
       homepage: https://people.cs.kuleuven.be/~tom.schrijvers
       scholar: https://scholar.google.com/citations?user=JVXShtsAAAAJ
       orcid: https://orcid.org/0000-0001-8771-5559
       research: functional programming, logic programming, effect handlers, algebraic effects
+      dblp: https://dblp.org/pid/s/TomSchrijvers
 - name: Canada
   universities:
   - name: CLG @ McGill University
@@ -144,6 +158,7 @@
       image: /assets/img/profiles/brigitte-pientka.jpg
       research: type theory, dependent types, refinement types, automated reasoning, functional programming, logic programming,
         metaprogramming
+      dblp: https://dblp.org/pid/p/BrigittePientka
   - name: Simon Fraser University
     url: https://www.sfu.ca/fas/computing.html
     deadline:
@@ -157,12 +172,14 @@
       orcid: https://orcid.org/0000-0002-8338-4008
       research: refinement types, program synthesis
       taking_students: true
+      dblp: https://dblp.org/pid/207/7834
     - name: Yuepeng Wang
       homepage: https://www.cs.sfu.ca/~yuepeng
       scholar: https://scholar.google.com/citations?user=SMln4gEAAAAJ
       orcid: https://orcid.org/0000-0003-3370-2431
       research: formal methods, program verification, program synthesis
       taking_students: true
+      dblp: https://dblp.org/pid/133/3844
   - name: SPL @ University of British Columbia
     url: https://spl.cs.ubc.ca/
     deadline: December 15th
@@ -173,21 +190,25 @@
       scholar: https://scholar.google.com/citations?user=q1bbqYEAAAAJ
       orcid: https://orcid.org/0000-0001-5554-9381
       research: program verification, program analysis, formal methods
+      dblp: https://dblp.org/pid/76/5160
     - name: Caroline Lemieux
       homepage: https://www.carolemieux.com
       scholar: https://scholar.google.com/citations?user=SMRGdi0AAAAJ
       orcid: https://orcid.org/0000-0002-9610-8520
       research: program analysis, static analysis, program synthesis, property-based testing, formal methods
+      dblp: https://dblp.org/pid/167/0227
     - name: Ronald Garcia
       homepage: http://www.cs.ubc.ca/~rxg
       scholar: https://scholar.google.com/citations?user=vB4OU7sAAAAJ
       orcid: https://orcid.org/0000-0002-0982-1118
       research: type systems, language design, functional programming, language semantics
+      dblp: https://dblp.org/pid/21/1406
     - name: William J. Bowman
       homepage: https://www.williamjbowman.com
       scholar: https://scholar.google.com/citations?user=Vbnpt_EAAAAJ
       orcid: https://orcid.org/0000-0002-6402-4840
       research: verified compilation, dependent types, program verification, metaprogramming
+      dblp: https://dblp.org/pid/163/3115
   - name: University of Regina
     url: https://www.uregina.ca/science/computer-science/index.html
     professors:
@@ -197,6 +218,7 @@
       orcid: https://orcid.org/0000-0002-9631-4826
       research: language semantics, dependent types, type theory, gradual typing, dependent pattern matching, type error diagnosis
       taking_students: true
+      dblp: https://dblp.org/pid/136/0877
   - name: ProSE @ University of Toronto
     url: https://www.cs.toronto.edu/~prose/
     deadline: December 1st
@@ -208,11 +230,13 @@
       orcid: https://orcid.org/0000-0001-9005-2653
       image: /assets/img/profiles/azadeh-farzan.jpg
       research: software verification, formal methods, program synthesis, security, concurrency
+      dblp: https://dblp.org/pid/89/148
     - name: Ningning Xie
       homepage: https://xnning.github.io
       scholar: https://scholar.google.com/citations?user=6DD_vkAAAAAJ
       orcid: https://orcid.org/0000-0002-5961-1493
       research: type systems, language design, language implementation, algebraic effects, effect handlers, functional programming
+      dblp: https://dblp.org/pid/217/4747
   - name: PLG @ University of Waterloo
     url: https://plg.uwaterloo.ca/
     deadline:
@@ -227,6 +251,7 @@
       orcid: https://orcid.org/0000-0001-9066-1889
       image: /assets/img/profiles/ondrej-lhotak.jpg
       research: program analysis, static analysis, compilers, object-oriented programming, Scala, call graph construction, points-to analysis
+      dblp: https://dblp.org/pid/05/469
     - name: Yizhou Zhang
       homepage: https://cs.uwaterloo.ca/~yizhou
       scholar: https://scholar.google.com/citations?user=8n7ZcbwAAAAJ
@@ -242,6 +267,7 @@
       scholar: https://scholar.google.com/citations?user=hRPJ-ZIAAAAJ
       orcid: https://orcid.org/0000-0002-5315-0198
       research: gradual typing, differential privacy, security typing, linear types, type systems, formal verification, language semantics, language design
+      dblp: https://dblp.org/pid/169/6836
     - name: Éric Tanter
       homepage: https://pleiad.cl/people/etanter
       scholar: https://scholar.google.com/citations?user=d0LISE4AAAAJ
@@ -266,6 +292,7 @@
       scholar: https://scholar.google.com/citations?user=Wx0bdN0AAAAJ
       orcid: https://orcid.org/0000-0003-1333-2314
       research: dynamic program analysis, static analysis
+      dblp: https://dblp.org/pid/00/8134
     - name: Andreas Pavlogiannis
       homepage: https://cs.au.dk/~pavlogiannis
       scholar: https://scholar.google.com/citations?user=9QvqaqUAAAAJ
@@ -321,6 +348,7 @@
       scholar: https://scholar.google.com/citations?user=MBiWoI8AAAAJ
       orcid: https://orcid.org/0000-0003-0386-4376
       research: type theory, language semantics, category theory, domain theory, type systems, algebraic effects
+      dblp: https://dblp.org/pid/64/6368
   - name: University of Copenhagen
     deadline: Rolling (position-based)
     deadline_url: https://di.ku.dk/english/research/phd/
@@ -330,27 +358,32 @@
       scholar: https://scholar.google.com/citations?user=MJppLgoAAAAJ
       orcid: https://orcid.org/0000-0001-7982-2768
       research: interactive theorem provers, automata theory, runtime verification, decision procedures, (co)induction, (co)recursion
+      dblp: https://dblp.org/pid/95/10567
     - name: Fritz Henglein
       homepage: http://www.diku.dk/~henglein
       scholar: https://scholar.google.com/citations?user=FOM81UEAAAAJ
       orcid: https://orcid.org/0000-0001-5190-2125
       research: type systems, program analysis, functional programming, language semantics, type inference, program analysis
+      dblp: https://dblp.org/pid/h/FritzHenglein
     - name: Martin Elsman
       homepage: https://elsman.com
       scholar: https://scholar.google.com/citations?user=B_kB3DUAAAAJ
       orcid: https://orcid.org/0000-0002-6061-5993
       research: parallel programming, compilers, functional programming, language design, language implementation
+      dblp: https://dblp.org/pid/97/2061
     - name: Thomas P. Jensen
       homepage: https://di.ku.dk/english/staff/vip/researchers_pltc/?pure=en/persons/120287
       scholar: https://scholar.google.com/citations?user=AAe9c3sAAAAJ
       orcid: https://orcid.org/0000-0002-4064-7170
       image: /assets/img/profiles/thomas-jensen.jpg
       research: static analysis, abstract interpretation, type systems, information flow, security, program analysis, compiler verification
+      dblp: https://dblp.org/pid/69/4418
     - name: Troels Henriksen
       homepage: https://hjemmesider.diku.dk/~athas
       scholar: https://scholar.google.com/citations?user=ZRnriNQAAAAJ
       orcid: https://orcid.org/0000-0002-1195-9722
       research: parallel programming, functional programming, HPC, compilers
+      dblp: https://dblp.org/pid/149/9278
 - name: France
   universities:
   - name: Aix-Marseille Université
@@ -360,6 +393,7 @@
       scholar: https://scholar.google.com/citations?user=hEYmcxwAAAAJ
       orcid: https://orcid.org/0000-0002-3285-6028
       research: language semantics, denotational semantics, linear logic, concurrency, dependent types
+      dblp: https://dblp.org/pid/41/573
   - name: Ecole Normale Superieure
     professors:
     - name: Albert Cohen
@@ -367,14 +401,16 @@
       scholar: https://scholar.google.com/citations?user=MkKZKAMAAAAJ
       orcid: https://orcid.org/0000-0002-8866-5343
       research: compilers, program analysis, optimization, computer architecture, hardware-software interface
+      dblp: https://dblp.org/pid/81/858-1
     - name: Caterina Urban
       homepage: https://caterinaurban.github.io
       scholar: https://scholar.google.com/citations?user=4-u1_HIAAAAJ
       orcid: https://orcid.org/0000-0002-8127-9642
       research: program analysis, static analysis, program verification
+      dblp: https://dblp.org/pid/130/9842
     - name: Cezara Dragoi
       homepage: http://www.di.ens.fr/~cezarad
-      dblp: https://dblp.org/pid/46/4882.html
+      dblp: https://dblp.org/pid/46/4882
       image: /assets/img/profiles/cezara-dragoi.jpg
       research: formal verification, automated reasoning, separation logic, static analysis
     - name: Marc Pouzet
@@ -382,11 +418,13 @@
       orcid: https://orcid.org/0000-0002-2651-7708
       image: /assets/img/profiles/marc-pouzet.jpg
       research: type systems, functional programming, language design, language implementation, language semantics
+      dblp: https://dblp.org/pid/96/3114
     - name: Xavier Rival
       homepage: http://www.di.ens.fr/~rival
       scholar: https://scholar.google.com/citations?user=YGy_zroAAAAJ
       orcid: https://orcid.org/0000-0002-2875-6171
       research: static analysis, abstract interpretation, shape analysis, program verification, compiler verification, probabilistic programming
+      dblp: https://dblp.org/pid/r/XavierRival
   - name: INRIA
     deadline: Rolling (position-base)
     deadline_url: https://jobs.inria.fr/public/classic/en/offres?filtre=doctorants
@@ -396,49 +434,58 @@
       scholar: https://scholar.google.com/citations?user=7R6jcZ0AAAAJ
       orcid: https://orcid.org/0000-0002-4069-1235
       research: type systems, language design, functional programming, object-oriented programming
+      dblp: https://dblp.org/pid/12/6990
     - name: Kenji Maillard
       homepage: https://kenji.maillard.blue
       scholar: https://scholar.google.com/citations?user=FHFfxRAAAAAJ
       orcid: https://orcid.org/0000-0001-5554-3203
       research: type theory, dependent types, type systems, program verification, proof assistants
       image: /assets/img/profiles/kenji-maillard.jpg
+      dblp: https://dblp.org/pid/166/4234
     - name: Luc Maranget
       homepage: https://cambium.inria.fr/~maranget
       scholar: https://scholar.google.com/citations?user=LXUYoD8AAAAJ
       orcid: https://orcid.org/0000-0001-5312-7759
       image: /assets/img/profiles/luc-maranget.jpg
       research: language design, compilers, lazy languages, concurrency
+      dblp: https://dblp.org/pid/49/4972
     - name: Matthieu Sozeau
       homepage: https://sozeau.gitlabpages.inria.fr/www
       scholar: https://scholar.google.com/citations?user=Sow46roAAAAJ
       orcid: https://orcid.org/0000-0001-6452-8806
       research: type theory, dependent types, type systems, automated reasoning, proof assistants, interactive theorem provers,
         program verification, functional programming, metaprogramming
+      dblp: https://dblp.org/pid/43/2028
     - name: Nicolas Tabareau
       homepage: https://tabareau.fr
       scholar: https://scholar.google.com/citations?user=BB1iGhUAAAAJ
       orcid: https://orcid.org/0000-0003-3366-2273
       research: proof assistants, Rocq, type theory, homotopy type theory, language semantics
+      dblp: https://dblp.org/pid/56/3285
     - name: Pierre-Marie Pédrot
       homepage: https://www.xn--pdrot-bsa.fr
       orcid: https://orcid.org/0009-0002-8006-6239
       image: /assets/img/profiles/pierre-marie-pedrot.jpg
       research: type theory, proof assistants, Rocq, logic, language semantics
+      dblp: https://dblp.org/pid/150/6790
     - name: Xavier Leroy
       homepage: https://xavierleroy.org
       scholar: https://scholar.google.com/citations?user=K5yXAeAAAAAJ
       orcid: https://orcid.org/0000-0002-8971-9171
       research: algebraic effects, automated reasoning, static analysis, compilers, functional programming, concurrency
+      dblp: https://dblp.org/pid/03/352
     - name: Yannick Forster
       homepage: https://yforster.de
       scholar: https://scholar.google.com/citations?user=yT74SZQAAAAJ
       orcid: https://orcid.org/0000-0002-8676-9819
       research: type theory, type systems, proof assistants, Rocq
+      dblp: https://dblp.org/pid/188/5682-2
     - name: Yannick Zakowski
       homepage: https://cambium.inria.fr/~yzakowsk
       scholar: https://scholar.google.com/citations?user=WR3yOasAAAAJ
       orcid: https://orcid.org/0000-0003-4585-6470
       research: proof assistants, language semantics, compiler verification, concurrency, memory models, interactive theorem proving, Rocq
+      dblp: https://dblp.org/pid/205/4358
 - name: Germany
   universities:
   - name: CISPA Helmholtz Center
@@ -451,6 +498,7 @@
       scholar: https://scholar.google.com/citations?user=I-ltakEAAAAJ
       orcid: https://orcid.org/0000-0001-6045-5232
       research: type systems, program verification, separation logic, distributed systems, formal methods, interactive theorem provers
+      dblp: https://dblp.org/pid/263/1059
   - name: Karlsruhe Inst. of Technology
     professors:
     - name: Sebastian Erdweg
@@ -458,6 +506,7 @@
       scholar: https://scholar.google.com/citations?user=2jCQrk4AAAAJ
       orcid: https://orcid.org/0000-0002-1974-5956
       research: static analysis, abstract interpretation, incremental computation, domain-specific languages, program analysis, soundness
+      dblp: https://dblp.org/pid/69/9170
   - name: Max Planck Society
     deadline:
     - 'MPI-SWS: Dec 31 / Mar 31 / Jun 30 / Sep 30'
@@ -471,17 +520,20 @@
       orcid: https://orcid.org/0000-0001-8919-8081
       research: verified compilation, memory management, program verification, dependent types, language semantics, property-based
         testing, cryptography, information flow control analysis
+      dblp: https://dblp.org/pid/09/2281
     - name: Deepak Garg
       homepage: https://people.mpi-sws.org/~dg/
       scholar: https://scholar.google.com/citations?user=BCXxazwAAAAJ
       orcid: https://orcid.org/0000-0002-0888-3093
       image: /assets/img/profiles/deepak-garg.jpg
       research: security, privacy, type systems, information flow, separation logic, logic, incremental computation
+      dblp: https://dblp.org/pid/45/6786-1
     - name: Derek Dreyer
       homepage: https://www.mpi-sws.org/~dreyer
       scholar: https://scholar.google.com/citations?user=1_c89uMAAAAJ
       orcid: https://orcid.org/0000-0002-3884-6867
       research: separation logic, type systems, Rust, memory models, concurrency, compiler verification, dependent types, language semantics, modularity
+      dblp: https://dblp.org/pid/d/DerekDreyer
     - name: Georg Zetzsche
       homepage: http://zetzsche.xyz
       scholar: https://scholar.google.com/citations?user=BHNdXKxbM-8C
@@ -514,6 +566,7 @@
       scholar: https://scholar.google.com/citations?user=yjjO5_oAAAAJ
       orcid: https://orcid.org/0000-0002-6143-1926
       research: model checking, concurrency, probabilistic programming, formal methods, language semantics
+      dblp: https://dblp.org/pid/k/JoostPieterKatoen
   - name: Saarland University
     professors:
     - name: Benjamin Lucien Kaminski
@@ -521,12 +574,14 @@
       scholar: https://scholar.google.com/citations?user=KEt1bfkAAAAJ
       orcid: https://orcid.org/0000-0001-5185-2324
       research: formal methods, program verification, program analysis, static analysis, concurrency, probabilistic programming
+      dblp: https://dblp.org/pid/39/9937
     - name: Sebastian Hack
       homepage: http://compilers.cs.uni-saarland.de/people/hack
       scholar: https://scholar.google.com/citations?user=XxQ_bsQAAAAJ
       orcid: https://orcid.org/0000-0002-3387-2134
       image: /assets/img/profiles/sebastian-hack.jpg
       research: program analysis, program synthesis, compilers, domain specific languages
+      dblp: https://dblp.org/pid/96/92
   - name: TU Braunschweig
     professors:
     - name: Roland Meyer
@@ -534,6 +589,7 @@
       scholar: https://scholar.google.com/citations?user=zRo3ZJ4AAAAJ
       orcid: https://orcid.org/0000-0001-8495-671X
       research: formal verification, automata theory, concurrency, memory models, game theory, language semantics
+      dblp: https://dblp.org/pid/86/3051
   - name: PG @ TU Darmstadt
     url: https://programming-group.com/
     professors:
@@ -543,6 +599,7 @@
       orcid: https://orcid.org/0000-0002-9324-8894
       research: distributed systems, reactive programming, security, testing, e-graphs
       taking_students: true
+      dblp: https://dblp.org/pid/14/7915
   - name: TU Kaiserslautern
     professors:
     - name: Anthony Widjaja Lin
@@ -550,6 +607,7 @@
       scholar: https://scholar.google.com/citations?user=__5nnYUAAAAJ
       orcid: https://orcid.org/0000-0003-4715-5096
       research: formal methods, automated reasoning, program synthesis
+      dblp: https://dblp.org/pid/38/2655
   - name: University of Freiburg
     professors:
     - name: Andreas Podelski
@@ -558,11 +616,13 @@
       orcid: https://orcid.org/0000-0003-2540-9489
       image: /assets/img/profiles/andreas-podelski.jpg
       research: program verification, model checking, program analysis
+      dblp: https://dblp.org/pid/p/APodelski
     - name: Peter Thiemann
       homepage: http://www2.informatik.uni-freiburg.de/~thiemann
       scholar: https://scholar.google.com/citations?user=yJST1UAAAAAJ
       orcid: https://orcid.org/0000-0002-9000-1239
       research: functional programming, type systems, type classes, session types, web programming, program generation, static analysis, language-based security
+      dblp: https://dblp.org/pid/t/PeterThiemann
   - name: University of Tübingen
     professors:
     - name: Jonathan Immanuel Brachthäuser
@@ -570,11 +630,13 @@
       scholar: https://scholar.google.com/citations?user=fv_M9OoAAAAJ
       orcid: https://orcid.org/0000-0001-9128-0391
       research: algebraic effects, effect handlers, effect systems, continuations, type systems
+      dblp: https://dblp.org/pid/152/5816
     - name: Klaus Ostermann
       homepage: https://ps.cs.uni-tuebingen.de/team/ostermann
       scholar: https://scholar.google.com/citations?user=doJ07f8oUtQC
       orcid: https://orcid.org/0000-0001-5294-5506
       research: functional programming, type systems, program analysis, object-oriented programming, program transformation
+      dblp: https://dblp.org/pid/51/3203
 - name: Greece
   universities:
   - name: University of Athens
@@ -585,12 +647,14 @@
       scholar: https://scholar.google.com/citations?user=ryow8hIAAAAJ
       orcid: https://orcid.org/0000-0002-5061-9018
       research: software engineering, security, program analysis
+      dblp: https://dblp.org/pid/29/8061
     - name: Yannis Smaragdakis
       homepage: https://yanniss.github.io
       scholar: https://scholar.google.com/citations?user=XCJuXcgAAAAJ
       orcid: https://orcid.org/0000-0002-0499-0182
       research: type systems, program analysis, static analysis, compilers, memory management, domain specific languages,
         object-oriented programming, parallel programming, concurrency, distributed systems, formal methods
+      dblp: https://dblp.org/pid/s/YSmaragdakis
 - name: Hong Kong
   universities:
   - name: TACO @ HKUST
@@ -604,6 +668,7 @@
       orcid: https://orcid.org/0000-0002-8805-0728
       research: type systems, compilers, functional programming, domain specific languages
       taking_students: false
+      dblp: https://dblp.org/pid/181/5785
   - name: PL Group @ University of Hong Kong
     url: https://hkuplg.github.io/
     deadline: December 1st
@@ -615,6 +680,7 @@
       orcid: https://orcid.org/0000-0002-1846-7210
       image: /assets/img/profiles/bruno-oliveira.jpg
       research: type systems, functional programming, object-oriented programming
+      dblp: https://dblp.org/pid/20/7796
 - name: Japan
   universities:
   - name: National Inst. of Informatics
@@ -624,6 +690,7 @@
       scholar: https://scholar.google.com/citations?user=zkiGvKQAAAAJ
       orcid: https://orcid.org/0000-0001-9286-230X
       research: type theory, type systems, program verification
+      dblp: https://dblp.org/pid/155/8127
   - name: University of Tokyo
     deadline_url: https://www.i.u-tokyo.ac.jp/edu/course/cs/admission_e.shtml
     professors:
@@ -632,6 +699,7 @@
       scholar: https://scholar.google.com/citations?user=bhZQ7FEAAAAJ
       orcid: https://orcid.org/0000-0002-0537-0604
       research: higher-order model checking, program verification, type systems, automated reasoning, security protocols, resource usage analysis
+      dblp: https://dblp.org/pid/81/9613
   - name: University of Tsukuba
     professors:
     - name: Hiroshi Unno
@@ -639,6 +707,7 @@
       scholar: https://scholar.google.com/citations?user=H73eAAsAAAAJ
       orcid: https://orcid.org/0000-0002-4225-8195
       research: refinement types, program verification, higher-order model checking, automated reasoning, temporal verification, termination analysis
+      dblp: https://dblp.org/pid/24/6058
 - name: Netherlands
   universities:
   - name: Radboud University
@@ -648,6 +717,7 @@
       scholar: https://scholar.google.com/citations?user=8JmcliwAAAAJ
       orcid: https://orcid.org/0000-0002-1185-5237
       research: program verification, separation logic, static analysis, language semantics
+      dblp: https://dblp.org/pid/96/8576
   - name: PL Group @ TU Delft
     url: https://pl.ewi.tudelft.nl/
     professors:
@@ -656,22 +726,26 @@
       scholar: https://scholar.google.com/citations?user=hdr4g6UAAAAJ
       orcid: https://orcid.org/0000-0002-6786-4538
       research: type theory, functional programming, language semantics, homotopy type theory, univalent foundations, category theory
+      dblp: https://dblp.org/pid/12/8910
     - name: Casper Bach
       homepage: http://casperbp.net
       scholar: https://scholar.google.com/citations?user=cK5ddQ4AAAAJ
       orcid: https://orcid.org/0000-0003-0622-7639
       research: domain-specific languages, language design, metaprogramming, algebraic effects, language semantics
+      dblp: https://dblp.org/pid/143/2646
     - name: Jesper Cockx
       homepage: https://jesper.sikanda.be
       scholar: https://scholar.google.com/citations?user=RIE9Ge8AAAAJ
       orcid: https://orcid.org/0000-0003-3862-4073
       image: /assets/img/profiles/jesper-cockx.jpg
       research: dependent types, type theory, Agda, proof assistants
+      dblp: https://dblp.org/pid/143/2636
     - name: Soham Chakraborty
       homepage: https://www.st.ewi.tudelft.nl/sschakraborty
       scholar: https://scholar.google.com/citations?user=CJgbWuwAAAAJ
       orcid: https://orcid.org/0000-0002-4454-2050
       research: formal methods, program analysis, compilers, memory management, concurrency
+      dblp: https://dblp.org/pid/89/6242
   - name: Utrecht University
     professors:
     - name: Wouter Swierstra
@@ -679,6 +753,7 @@
       scholar: https://scholar.google.com/citations?user=ZrrljKAAAAAJ
       orcid: https://orcid.org/0000-0002-0295-7944
       research: dependent types, functional programming
+      dblp: https://dblp.org/pid/96/3469
   - name: VU Amsterdam
     professors:
     - name: Klaus von Gleissenthall
@@ -686,6 +761,7 @@
       scholar: https://scholar.google.com/citations?user=Lc4IbnsAAAAJ
       orcid: https://orcid.org/0000-0003-0826-4425
       research: refinement types, formal methods, distributed systems
+      dblp: https://dblp.org/pid/86/10265
 - name: Poland
   universities:
   - name: University of Wroclaw
@@ -697,6 +773,7 @@
       orcid: https://orcid.org/0000-0002-1477-4635
       image: /assets/img/profiles/dariusz-biernacki.jpg
       research: functional programming, language semantics, abstract machines, continuations, control effects, Curry-Howard isomorphism, program equivalence
+      dblp: https://dblp.org/pid/03/6365
     - name: Maciej Piróg
       homepage: https://maciejpirog.github.io/
       scholar: https://scholar.google.com/citations?user=xxwcLlAAAAAJ
@@ -810,6 +887,7 @@
       orcid: https://orcid.org/0000-0001-8320-8509
       image: /assets/img/profiles/minseok-jeon.jpg
       research: program analysis, program synthesis, domain specific languages, functional programming, object-oriented programming
+      dblp: https://dblp.org/pid/207/6557
     - name: Yoonseung Kim
       homepage: https://dgist-vesl.github.io/people/yoonseung.kim
       scholar: https://scholar.google.com/citations?user=RRcTF10AAAAJ
@@ -824,6 +902,7 @@
       scholar: https://scholar.google.com/citations?user=HcY3y0YAAAAJ
       orcid: https://orcid.org/0000-0002-1884-619X
       research: program synthesis, program analysis, program repair, software engineering, compilers, security
+      dblp: https://dblp.org/pid/57/2881
   - name: KAIST
     professors:
     - name: Hongseok Yang
@@ -845,6 +924,7 @@
       scholar: https://scholar.google.com/citations?user=3dX_cckAAAAJ
       orcid: https://orcid.org/0000-0002-1900-7654
       research: static analysis, program verification, software testing, fuzzing, program repair, program synthesis, quantum programming
+      dblp: https://dblp.org/pid/13/7537
   - name: POSTECH
     professors:
     - name: Wonyeol Lee
@@ -853,6 +933,7 @@
       orcid: https://orcid.org/0000-0003-0301-0872
       research: language design, program verification, probabilistic programming
       taking_students: true
+      dblp: https://dblp.org/pid/124/7158
   - name: Seoul National University
     professors:
     - name: Chung-Kil Hur
@@ -862,12 +943,14 @@
       image: /assets/img/profiles/chung-kil-hur.jpg
       research: type theory, automated reasoning, interactive theorem provers, concurrency, program verification, probabilistic
         programming
+      dblp: https://dblp.org/pid/75/3287
     - name: Kwangkeun Yi
       homepage: https://ropas.snu.ac.kr/~kwang/
       scholar: https://scholar.google.com/citations?user=VddKJ_wAAAAJ
       orcid: https://orcid.org/0009-0007-5027-2177
       image: /assets/img/profiles/kwangkuen-yi.jpg
       research: static program analysis, software verification, program analysis
+      dblp: https://dblp.org/pid/y/KwangkeunYi
   - name: State University of New York, Korea
     professors:
     - name: Zhoulai Fu
@@ -876,6 +959,7 @@
       orcid: https://orcid.org/0000-0003-2073-0564
       research: security, program analysis, testing, program verification, machine-learning, abstract interpretation, scientific computing
       taking_students: true
+      dblp: https://dblp.org/pid/139/5447
 - name: Spain
   universities:
   - name: IMDEA Software Institute
@@ -888,11 +972,13 @@
       orcid: https://orcid.org/0000-0002-4851-1075
       image: /assets/img/profiles/aleksandar-nanevski.jpg
       research: type theory, interactive theorem provers, dependent types, compilers
+      dblp: https://dblp.org/pid/70/3373
     - name: Niki Vazou
       homepage: https://nikivazou.github.io
       scholar: https://scholar.google.com/citations?user=ARcLTokAAAAJ
       orcid: https://orcid.org/0000-0003-0732-5476
       research: type systems, refinement types, program verification, automated reasoning
+      dblp: https://dblp.org/pid/05/10429
 - name: Sweden
   universities:
   - name: Chalmers/GU
@@ -902,16 +988,19 @@
       scholar: https://scholar.google.com/citations?user=diMIMosAAAAJ
       orcid: https://orcid.org/0000-0003-0420-4492
       research: program verification, dependent types, type theory, functional programming, type systems, modal types, automated reasoning
+      dblp: https://dblp.org/pid/99/2595-3
     - name: Magnus O. Myreen
       homepage: https://www.cse.chalmers.se/~myreen
       scholar: https://scholar.google.com/citations?user=XfqNgKwAAAAJ
       orcid: https://orcid.org/0000-0002-9504-4107
       research: program verification, interactive theorem provers
+      dblp: https://dblp.org/pid/92/2955
     - name: Nils Anders Danielsson
       homepage: https://www.cse.chalmers.se/~nad
       scholar: https://scholar.google.com/citations?user=YMU90ywAAAAJ
       orcid: https://orcid.org/0000-0001-8688-0333
       research: dependent types, functional programming, proof assistants, interactive theorem provers, type theory, type systems, modal types, Agda
+      dblp: https://dblp.org/pid/82/6336
   - name: Uppsala University
     professors:
     - name: Bengt Jonsson
@@ -920,12 +1009,14 @@
       orcid: https://orcid.org/0000-0001-7897-601X
       image: /assets/img/profiles/bengt-jonsson.jpg
       research: formal methods, distributed systems, language semantics, program verification, concurrency, security
+      dblp: https://dblp.org/pid/j/BengtJonsson
     - name: Tobias Wrigstad
       homepage: http://wrigstad.com
       scholar: https://scholar.google.com/citations?user=EfO5KRQAAAAJ
       orcid: https://orcid.org/0000-0002-4269-5408
       research: memory management, type systems, security, data-race freedom, concurrency, garbage collection, verified compilation, nominal typing
       taking_students: true
+      dblp: https://dblp.org/pid/78/4351
 - name: Switzerland
   universities:
   - name: EPFL
@@ -937,41 +1028,48 @@
       scholar: https://scholar.google.com/citations?user=kMj6fBwAAAAJ
       orcid: https://orcid.org/0000-0002-1900-3901
       research: compilers, formal methods
+      dblp: https://dblp.org/pid/155/8144
     - name: Martin Odersky
       homepage: http://lampwww.epfl.ch/~odersky
       scholar: https://scholar.google.com/citations?user=LbRD9tEAAAAJ
       orcid: https://orcid.org/0009-0005-3923-8993
       research: language design, language implementation, Scala
+      dblp: https://dblp.org/pid/o/MartinOdersky
     - name: Nate Foster
       homepage: https://natefoster.org
       scholar: https://scholar.google.com/citations?user=AH5j40kAAAAJ
       orcid: https://orcid.org/0000-0002-6557-684X
       research: proof assistants, type systems, networking
+      dblp: https://dblp.org/pid/15/3253
     - name: Viktor Kuncak
       homepage: http://lara.epfl.ch/~kuncak
       scholar: https://scholar.google.com/citations?user=kmoklesAAAAJ
       orcid: https://orcid.org/0000-0001-7044-9522
       research: automated reasoning, program verification, formal methods, program synthesis, proof assistants, parsing
+      dblp: https://dblp.org/pid/k/ViktorKuncak
   - name: ETH Zurich
     deadline: Rolling (position-based)
     deadline_url: https://inf.ethz.ch/doctorate.html
     professors:
     - name: Peter Müller
       homepage: https://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html
-      scholar: https://scholar.google.com/citations?user=iJ0qZckAAAAJ
+      scholar: https://scholar.google.com/citations?user=ttxZRHEAAAAJ
       orcid: https://orcid.org/0000-0001-7001-2566
       image: /assets/img/profiles/peter-muller.jpg
       research: automated reasoning, Viper
+      dblp: https://dblp.org/pid/m/PMuller1
     - name: Ralf Jung
       homepage: https://research.ralfj.de
       scholar: https://scholar.google.com/citations?user=zddokfoAAAAJ
       orcid: https://orcid.org/0000-0001-7669-6348
       research: formal methods, Rust
+      dblp: https://dblp.org/pid/54/4483-2
     - name: Zhendong Su
       homepage: https://people.inf.ethz.ch/suz
       scholar: https://scholar.google.com/citations?user=RivxoIcAAAAJ
       orcid: https://orcid.org/0000-0002-2970-1391
       research: compilers, security, education
+      dblp: https://dblp.org/pid/s/ZhendongSu
   - name: Università della Svizzera italiana
     deadline:
     - 'Fall: May 1st'
@@ -983,6 +1081,7 @@
       scholar: https://scholar.google.com/citations?user=g0nBOnMAAAAJ
       orcid: https://orcid.org/0000-0002-2477-2182
       research: program analysis, concurrency, parallel programming, language implementation
+      dblp: https://dblp.org/pid/05/3695
 - name: United Kingdom
   universities:
   - name: Heriot-Watt University
@@ -993,53 +1092,63 @@
       orcid: https://orcid.org/0009-0004-3530-9996
       image: /assets/img/profiles/andrew-ireland.jpg
       research: automated reasoning, theorem proving, program verification, software safety, static analysis
+      dblp: https://dblp.org/pid/54/4624
     - name: Ekaterina Komendantskaya
       homepage: https://www.macs.hw.ac.uk/~ek19/
       scholar: https://scholar.google.com/citations?user=-HbSa84AAAAJ
       orcid: https://orcid.org/0000-0002-3240-0987
       research: logic, AI safety, AI verification, formal methods, security
+      dblp: https://dblp.org/pid/62/4310
     - name: Filip Sieczkowski
       homepage: https://fsieczkowski.github.io/
       scholar: https://scholar.google.com/citations?user=aNLxzEkAAAAJ
       orcid: https://orcid.org/0000-0001-5011-3458
       research: separation logic, language semantics, concurrency, effect handlers
       image: /assets/img/profiles/filip-sieczkowski.jpg
+      dblp: https://dblp.org/pid/39/9960
     - name: Hans-Wolfgang Loidl
       homepage: https://www.macs.hw.ac.uk/~hwloidl/
       scholar: https://scholar.google.com/citations?user=lwb1Va0AAAAJ
       orcid: https://orcid.org/0000-0001-6318-1732
       image: /assets/img/profiles/hans-wolfgang-loidl.jpg
       research: parallel programming, functional programming, language implementation, symbolic computation
+      dblp: https://dblp.org/pid/l/HWLoidl
     - name: Jamie Gabbay
       homepage: https://gabbay.org.uk/
       scholar: https://scholar.google.com/citations?user=2B9QID8AAAAJ
       orcid: https://orcid.org/0000-0001-5796-3455
       image: /assets/img/profiles/jamie-gabbay.jpg
       research: nominal techniques, foundations of computer science, logic, set theory, abstraction
+      dblp: https://dblp.org/pid/430/5077
     - name: James McKinna
       homepage: https://researchportal.hw.ac.uk/en/persons/james-mckinna
       scholar: https://scholar.google.com/citations?user=_CjMNVsAAAAJ
       orcid: https://orcid.org/0000-0001-6745-2560
       image: /assets/img/profiles/james-mckinna.jpg
       research: dependent types, type theory, proof assistants, bidirectional transformations, lambda calculus, Agda
+      dblp: https://dblp.org/pid/31/3265
     - name: Joe Wells
       homepage: https://www.macs.hw.ac.uk/~jbw/
       image: /assets/img/profiles/joe-wells.jpg
       research: type systems, rewriting, language design, language implementation, security
+      dblp: https://dblp.org/pid/93/1478
     - name: Jurriaan Hage
       homepage: https://www.macs.hw.ac.uk/~jh2054/index.html
       scholar: https://scholar.google.nl/citations?user=CIVjbcwAAAAJ
       orcid: https://orcid.org/0000-0002-3580-6069
       image: /assets/img/profiles/jurriaan-hage.jpg
       research: static analysis, type error diagnosis, functional programming, software analysis, testing
+      dblp: https://dblp.org/pid/89/5263
     - name: Kathrin Stark
       homepage: https://www.k-stark.de/
       scholar: https://scholar.google.com/citations?user=Dbs670sAAAAJ
       orcid: https://orcid.org/0000-0002-7086-6518
       image: /assets/img/profiles/kathrin-stark.jpg
       research: proof assistants, interactive theorem proving, mechanized proofs, formal verification
+      dblp: https://dblp.org/pid/183/9184
     - name: Lilia Georgieva
       homepage: https://www.macs.hw.ac.uk/~lilia/
+      dblp: https://dblp.org/pid/66/5409
       image: /assets/img/profiles/lilia-georgieva.jpg
       research: formal methods, program analysis, security, knowledge representation
     - name: Marko Doko
@@ -1047,6 +1156,7 @@
       orcid: https://orcid.org/0000-0001-6573-8346
       image: /assets/img/profiles/marko-doko.jpg
       research: foundations of mathematics, interactive theorem proving, program verification, formal methods, weak memory concurrency
+      dblp: https://dblp.org/pid/173/6746
     - name: Radu Mardare
       homepage: https://www.macs.hw.ac.uk/~rm4023/
       scholar: https://scholar.google.com/citations?user=8Ksxvc0AAAAJ
@@ -1054,12 +1164,14 @@
       research: logics for algebras and co-algebras, quantitative algebraic reasoning, approximation theories for systems,
         reasoning about probabilistic and stochastic systems, behavioural metrics
       image: /assets/img/profiles/radu-mardare.jpg
+      dblp: https://dblp.org/pid/52/5744
     - name: Rob Stewart
       homepage: https://www.macs.hw.ac.uk/~rs46/
       scholar: https://scholar.google.com/citations?user=ArZWHf4AAAAJ
       orcid: https://orcid.org/0000-0003-0365-693X
       image: /assets/img/profiles/rob-stewart.jpg
       research: domain-specific languages, parallel programming, dataflow programming, FPGA languages, compiler verification
+      dblp: https://dblp.org/pid/13/10106
   - name: Imperial College London
     deadline:
     - October 15th
@@ -1073,31 +1185,37 @@
       scholar: https://scholar.google.com/citations?user=ZIUuqNwAAAAJ
       orcid: https://orcid.org/0000-0002-7448-7961
       research: formal methods, testing, parallel programming, compilers, concurrency, software verification, GPU programming, HPC
+      dblp: https://dblp.org/pid/11/5933
     - name: Azalea Raad
       homepage: http://www.soundandcomplete.org
       scholar: https://scholar.google.com/citations?user=uiSg96QAAAAJ
       orcid: https://orcid.org/0000-0002-2319-3242
       research: concurrency, language semantics, static analysis, weak memory models, program logic, formal methods
+      dblp: https://dblp.org/pid/84/9528
     - name: Nicolas Wu
       homepage: https://www.imperial.ac.uk/people/n.wu
       scholar: https://scholar.google.com/citations?user=0E8zPucAAAAJ
       orcid: https://orcid.org/0000-0002-4161-985X
       research: language semantics, domain specific languages, effect handlers
+      dblp: https://dblp.org/pid/23/7856
     - name: Nobuko Yoshida
       homepage: https://www.doc.ic.ac.uk/~yoshida
       scholar: https://scholar.google.com/citations?user=4T-p76AAAAAJ
       orcid: https://orcid.org/0000-0002-3925-8557
       research: type systems, type theory, session types, language semantics, information flow analysis, distributed systems, Hoare logic, concurrency
+      dblp: https://dblp.org/pid/29/3650
     - name: Philippa Gardner
       homepage: https://www.doc.ic.ac.uk/~pg
       scholar: https://scholar.google.com/citations?user=LDe0mUwAAAAJ
       orcid: https://orcid.org/0000-0002-4187-0585
       research: program verification, formal methods
+      dblp: https://dblp.org/pid/g/PhilippaGardner
     - name: Sophia Drossopoulou
       homepage: https://wp.doc.ic.ac.uk/sd
       scholar: https://scholar.google.com/citations?user=5g4VizIAAAAJ
       orcid: https://orcid.org/0000-0002-1993-1142
       research: concurrency, automated reasoning, program verification
+      dblp: https://dblp.org/pid/d/SophiaDrossopoulou
   - name: King's College London
     professors:
     - name: Stephen Kell
@@ -1106,6 +1224,7 @@
       orcid: https://orcid.org/0000-0002-2702-5983
       image: /assets/img/profiles/stephen-kell.jpg
       research: language implementation, compilers, language design
+      dblp: https://dblp.org/pid/04/480
   - name: Queen Mary University of London
     professors:
     - name: Raymond Hu
@@ -1113,11 +1232,13 @@
       scholar: https://scholar.google.com/citations?user=b08Zz1kAAAAJ
       orcid: https://orcid.org/0000-0003-4361-6772
       research: distributed systems, type systems, session types, generics, refinement types, software verification
+      dblp: https://dblp.org/pid/32/3214
     - name: Vasileios Klimis
       homepage: https://vasileiosklimis.github.io/portfolio/
       scholar: https://scholar.google.com/citations?user=CfeRGyEAAAAJ
       orcid: https://orcid.org/0000-0002-3173-8636
       research: model checking, compilers, quantum computing
+      dblp: https://dblp.org/pid/263/6824
   - name: Royal Holloway Univ. of London
     professors:
     - name: Francisco Ferreira
@@ -1126,6 +1247,7 @@
       orcid: https://orcid.org/0000-0001-8494-7696
       image: /assets/img/profiles/francisco-ferreira.jpg
       research: type systems, formal methods, concurrency, modal types
+      dblp: https://dblp.org/pid/99/5922-1
     - name: Julien Lange
       homepage: https://pure.royalholloway.ac.uk/en/persons/julien-lange/
       scholar: https://scholar.google.com/citations?user=mpXU9XQAAAAJ
@@ -1153,7 +1275,7 @@
       homepage: https://sergey-goncharov.org
       scholar: https://scholar.google.com/citations?user=O6as6pAAAAAJ
       orcid: https://orcid.org/0000-0001-6924-8766
-      dblp: https://dblp.org/pid/g/SergeyGoncharov2
+      dblp: https://dblp.org/pid/g/SergeyGoncharov1
       research: algebraic effects, program verification, language semantics, category theory
   - name: University of Bristol
     professors:
@@ -1163,6 +1285,7 @@
       orcid: https://orcid.org/0000-0003-1762-5405
       image: /assets/img/profiles/eddie-jones.jpg
       research: formal methods, functional programming, logic programming, formal verification
+      dblp: https://dblp.org/pid/188/6104
     - name: G. A. Kavvos
       homepage: https://www.lambdabetaeta.eu
       scholar: https://scholar.google.com/citations?user=yWerYFkAAAAJ
@@ -1175,9 +1298,10 @@
       orcid: https://orcid.org/0000-0001-7780-630X
       research: functional programming, bidirectional programming, software engineering, testing
       taking_students: true
+      dblp: https://dblp.org/pid/93/6765-2
     - name: Steven Ramsay
       homepage: https://sjrsay.github.io
-      scholar: https://scholar.google.com/citations?user=mxxKCzcAAAAJ
+      scholar: https://scholar.google.com/citations?user=68os7K8AAAAJ
       orcid: https://orcid.org/0000-0002-0825-8386
       dblp: https://dblp.org/pid/16/9032
       image: /assets/img/profiles/steven-ramsay.jpg
@@ -1247,80 +1371,95 @@
       scholar: https://scholar.google.com/citations?user=K_LnaH0AAAAJ
       orcid: https://orcid.org/0000-0001-7393-2640
       research: quantum programming languages, categorical semantics
+      dblp: https://dblp.org/pid/43/5666
     - name: David Aspinall
       homepage: https://homepages.inf.ed.ac.uk/da/
       scholar: https://scholar.google.com/citations?user=_pT1xEwAAAAJ
       orcid: https://orcid.org/0000-0002-6073-9013
       research: software security and privacy, theorem proving, specification and verification
+      dblp: https://dblp.org/pid/19/6243
     - name: Elizabeth Polgreen
       homepage: https://polgreen.github.io/
       scholar: https://scholar.google.com/citations?user=wFYhUkIAAAAJ
       orcid: https://orcid.org/0000-0001-9032-7661
       research: program synthesis, software verification
+      dblp: https://dblp.org/pid/183/7353
     - name: Ian Stark
       homepage: https://homepages.inf.ed.ac.uk/stark/
       scholar: https://scholar.google.com/citations?user=_WljoL8AAAAJ
       orcid: https://orcid.org/0000-0001-6800-812X
       research: programming language models, concurrency
+      dblp: https://dblp.org/pid/08/3395
     - name: Jacques Fleuriot
       homepage: https://homepages.inf.ed.ac.uk/jdf/
       orcid: https://orcid.org/0000-0002-6867-9836
       research: formal verification, interactive theorem proving
       image: /assets/img/profiles/jacques-fleuriot.jpg
+      dblp: https://dblp.org/pid/18/4206
     - name: James Cheney
       homepage: http://homepages.inf.ed.ac.uk/jcheney
       scholar: https://scholar.google.com/citations?user=G-1f1G4AAAAJ
       orcid: https://orcid.org/0000-0002-1307-9286
       research: databases, logic, verification, provenance, scientific-data management, security
+      dblp: https://dblp.org/pid/96/3253
     - name: Markulf Kohlweiss
       homepage: https://homepages.inf.ed.ac.uk/mkohlwei/
       scholar: https://scholar.google.com/citations?user=pOfF9ygAAAAJ
       orcid: https://orcid.org/0000-0002-8660-9663
       research: formal verification of cryptographic-protocol designs and implementations
+      dblp: https://dblp.org/pid/12/2177
     - name: Mike O'Boyle
       homepage: https://www.dcs.ed.ac.uk/home/mob/
       scholar: https://scholar.google.ca/citations?user=T-JW3vwAAAAJ
       orcid: https://orcid.org/0000-0003-1619-5052
       research: compilers, machine-learning-based compilation, heterogeneous systems, design space exploration
       image: /assets/img/profiles/mike-o-boyle.jpg
+      dblp: https://dblp.org/pid/07/521
     - name: Myrto Arapinis
       homepage: https://homepages.inf.ed.ac.uk/marapini/
       scholar: https://scholar.google.com/citations?user=1GaX8xQAAAAJ
       orcid: https://orcid.org/0009-0007-1757-1423
       research: provable security, verification of cryptographic protocols, formal models, applied cryptography, quantum cryptography, electronic voting
       image: /assets/img/profiles/myrto-arapinis.jpg
+      dblp: https://dblp.org/pid/04/3223
     - name: Ohad Kammar
       homepage: https://denotational.co.uk
       scholar: https://scholar.google.com/citations?user=-BLwCMkAAAAJ
       orcid: https://orcid.org/0000-0002-2071-0929
       research: programming-language theory, probabilistic programming, metaprogramming, category theory, logic in computer science
       image: /assets/img/profiles/ohad-kammar.jpg
+      dblp: https://dblp.org/pid/21/10020
     - name: Paul Jackson
       homepage: http://homepages.inf.ed.ac.uk/pbj
-      scholar: https://scholar.google.com/citations?user=WUuHiYQAAAAJ
+      scholar: https://scholar.google.com/citations?user=ScwCJTUAAAAJ
       orcid: https://orcid.org/0000-0003-3863-8336
       research: formal verification of hardware, software and cyber-physical systems, interactive theorem proving
+      dblp: https://dblp.org/pid/38/2391
     - name: Perdita Stevens
       homepage: https://perditastevens.com/homepage/
       scholar: https://scholar.google.com/citations?user=KdBhbbYAAAAJ
       orcid: https://orcid.org/0000-0002-3975-7612
       research: software engineering, model-driven engineering
+      dblp: https://dblp.org/pid/s/PerditaStevens
     - name: Peter Buneman
       homepage: http://homepages.inf.ed.ac.uk/opb
       scholar: https://scholar.google.com/citations?user=d9bq04sAAAAJ
       orcid: https://orcid.org/0009-0004-9056-8587
       research: query languages, semi-structured data, data provenance
       image: /assets/img/profiles/peter-buneman.jpg
+      dblp: https://dblp.org/pid/b/PeterBuneman
     - name: Rob van Glabbeek
       homepage: https://theory.stanford.edu/~rvg/
       scholar: https://scholar.google.com/citations?user=Ngf21nIAAAAJ
       orcid: https://orcid.org/0000-0003-4712-7423
       research: foundations of concurrency and distribution
+      dblp: https://dblp.org/pid/g/RobJvanGlabbeek
     - name: Sam Lindley
       homepage: https://homepages.inf.ed.ac.uk/slindley
       scholar: https://scholar.google.com/citations?user=0cB7Ky4AAAAJ
       orcid: https://orcid.org/0000-0002-1360-4714
       research: functional programming, effect handlers, behavioural types, metaprogramming, type inference
+      dblp: https://dblp.org/pid/97/4946
   - name: University of Glasgow
     professors:
     - name: Blair Archibald
@@ -1328,16 +1467,19 @@
       scholar: https://scholar.google.com/citations?user=8i6CAKEAAAAJ
       orcid: https://orcid.org/0000-0003-3699-6658
       research: modelling concurrent systems, parallel functional programming
+      dblp: https://dblp.org/pid/198/0568
     - name: Colin Perkins
       homepage: https://csperkins.org
       scholar: https://scholar.google.com/citations?user=0GDoTyMAAAAJ
       orcid: https://orcid.org/0000-0002-3404-8964
       research: protocol specifications and standards
+      dblp: https://dblp.org/pid/87/3859
     - name: Gerardo Aragon Camarasa
       homepage: https://www.gla.ac.uk/schools/computing/staff/gerardoaragoncamarasa/
       scholar: https://scholar.google.com/citations?user=mbSbOegAAAAJ
       orcid: https://orcid.org/0000-0003-3756-5569
       research: programming languages for robotics
+      dblp: https://dblp.org/pid/69/8016
     - name: "H. Gül Çalikli"
       homepage: https://gulcalikli.github.io/
       scholar: https://scholar.google.com/citations?user=lShgfvwAAAAJ
@@ -1345,56 +1487,66 @@
       research: empirical software engineering, cognitive psychology, machine learning, software quality
       taking_students: true
       image: /assets/img/profiles/gul-calikli.png
+      dblp: https://dblp.org/pid/11/7657
     - name: Jeremy Singer
       homepage: https://www.dcs.gla.ac.uk/~jsinger/
       scholar: https://scholar.google.com/citations?user=UTdRqF8AAAAJ
       orcid: https://orcid.org/0000-0001-9462-6802
       research: managed runtime systems
       image: /assets/img/profiles/jeremy-singer.jpg
+      dblp: https://dblp.org/pid/82/2176
     - name: "José Cano Reyes"
       homepage: https://www.dcs.gla.ac.uk/~josecr/
       scholar: https://scholar.google.ca/citations?user=3Dne4xEAAAAJ
       orcid: https://orcid.org/0000-0002-2243-389X
       research: hardware-software co-design, edge computing
       image: /assets/img/profiles/jose-cano-reyes.png
+      dblp: https://dblp.org/pid/74/5888
     - name: Michele Sevegnani
       homepage: https://www.gla.ac.uk/schools/computing/staff/michelesevegnani/
       scholar: https://scholar.google.com/citations?user=ycI17poAAAAJ
       orcid: https://orcid.org/0000-0001-6773-9481
       research: concurrent modelling languages
       image: /assets/img/profiles/michele-sevegnani.png
+      dblp: https://dblp.org/pid/116/5374
     - name: Ornela Dardha
       homepage: https://www.dcs.gla.ac.uk/~ornela/index.html
       scholar: https://scholar.google.com/citations?user=nXneHtMAAAAJ
       orcid: https://orcid.org/0000-0001-9927-7875
       research: behavioural types, mechanised programming language theory
+      dblp: https://dblp.org/pid/121/1410
     - name: Paul Harvey
       homepage: http://paul-harvey.org
       scholar: https://scholar.google.com/citations?user=0w6uYlMAAAAJ
       orcid: https://orcid.org/0000-0003-1243-938X
       research: runtime systems, adaptability, autonomous networks
+      dblp: https://dblp.org/pid/77/6861-2
     - name: Quintin Cutts
       homepage: https://www.dcs.gla.ac.uk/~quintin/
       scholar: https://scholar.google.com/citations?user=I9U41jQAAAAJ
       orcid: https://orcid.org/0000-0002-6368-9912
       research: programming language education
       image: /assets/img/profiles/quintin-cutts.jpg
+      dblp: https://dblp.org/pid/c/QICutts
     - name: Simon Fowler
       homepage: https://simonjf.com/about/
       scholar: https://scholar.google.com/citations?user=34hm_7UAAAAJ
       orcid: https://orcid.org/0000-0001-5143-5475
       research: functional programming, concurrent programming, behavioural types, multi-tier programming
+      dblp: https://dblp.org/pid/08/1840-1
     - name: Simon J. Gay
       homepage: https://www.gla.ac.uk/schools/computing/staff/simongay/
       scholar: https://scholar.google.com/citations?user=5x7ArxsAAAAJ
       orcid: https://orcid.org/0000-0003-3033-9091
       research: behavioural types, quantum programming languages
+      dblp: https://dblp.org/pid/30/4430
     - name: Wim Vanderbauwhede
       homepage: https://www.dcs.gla.ac.uk/~wim/
       scholar: https://scholar.google.com/citations?user=8k8c2f4AAAAJ
       orcid: https://orcid.org/0000-0001-6768-0037
       research: programming language approaches to security, compilation to hardware, low-carbon and sustainable computing
       image: /assets/img/profiles/wim-vanderbauwhede.jpg
+      dblp: https://dblp.org/pid/11/2815
   - name: PLAS @ University of Kent
     url: https://www.cs.kent.ac.uk/research/groups/plas/
     professors:
@@ -1405,17 +1557,20 @@
       image: /assets/img/profiles/david-castro-perez.jpg
       research: interactive theorem provers, language design, language implementation, concurrency, distributed systems, parallel programming
       taking_students: true
+      dblp: https://dblp.org/pid/259/3482
     - name: Dominic A. Orchard
       homepage: https://dorchard.github.io
       scholar: https://scholar.google.com/citations?user=vEsF_IwAAAAJ
       orcid: https://orcid.org/0000-0002-7058-7842
       research: type theory, type systems, functional programming, program verification
+      dblp: https://dblp.org/pid/12/7603
     - name: Mark Batty
       homepage: https://www.cs.kent.ac.uk/people/staff/mjb211
       scholar: https://scholar.google.com/citations?user=MnDiDMcAAAAJ
       orcid: https://orcid.org/0000-0001-7053-4364
       image: /assets/img/profiles/mark-batty.jpg
       research: compilers, concurrency, formal methods
+      dblp: https://dblp.org/pid/04/9033
   - name: FP Lab @ University of Nottingham
     url: https://www.nottingham.ac.uk/research/groups/fp-lab/index.aspx
     professors:
@@ -1423,12 +1578,14 @@
       homepage: https://people.cs.nott.ac.uk/pszgmh
       scholar: https://scholar.google.com/citations?user=6wDy-sMAAAAJ
       orcid: https://orcid.org/0000-0001-9584-5150
-      research: functional programming
+      research: functional programming, program correctness, compiler calculation, monadic parsing, program reasoning
+      dblp: https://dblp.org/pid/80/6729
     - name: Thorsten Altenkirch
       homepage: https://people.cs.nott.ac.uk/psztxa
       scholar: https://scholar.google.com/citations?user=EHksJkUAAAAJ
       orcid: https://orcid.org/0000-0002-6582-5025
       research: type theory, dependent types, functional programming, logic programming, category theory
+      dblp: https://dblp.org/pid/21/3520
   - name: University of Oxford
     deadline_url: https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science
     professors:
@@ -1437,6 +1594,7 @@
       scholar: https://scholar.google.com/citations?user=4ZGaYlIAAAAJ
       orcid: https://orcid.org/0000-0002-0141-8922
       research: probabilistic programming, quantum computing, quantum programming, category theory
+      dblp: https://dblp.org/pid/07/197
   - name: University of Sheffield
     professors:
     - name: Andrei Popescu
@@ -1444,6 +1602,7 @@
       scholar: https://scholar.google.com/citations?user=nxOkXN0AAAAJ
       orcid: https://orcid.org/0000-0001-8747-0619
       research: proof assistants, type theory, automated reasoning, language-based security
+      dblp: https://dblp.org/pid/89/2346-1
   - name: University of St Andrews
     professors:
     - name: Adam Barwell
@@ -1452,30 +1611,35 @@
       orcid: https://orcid.org/0000-0003-1236-7160
       research: concurrency, parallelism, refactoring, behavioural types
       image: /assets/img/profiles/adam-barwell.jpg
+      dblp: https://dblp.org/pid/150/2945
     - name: Christopher Brown
       homepage: https://www.st-andrews.ac.uk/computer-science/people/cmb21/
       scholar: https://scholar.google.com/citations?user=WBbFjMcAAAAJ
       orcid: https://orcid.org/0000-0001-6030-2885
       research: refactoring, energy-aware programming, parallel programming
       image: /assets/img/profiles/chris-brown.jpg
+      dblp: https://dblp.org/pid/83/5007-2
     - name: Edwin C. Brady
       homepage: https://www.type-driven.org.uk/edwinb/
       scholar: https://scholar.google.com/citations?user=v1butH8AAAAJ
       orcid: https://orcid.org/0000-0002-9734-367X
       research: dependent types, type-driven development, domain-specific languages, reasoning about effects
       image: /assets/img/profiles/edwin-brady.jpg
+      dblp: https://dblp.org/pid/232/9760
     - name: Ian Miguel
       homepage: https://www.st-andrews.ac.uk/computer-science/people/ijm
       scholar: https://scholar.google.com/citations?user=IS6YSBkAAAAJ
       orcid: https://orcid.org/0000-0002-6930-2686
       research: constraint modelling and solving
       image: /assets/img/profiles/ian-miguel.jpg
+      dblp: https://dblp.org/pid/17/2612
     - name: Olexandr Konovalov
       homepage: https://www.st-andrews.ac.uk/computer-science/people/obk1/
-      scholar: https://scholar.google.com/citations?user=EH74mBQAAAAJ
+      scholar: https://scholar.google.com/citations?user=w-Jvae8AAAAJ
       orcid: https://orcid.org/0000-0001-5299-3292
       research: programming language education, modelling
       image: /assets/img/profiles/olexandr-konovalov.jpg
+      dblp: https://dblp.org/pid/34/5510
     - name: Özgür Akgün
       homepage: https://ozgurakgun.github.io
       scholar: https://scholar.google.com/citations?user=heG7k-gAAAAJ
@@ -1509,6 +1673,7 @@
       orcid: https://orcid.org/0000-0002-7051-8169
       research: parallel and distributed programming languages, parallel symbolic computation, parallel cost models
       image: /assets/img/profiles/patrick-maier.jpg
+      dblp: https://dblp.org/pid/04/5127
   - name: MSP @ University of Strathclyde
     url: https://msp.cis.strath.ac.uk/index.html
     professors:
@@ -1517,41 +1682,48 @@
       orcid: https://orcid.org/0000-0002-0502-391X
       image: /assets/img/profiles/clemens-kupke.jpg
       research: coalgebraic modelling of systems, logical verification, model-checking, fixpoint logics, game-theoretic semantics, automata theory
+      dblp: https://dblp.org/pid/96/3156
     - name: Conor McBride
       homepage: http://strictlypositive.org/
       scholar: https://scholar.google.com/citations?user=vO7qGKwAAAAJ
       orcid: https://orcid.org/0000-0003-1487-0886
       research: dependent type theory, functional programming, effects and handlers, programming language design and metatheory, category theory
       image: /assets/img/profiles/conor-mcbride.jpg
+      dblp: https://dblp.org/pid/34/6643
     - name: Fredrik Nordvall Forsberg
       homepage: https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/
       scholar: https://scholar.google.com/citations?user=-0ALlRsAAAAJ
       orcid: https://orcid.org/0000-0001-6157-9288
       research: dependent type theory, homotopy type theory, constructive mathematics, categorical semantics of programming languages
       image: /assets/img/profiles/fredrik-nordvall-forsberg.webp
+      dblp: https://dblp.org/pid/26/8342
     - name: Guillaume Allais
       homepage: https://gallais.github.io
       scholar: https://scholar.google.com/citations?user=kUWJDssAAAAJ
       orcid: https://orcid.org/0000-0002-4091-657X
       research: type-driven programming, correct-by-construction methodology, proof automation, generic programming
+      dblp: https://dblp.org/pid/80/11441
     - name: Jan de Muijnck-Hughes
       homepage: https://tyde.systems
       scholar: https://scholar.google.com/citations?user=MoieSwcAAAAJ
       orcid: https://orcid.org/0000-0003-2185-8543
       research: applications of type systems, dependent types, and functional programming to make systems more trustworthy
       image: /assets/img/profiles/jan-de-muijnck-hughes.webp
+      dblp: https://dblp.org/pid/117/5494
     - name: Robert Atkey
       homepage: https://bentnib.org/
       scholar: https://scholar.google.com/citations?user=0bo89OQAAAAJ
       orcid: https://orcid.org/0000-0002-4414-5047
       research: formal analysis of programming languages, type theory, denotational semantics, theorem provers
       image: /assets/img/profiles/bob-atkey.jpg
+      dblp: https://dblp.org/pid/04/5591
     - name: Ross Horne
       homepage: https://www.strath.ac.uk/staff/hornerossdr
       scholar: https://scholar.google.com/citations?user=RWT1XmsAAAAJ
       orcid: https://orcid.org/0000-0003-0162-1901
       research: protocol verification, session types, proof theory, attack trees, logic on graphs
       image: /assets/img/profiles/ross-horne.jpg
+      dblp: https://dblp.org/pid/49/10043
   - name: University of the West of Scotland
     professors:
     - name: Paul Keir
@@ -1560,6 +1732,7 @@
       orcid: https://orcid.org/0000-0002-4781-9377
       research: compilers, heterogeneous systems, metaprogramming, functional programming
       image: /assets/img/profiles/paul-keir.jpg
+      dblp: https://dblp.org/pid/68/3300
 - name: United States
   universities:
   - name: Binghamton University
@@ -1572,6 +1745,7 @@
       image: /assets/img/profiles/eric-atkinson.jpg
       research: language implementation, program analysis, formal methods, language design
       taking_students: false
+      dblp: https://dblp.org/pid/126/2056
     - name: William T. Hallahan
       homepage: https://billhallahan.github.io
       scholar: https://scholar.google.com/citations?user=SIpwj1UAAAAJ
@@ -1579,12 +1753,14 @@
       image: /assets/img/profiles/william-hallahan.jpg
       research: program verification, program synthesis, program analysis, networking
       taking_students: false
+      dblp: https://dblp.org/pid/208/7435
     - name: Yu David Liu
       homepage: https://www.cs.binghamton.edu/~davidl/
       scholar: https://scholar.google.com/citations?user=_KCqeIEAAAAJ
       orcid: https://orcid.org/0000-0002-2768-3898
       image: /assets/img/profiles/yu-david-liu.jpg
       research: energy-aware software, energy-efficient software, security
+      dblp: https://dblp.org/pid/30/3456
   - name: Boston College
     deadline: January 2nd
     professors:
@@ -1602,11 +1778,13 @@
       scholar: https://scholar.google.com/citations?user=yd-uFwMAAAAJ
       orcid: https://orcid.org/0000-0003-2459-1258
       research: security, distributed systems
+      dblp: https://dblp.org/pid/161/2111
     - name: Marco Gaboardi
       homepage: http://cs-people.bu.edu/gaboardi
       scholar: https://scholar.google.com/citations?user=5b8D1MgAAAAJ
       orcid: https://orcid.org/0000-0002-5235-7066
       research: formal methods, differential privacy, refinement types, dependent types, type systems, sensitivity analysis
+      dblp: https://dblp.org/pid/84/3396
   - name: PLT @ Brown University
     url: https://cs.brown.edu/research/plt/
     deadline: December 15th
@@ -1617,6 +1795,7 @@
       orcid: https://orcid.org/0000-0001-8639-6541
       research: HCI, Rust
       taking_students: true
+      dblp: https://dblp.org/pid/220/4220
   - name: POP @ Carnegie Mellon University
     url: http://www.cs.cmu.edu/Groups/pop/
     deadline_url: https://www.csd.cs.cmu.edu/academics/doctoral/admissions
@@ -1626,43 +1805,51 @@
       scholar: https://scholar.google.com/citations?user=1aou7GkAAAAJ
       orcid: https://orcid.org/0000-0002-0505-795X
       research: probabilistic programming
+      dblp: https://dblp.org/pid/185/1122
     - name: Frank Pfenning
       homepage: http://www.cs.cmu.edu/~fp
       scholar: https://scholar.google.com/citations?user=ghWKWBUAAAAJ
       orcid: https://orcid.org/0000-0002-8279-5817
       research: type theory, type systems
+      dblp: https://dblp.org/pid/p/FPfenning
     - name: Heather Miller
       homepage: http://heather.miller.am
       scholar: https://scholar.google.com/citations?user=dpghk3cAAAAJ
       orcid: https://orcid.org/0000-0002-2059-5406
       research: distributed systems, concurrency, type systems, functional programming, eventual consistency, edge computing, serialization, Scala
+      dblp: https://dblp.org/pid/41/10127
     - name: Jan Hoffmann
       homepage: http://www.cs.cmu.edu/~janh
       scholar: https://scholar.google.com/citations?user=0Kvq4bUAAAAJ
       orcid: https://orcid.org/0000-0001-8326-0788
       research: model checking, type systems, static analysis, probabilistic programming, formal methods
+      dblp: https://dblp.org/pid/75/425
     - name: Jonathan Aldrich
       homepage: http://www.cs.cmu.edu/~./aldrich
       scholar: https://scholar.google.com/citations?user=AzHmOtcAAAAJ
       orcid: https://orcid.org/0000-0003-0631-5591
       research: gradual typing, separation logic, static analysis, language design, object-oriented programming, formal methods
+      dblp: https://dblp.org/pid/67/6837
     - name: Robert Harper
       homepage: http://www.cs.cmu.edu/~rwh
       scholar: https://scholar.google.com/citations?user=hbpHGtQAAAAJ
       orcid: https://orcid.org/0000-0002-9400-2941
       research: type theory, proof assistants, compilers, functional programming
+      dblp: https://dblp.org/pid/h/RobertHarper
     - name: Stephanie Balzer
       homepage: https://www.cs.cmu.edu/~balzers
       scholar: https://scholar.google.com/citations?user=xZXNqqYAAAAJ
       orcid: https://orcid.org/0000-0002-8347-3529
       image: /assets/img/profiles/stephanie-balzer.jpg
       research: type systems, separation logic, functional programming, object-oriented programming, concurrency, language-based security
+      dblp: https://dblp.org/pid/21/1018
     - name: Umut A. Acar
       homepage: http://www.umut-acar.org
       scholar: https://scholar.google.com/citations?user=wJ4NywgAAAAJ
       orcid: https://orcid.org/0000-0002-2623-4986
       image: /assets/img/profiles/umut-acar.jpg
       research: formal methods, concurrency, parallel programming, quantum computing, self-adjusting computation, machine learning
+      dblp: https://dblp.org/pid/44/3421
   - name: PL @ Cornell University
     url: http://pl.cs.cornell.edu/
     deadline: December 15th
@@ -1678,7 +1865,7 @@
       homepage: https://alexandrasilva.org/
       scholar: https://scholar.google.com/citations?user=Vgu38TgAAAAJ
       orcid: https://orcid.org/0000-0001-5014-9784
-      dblp: https://dblp.org/pid/242/4919
+      dblp: https://dblp.org/pid/92/1378-1
       research: category theory, automata theory, Kleene algebra, language semantics, formal verification, automata learning
     - name: Andrew C. Myers
       homepage: http://www.cs.cornell.edu/andru
@@ -1699,11 +1886,13 @@
       image: /assets/img/profiles/sorin-lerner.jpg
       research: program verification, security, privacy, HCI, live programming, program synthesis, automated theorem proving, machine learning for proofs, web security
       taking_students: true
+      dblp: https://dblp.org/pid/11/3644
     - name: Justin Hsu
       homepage: https://justinh.su
       scholar: https://scholar.google.com/citations?user=HsfKE0sAAAAJ
       orcid: https://orcid.org/0000-0002-8953-7060
       research: type systems, dependent types, refinement types, formal methods, separation logic, program analysis, language design, functional programming, language-based security, probabilistic programming
+      dblp: https://dblp.org/pid/35/10964
   - name: Georgia Institute of Technology
     url: https://www.cc.gatech.edu/
     deadline: December 15th
@@ -1715,21 +1904,25 @@
       orcid: https://orcid.org/0000-0002-4065-4063
       image: /assets/img/profiles/jacob-laurel.jpg
       research: static analysis, object-oriented programming, probabilistic programming
+      dblp: https://dblp.org/pid/263/1193
     - name: Qirun Zhang
       homepage: http://helloqirun.github.io
       scholar: https://scholar.google.com/citations?user=u0TKjhIAAAAJ
       orcid: https://orcid.org/0000-0001-5367-9377
       research: program analysis, static analysis, compilers, language design
+      dblp: https://dblp.org/pid/18/8523
     - name: Santosh Pande
       homepage: https://www.scs.gatech.edu/people/santosh-pande
       scholar: https://scholar.google.com/citations?user=d6vL_ZkAAAAJ
       orcid: https://orcid.org/0000-0001-6723-8062
       research: compilers, program analysis, static analysis, runtime analysis, hardware security, embedded systems
+      dblp: https://dblp.org/pid/08/6824
     - name: Vivek Sarkar
       homepage: https://vsarkar.cc.gatech.edu
       scholar: https://scholar.google.com/citations?user=XjeIqxYAAAAJ
       orcid: https://orcid.org/0000-0002-3433-8830
       research: compilers, language implementation, parallel programming, HPC, distributed systems
+      dblp: https://dblp.org/pid/s/VivekSarkar
   - name: Harvard University
     url: https://seas.harvard.edu/
     deadline: December 15th
@@ -1740,11 +1933,13 @@
       scholar: https://scholar.google.com/citations?user=9cGEmcgAAAAJ
       orcid: https://orcid.org/0000-0002-0830-7248
       research: program synthesis, metaprogramming, probabilistic programming
+      dblp: https://dblp.org/pid/88/11209
     - name: Stephen Chong
       homepage: http://people.seas.harvard.edu/~chong
       scholar: https://scholar.google.com/citations?user=5bxyMBwAAAAJ
       orcid: https://orcid.org/0000-0002-6734-5383
       research: compilers, language-based security
+      dblp: https://dblp.org/pid/13/2794
   - name: Wonks @ Indiana University
     url: http://wonks.github.io/
     deadline: December 15th
@@ -1756,26 +1951,31 @@
       orcid: https://orcid.org/0000-0002-1025-7331
       image: /assets/img/profiles/amr-sabry.jpg
       research: language semantics, continuations, monadic effects, staged computation, quantum computing, functional programming
+      dblp: https://dblp.org/pid/65/6934
     - name: Carlo Angiuli
       homepage: https://www.carloangiuli.com
       scholar: https://scholar.google.com/citations?user=eM1H0SwAAAAJ
       orcid: https://orcid.org/0000-0002-9590-3303
       research: type theory, dependent types, type systems, proof assistants, functional programming
+      dblp: https://dblp.org/pid/154/2030
     - name: Chung-chieh Shan
       homepage: https://homes.luddy.indiana.edu/ccshan/
       scholar: https://scholar.google.com/citations?user=3L1yQeQAAAAJ
       orcid: https://orcid.org/0000-0002-0339-6405
       research: probabilistic programming, language semantics, language design, logic
+      dblp: https://dblp.org/pid/s/ChungchiehShan
     - name: Jeremy G. Siek
       homepage: http://wphomes.soic.indiana.edu/jsiek
       scholar: https://scholar.google.com/citations?user=Vuso8H8AAAAJ
       orcid: https://orcid.org/0000-0002-9894-4856
       research: dependent types, gradual typing, proof assistants, compilers, domain specific languages, functional programming, metaprogramming, language semantics, language-based security
+      dblp: https://dblp.org/pid/78/6212
     - name: Sam Tobin-Hochstadt
       homepage: http://www.ccs.neu.edu/home/samth
       scholar: https://scholar.google.com/citations?user=vMSSQbAAAAAJ
       orcid: https://orcid.org/0000-0003-1302-6499
       research: gradual typing, type systems, program analysis, language design, functional programming, object-oriented programming, formal methods
+      dblp: https://dblp.org/pid/56/3287
   - name: PL @ Massachusetts Inst. of Technology
     url: http://projects.csail.mit.edu/pl/
     deadline: December 1st
@@ -1786,26 +1986,31 @@
       scholar: https://scholar.google.com/citations?user=Imh0w3AAAAAJ
       orcid: https://orcid.org/0000-0001-7085-9417
       research: dependent types, program verification, automated reasoning, proof assistants, program analysis, compilers, language design, functional programming, concurrency
+      dblp: https://dblp.org/pid/52/796
     - name: Armando Solar-Lezama
       homepage: https://people.csail.mit.edu/asolar
       scholar: https://scholar.google.com/citations?user=8BX3BokAAAAJ
       orcid: https://orcid.org/0000-0001-7604-8252
       research: type systems, model checking, automated reasoning, program analysis, static analysis, program synthesis, compilers
+      dblp: https://dblp.org/pid/95/6919
     - name: Michael Carbin
       homepage: http://people.csail.mit.edu/mcarbin
       scholar: https://scholar.google.com/citations?user=mtejbKYAAAAJ
       orcid: https://orcid.org/0000-0002-6928-0456
       research: program analysis, language design, functional programming, object-oriented programming, probabilistic programming
+      dblp: https://dblp.org/pid/07/3119
     - name: Rachit Nigam
       homepage: https://rachit.pl
       scholar: https://scholar.google.com/citations?user=RNL2GjEAAAAJ
       orcid: https://orcid.org/0000-0003-0983-5867
       research: compilers, domain specific languages
+      dblp: https://dblp.org/pid/200/5362
     - name: Saman P. Amarasinghe
       homepage: http://people.csail.mit.edu/saman
       scholar: https://scholar.google.com/citations?user=cF6i_goAAAAJ
       orcid: https://orcid.org/0000-0002-7231-7643
       research: compilers, language implementation, language design, domain specific languages
+      dblp: https://dblp.org/pid/a/SPAmarasinghe
   - name: ACSys @ New York University
     url: https://cs.nyu.edu/acsys/
     deadline: December 1st
@@ -1816,22 +2021,26 @@
       scholar: https://scholar.google.com/citations?user=zNvgsXAAAAAJ
       orcid: https://orcid.org/0000-0001-5692-3347
       research: formal methods, separation logic, program synthesis, concurrency, distributed systems, probabilistic programming
+      dblp: https://dblp.org/pid/07/11515
     - name: Patrick Cousot
       homepage: http://cs.nyu.edu/~pcousot
       scholar: https://scholar.google.com/citations?user=mhlvI8wAAAAJ
       orcid: https://orcid.org/0000-0003-0101-9953
       image: /assets/img/profiles/patrick-cousot.jpg
       research: program verification, model checking, program analysis, static analysis, compilers
+      dblp: https://dblp.org/pid/c/PCousot
     - name: Sam Westrick
       homepage: https://cs.nyu.edu/~shw8119
       scholar: https://scholar.google.com/citations?user=RVeOcIgAAAAJ
       orcid: https://orcid.org/0000-0003-2848-9808
       research: separation logic, memory management, functional programming, parallel programming
+      dblp: https://dblp.org/pid/203/3288
     - name: Thomas Wies
       homepage: http://cs.nyu.edu/wies
       scholar: https://scholar.google.com/citations?user=IzLlyzsAAAAJ
       orcid: https://orcid.org/0000-0003-4051-5968
       research: type systems, model checking, automated reasoning, interactive theorem provers, separation logic, program analysis, static analysis, language design, functional programming, object-oriented programming, concurrency
+      dblp: https://dblp.org/pid/23/5398
   - name: PRL @ Northeastern University
     url: https://prl.ccs.neu.edu
     deadline: December 15th
@@ -1842,23 +2051,27 @@
       scholar: https://scholar.google.com/citations?user=Y1C007wAAAAJ
       orcid: https://orcid.org/0000-0001-7424-572X
       research: type theory, type systems, dependent types, gradual typing, separation logic, compilers, language design, functional programming, object-oriented programming, concurrency, formal methods, probabilistic programming
+      dblp: https://dblp.org/pid/a/AmalAhmed
     - name: Arjun Guha
       homepage: http://ccs.neu.edu/~arjunguha/main/home
       scholar: https://scholar.google.com/citations?user=yMU0f9EAAAAJ
       orcid: https://orcid.org/0000-0002-7493-3271
       research: program verification, program synthesis, compilers
+      dblp: https://dblp.org/pid/15/2016
     - name: Chris Martens
       homepage: https://www.convivial.tools/
       scholar: https://scholar.google.com/citations?user=0sbHKBIAAAAJ
       orcid: https://orcid.org/0000-0002-7026-0348
       image: /assets/img/profiles/chris-martens.jpg
       research: proof assistants, type systems, language design, logic programming
+      dblp: https://dblp.org/pid/136/8382
     - name: Frank Tip
       homepage: http://www.franktip.org
       scholar: https://scholar.google.com/citations?user=siQDY4gAAAAJ
       orcid: https://orcid.org/0000-0002-1862-3498
       image: /assets/img/profiles/frank-tip.jpg
       research: program analysis, static analysis, compilers
+      dblp: https://dblp.org/pid/32/524
     - name: Jan Vitek
       homepage: https://www.khoury.northeastern.edu/people/jan-vitek
       scholar: https://scholar.google.com/citations?user=Ws0GjboAAAAJ
@@ -1894,11 +2107,13 @@
       scholar: https://scholar.google.com/citations?user=mFs4fikAAAAJ
       orcid: https://orcid.org/0000-0002-9338-7034
       research: contracts, gradual typing, language-based security, functional programming, language semantics, program analysis
+      dblp: https://dblp.org/pid/03/2293
     - name: Robert Bruce Findler
       homepage: https://www.eecs.northwestern.edu/~robby
       scholar: https://scholar.google.com/citations?user=eBqftc8AAAAJ
       orcid: https://orcid.org/0000-0002-4245-2000
       research: formal methods
+      dblp: https://dblp.org/pid/f/RBFindler
   - name: Ohio State University
     deadline:
     - 'Fall: December 15th'
@@ -1911,6 +2126,7 @@
       orcid: https://orcid.org/0000-0002-8971-4944
       image: /assets/img/profiles/micheal-bond.jpg
       research: concurrency, memory models, garbage collection, program analysis, runtime systems, security, information flow control
+      dblp: https://dblp.org/pid/36/2453
   - name: PL @ Princeton University
     url: http://pl.cs.princeton.edu/
     deadline: December 15th
@@ -1921,16 +2137,19 @@
       scholar: https://scholar.google.com/citations?user=UEI2g60AAAAJ
       orcid: https://orcid.org/0000-0003-3681-149X
       research: language design, functional programming, language-based security
+      dblp: https://dblp.org/pid/53/5714-1
     - name: Mae Milano
       homepage: https://www.cs.princeton.edu/~mpmilano
       scholar: https://scholar.google.com/citations?user=1XP8XcAAAAAJ
       orcid: https://orcid.org/0000-0003-3126-7771
       research: compilers, language design, functional programming, concurrency, distributed systems
+      dblp: https://dblp.org/pid/321/0647
     - name: Zachary Kincaid
       homepage: http://www.cs.princeton.edu/~zkincaid
       scholar: https://scholar.google.com/citations?user=uT9We9MAAAAJ
       orcid: https://orcid.org/0000-0002-7294-9165
       research: model checking, automated reasoning, program analysis, object-oriented programming, concurrency
+      dblp: https://dblp.org/pid/61/6578
   - name: PurPL @ Purdue University
     url: https://purpl.cs.purdue.edu/
     deadline: December 1st
@@ -1941,22 +2160,26 @@
       scholar: https://scholar.google.com/citations?user=VS21MfgAAAAJ
       research: proof assistants, type systems, automated reasoning, program synthesis, Rocq
       orcid: https://orcid.org/0000-0002-1016-6261
+      dblp: https://dblp.org/pid/08/3478
     - name: Milind Kulkarni
       homepage: https://engineering.purdue.edu/~milind
       scholar: https://scholar.google.com/citations?user=o3wWRZMAAAAJ
       orcid: https://orcid.org/0000-0001-6827-345X
       research: compilers, object-oriented programming
+      dblp: https://dblp.org/pid/47/1003
     - name: Suresh Jagannathan
       homepage: https://www.cs.purdue.edu/homes/suresh
       scholar: https://scholar.google.com/citations?user=bqkhX54AAAAJ
       orcid: https://orcid.org/0000-0001-6871-2424
       image: /assets/img/profiles/suresh-jagannathan.jpg
       research: type systems, program verification, language design, functional programming, object-oriented programming
+      dblp: https://dblp.org/pid/j/SJagannathan
     - name: Tiark Rompf
       homepage: http://tiarkrompf.github.io
       scholar: https://scholar.google.com/citations?user=L8zhVsMAAAAJ
       orcid: https://orcid.org/0000-0002-2068-3238
       research: proof assistants, program analysis, compilers, metaprogramming
+      dblp: https://dblp.org/pid/19/7373
   - name: Rice University
     deadline: January 1st (Check link there's more)
     deadline_url: https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application
@@ -1967,6 +2190,7 @@
       orcid: https://orcid.org/0000-0003-1209-7738
       image: /assets/img/profiles/konstantinos-mamouras.jpg
       research: stream processing, runtime verification, program semantics, Kleene algebra, logics for verification
+      dblp: https://dblp.org/pid/48/6846
   - name: Rutgers University
     professors:
     - name: He Zhu
@@ -1974,11 +2198,13 @@
       scholar: https://scholar.google.com/citations?user=3X9GC2gAAAAJ
       orcid: https://orcid.org/0000-0001-9606-150X
       research: refinement types, model checking, static analysis, program synthesis, compilers, language design, functional programming
+      dblp: https://dblp.org/pid/59/2802-1
     - name: Santosh Nagarakatte
       homepage: https://www.cs.rutgers.edu/~santosh.nagarakatte
       scholar: https://scholar.google.com/citations?user=J7H4N_4AAAAJ
       orcid: https://orcid.org/0000-0002-5048-8548
       research: formal methods, program analysis, static analysis, compilers, memory management, language design, object-oriented programming, parallel programming, concurrency
+      dblp: https://dblp.org/pid/57/1735
   - name: Stanford University
     url: https://www.cs.stanford.edu/
     deadline: December 2nd
@@ -1989,11 +2215,13 @@
       scholar: https://scholar.google.com/citations?user=3vKjkoQAAAAJ
       orcid: https://orcid.org/0000-0002-3723-9555
       research: compilers, language design
+      dblp: https://dblp.org/pid/a/AAiken
     - name: Fredrik Kjolstad
       homepage: https://fredrikbk.com
       scholar: https://scholar.google.com/citations?user=bCCxZ28AAAAJ
       orcid: https://orcid.org/0000-0002-2267-903X
       research: compilers, language implementation, language design, parallel programming, concurrency
+      dblp: https://dblp.org/pid/60/9656
   - name: Stevens Institute of Technology
     professors:
     - name: Eric Koskinen
@@ -2001,11 +2229,13 @@
       scholar: https://scholar.google.com/citations?user=XUhd_LwAAAAJ
       research: formal methods, concurrency, program verification, distributed systems
       orcid: https://orcid.org/0000-0001-7363-634X
+      dblp: https://dblp.org/pid/38/5902
     - name: Michael Greenberg
       homepage: https://mgree.github.io
       scholar: https://scholar.google.com/citations?user=_LSrWlwAAAAJ
       orcid: https://orcid.org/0000-0003-0014-7670
       research: gradual typing, static analysis, compilers, functional programming, formal methods
+      dblp: https://dblp.org/pid/06/4387
   - name: TUPL @ Tufts University
     url: https://tupl.cs.tufts.edu/
     professors:
@@ -2014,11 +2244,13 @@
       scholar: https://scholar.google.com/citations?user=b_6L2goAAAAJ
       research: type systems, program analysis, program verification, compilers, metaprogramming
       orcid: https://orcid.org/0000-0002-3150-2033
+      dblp: https://dblp.org/pid/154/3899-1
     - name: Jeffrey S. Foster
       homepage: https://www.cs.tufts.edu/~jfoster/
       scholar: https://scholar.google.com/citations?user=QWPwfsgAAAAJ
       orcid: https://orcid.org/0000-0001-8043-1166
       research: program analysis, static analysis, program synthesis, compilers, language-based security, formal methods
+      dblp: https://dblp.org/pid/18/2050
   - name: Univ. of California - Berkeley
     url: https://eecs.berkeley.edu/
     deadline: December 1st
@@ -2029,11 +2261,13 @@
       scholar: https://scholar.google.com/citations?user=zko9-RwAAAAJ
       orcid: https://orcid.org/0000-0001-8066-4218
       research: e-graphs, automated reasoning, program analysis, compilers, logic programming
+      dblp: https://dblp.org/pid/194/2846
     - name: Sarah E. Chasins
       homepage: https://schasins.com
       scholar: https://scholar.google.com/citations?user=-5Em-tcAAAAJ
       orcid: https://orcid.org/0000-0003-0557-3580
       research: program synthesis, compilers
+      dblp: https://dblp.org/pid/76/10322
   - name: Univ. of California - Davis
     professors:
     - name: Caleb Stanford
@@ -2052,16 +2286,19 @@
       scholar: https://scholar.google.com/citations?user=DS6rCasAAAAJ
       orcid: https://orcid.org/0000-0003-4737-2146
       research: static analysis, compilers, object-oriented programming, distributed systems, formal methods
+      dblp: https://dblp.org/pid/90/8705
     - name: Jens Palsberg
       homepage: http://www.cs.ucla.edu/~palsberg
       scholar: https://scholar.google.com/citations?user=Gx8Rpr4AAAAJ
       orcid: https://orcid.org/0000-0003-4747-365X
       research: compilers, language design, quantum computing, quantum programming
+      dblp: https://dblp.org/pid/p/JPalsberg
     - name: Konstantinos Kallas
       homepage: https://angelhof.github.io
       scholar: https://scholar.google.com/citations?user=VD4P3FoAAAAJ
       orcid: https://orcid.org/0000-0002-8984-6648
       research: static analysis, compilers, distributed systems
+      dblp: https://dblp.org/pid/238/2969
     - name: Todd D. Millstein
       homepage: http://www.cs.ucla.edu/~todd
       scholar: https://scholar.google.com/citations?user=u_tOExoAAAAJ
@@ -2100,27 +2337,32 @@
       scholar: https://scholar.google.com/citations?user=qTVj7nwAAAAJ
       orcid: https://orcid.org/0000-0002-7041-7464
       research: refinement types, program analysis, compilers, language implementation, language design, functional programming, language-based security, memory management
+      dblp: https://dblp.org/pid/91/6118
     - name: Loris D'Antoni
       homepage: https://cseweb.ucsd.edu/~ldantoni
       scholar: https://scholar.google.com/citations?user=ao8EeJ8AAAAJ
       orcid: https://orcid.org/0000-0001-9625-4037
       research: static analysis, program synthesis, compilers, language-based security, formal methods
+      dblp: https://dblp.org/pid/85/770
     - name: Michael J. Coblenz
       homepage: https://cseweb.ucsd.edu/~mcoblenz
       scholar: https://scholar.google.com/citations?user=sKuY6fIAAAAJ
       orcid: https://orcid.org/0000-0002-9369-4069
       research: type systems, formal methods, static analysis, memory management, language design, functional programming, property-based testing
+      dblp: https://dblp.org/pid/74/3855
     - name: Nadia Polikarpova
       homepage: https://cseweb.ucsd.edu/~npolikarpova
       scholar: https://scholar.google.com/citations?user=CxzUX0EAAAAJ
       orcid: https://orcid.org/0000-0001-5571-173X
       research: refinement types, separation logic, program analysis, program synthesis, compilers, functional programming, object-oriented programming, language-based security, formal methods
+      dblp: https://dblp.org/pid/13/7489
     - name: Ranjit Jhala
       homepage: https://ranjitjhala.github.io
       scholar: https://scholar.google.com/citations?user=H3wb878AAAAJ
       orcid: https://orcid.org/0000-0002-1802-9421
       image: /assets/img/profiles/ranjit-jhala.jpg
       research: refinement types, model checking, program analysis, compilers
+      dblp: https://dblp.org/pid/47/4244
   - name: Univ. of California - Santa Barbara
     url: https://cs.ucsb.edu/
     deadline: December 15th
@@ -2131,11 +2373,13 @@
       orcid: https://orcid.org/0009-0008-1199-6129
       image: /assets/img/profiles/ben-hardekopf.jpg
       research: program analysis, static analysis, formal verification, security, hardware design, CS education, language design
+      dblp: https://dblp.org/pid/89/4824
     - name: Yu Feng
       homepage: http://fredfeng.github.io
       scholar: https://scholar.google.com/citations?user=urQ9fNgAAAAJ
       orcid: https://orcid.org/0000-0003-1000-1229
       research: program synthesis, type theory, constraint solving, formal verification, zero-knowledge proofs, compilers, smart contracts, security, program analysis
+      dblp: https://dblp.org/pid/30/4550-1
   - name: Univ. of California - Santa Cruz
     url: https://lsd.ucsc.edu/
     deadline: January 5
@@ -2147,11 +2391,13 @@
       orcid: https://orcid.org/0009-0009-5067-6774
       research: refinement types, gradual typing, model checking, program analysis, language design, concurrency, language-based
         security, formal methods
+      dblp: https://dblp.org/pid/f/CormacFlanagan
     - name: Lindsey Kuper
       homepage: https://users.soe.ucsc.edu/~lkuper
       scholar: https://scholar.google.com/citations?user=TNqlmxEAAAAJ
       orcid: https://orcid.org/0000-0002-1374-7715
       research: distributed systems, choreographic programming, refinement types, dependent types, concurrency, causal consistency, formal verification, functional programming, Rust
+      dblp: https://dblp.org/pid/139/2539
     - name: Mohsen Lesani
       homepage: https://mohsenlesani.github.io
       scholar: https://scholar.google.com/citations?user=cVLicJYAAAAJ
@@ -2159,11 +2405,13 @@
       image: /assets/img/profiles/mohsen-lesani.jpg
       research: distributed systems, program synthesis, formal verification, domain-specific languages, type systems, concurrency, memory models, RDMA, smart contracts, program analysis
       taking_students: true
+      dblp: https://dblp.org/pid/82/2603
     - name: Tyler Sorensen
       homepage: https://users.soe.ucsc.edu/~tsorensen
       scholar: https://scholar.google.com/citations?user=Ax7ebzoAAAAJ
       orcid: https://orcid.org/0000-0003-1646-7935
       research: heterogeneous architectures, memory models, operational semantics, axiomatic semantics, empirical testing, model checking, auto-tuning, domain-specific languages
+      dblp: https://dblp.org/pid/44/9607-1
   - name: Univ. of Illinois at Urbana-Champaign
     url: https://siebelschool.illinois.edu/
     deadline: December 15th
@@ -2174,45 +2422,53 @@
       scholar: https://scholar.google.com/citations?user=utZ3JYUAAAAJ
       orcid: https://orcid.org/0000-0002-8140-2321
       research: compilers, language semantics, compiler verification, ML compilers
+      dblp: https://dblp.org/pid/163/3175
     - name: Gagandeep Singh
       homepage: https://ggndpsngh.github.io
       scholar: https://scholar.google.com/citations?user=m4b2ruEAAAAJ
       orcid: https://orcid.org/0000-0002-9299-2961
       research: formal methods, trustworthy AI, program synthesis, software verification
+      dblp: https://dblp.org/pid/64/3747-1
     - name: Grigore Rosu
       homepage: https://fsl.cs.illinois.edu/people/grigore-rosu
       scholar: https://scholar.google.com/citations?user=yxpqbdQAAAAJ
       orcid: https://orcid.org/0000-0002-3102-0421
       research: static analysis, language design
+      dblp: https://dblp.org/pid/r/GrigoreRosu
     - name: Mahesh Viswanathan
       homepage: http://vmahesh.cs.illinois.edu
       scholar: https://scholar.google.com/citations?user=nztNRM0AAAAJ
       orcid: https://orcid.org/0000-0001-7977-0080
       image: /assets/img/profiles/mahesh-viswanathan.jpg
       research: algorithms, automata theory, logic, software verification
+      dblp: https://dblp.org/pid/23/2759-1
     - name: P. Madhusudan
       homepage: http://madhu.cs.illinois.edu
       scholar: https://scholar.google.com/citations?user=V828uG8AAAAJ
       orcid: https://orcid.org/0000-0002-9782-721X
       research: software verification, trustworthy AI, program synthesis, logic
       taking_students: true
+      dblp: https://dblp.org/pid/m/PMadhusudan
     - name: Sasa Misailovic
       homepage: https://misailo.cs.illinois.edu/
       scholar: https://scholar.google.com/citations?user=3qJQjIYAAAAJ
       orcid: https://orcid.org/0000-0001-7319-8845
       research: probabilistic programming, compilers, trustworthy AI, program synthesis
+      dblp: https://dblp.org/pid/00/4734
     - name: Talia Ringer
       homepage: https://dependenttyp.es
       scholar: https://scholar.google.com/citations?user=JCJzlXsAAAAJ
       orcid: https://orcid.org/0000-0003-1854-3321
       research: type theory, formal methods, automated reasoning, proof assistants, compilers, interactive theorem provers,
         dependent types, Rocq
+      dblp: https://dblp.org/pid/187/8968
     - name: William S. Moses
       homepage: https://wsmoses.com
       scholar: https://scholar.google.com/citations?user=tPC00zwAAAAJ
       orcid: https://orcid.org/0000-0003-2627-0642
       research: compilers, scientific computing, parallel programming, HPC
       taking_students: true
+      dblp: https://dblp.org/pid/183/6515
   - name: PLUM @ Univ. of Maryland - College Park
     url: https://plum-umd.github.io/
     deadline: December 5th
@@ -2224,17 +2480,20 @@
       orcid: https://orcid.org/0000-0002-9201-6864
       image: /assets/img/profiles/david-van-horn.jpg
       research: gradual typing, automated reasoning, program analysis, static analysis, program synthesis, Racket
+      dblp: https://dblp.org/pid/77/2466
     - name: Leonidas Lampropoulos
       homepage: https://lemonidas.github.io
       scholar: https://scholar.google.com/citations?user=JNUvp5kAAAAJ
       orcid: https://orcid.org/0000-0003-0269-9815
       research: property-based testing, functional programming, type systems, type theory
+      dblp: https://dblp.org/pid/120/7696
     - name: Milijana Surbatovich
       homepage: https://msurbatovich.github.io/
       scholar: https://scholar.google.com/citations?user=fv2u3RcAAAAJ
       orcid: https://orcid.org/0009-0004-6948-6683
       image: /assets/img/profiles/milijana-surbatovich.jpg
       research: formal methods, systems
+      dblp: https://dblp.org/pid/198/3332
   - name: University at Buffalo
     url: https://engineering.buffalo.edu/computer-science-engineering.html
     deadline:
@@ -2249,16 +2508,19 @@
       scholar: https://scholar.google.com/citations?user=VMu58x0AAAAJ
       orcid: https://orcid.org/0000-0003-2518-614X
       research: language design, language implementation, choreographic programming
+      dblp: https://dblp.org/pid/122/2921
     - name: Harrison Goldstein
       homepage: https://harrisongoldste.in/
       scholar: https://scholar.google.com/citations?user=CYSX6tgAAAAJ
       orcid: https://orcid.org/0000-0001-9631-1169
       research: metaprogramming, property-based testing, probabilistic programming
+      dblp: https://dblp.org/pid/206/6294
     - name: Lukasz Ziarek
       homepage: https://cse.buffalo.edu/~lziarek
       scholar: https://scholar.google.com/citations?user=hKkEZ7oAAAAJ
       research: language design, compilers, runtime systems, concurrency, software engineering
       orcid: https://orcid.org/0000-0003-4353-1998
+      dblp: https://dblp.org/pid/54/645
     - name: Qianchuan Ye
       homepage: https://cse.buffalo.edu/~qcye
       scholar: https://scholar.google.com/citations?user=IZisiCwAAAAJ
@@ -2293,6 +2555,7 @@
       scholar: https://scholar.google.com/citations?user=5qSIhVkAAAAJ
       orcid: https://orcid.org/0000-0002-0757-4600
       research: program analysis, software verification, systems
+      dblp: https://dblp.org/pid/31/5916-1
   - name: CUPLV @ University of Colorado Boulder
     url: https://plv.colorado.edu/
     deadline: December 15th
@@ -2302,12 +2565,14 @@
       scholar: https://scholar.google.com/citations?user=wg3lXyYAAAAJ
       orcid: https://orcid.org/0000-0002-1954-0774
       research: automated reasoning, static analysis, program verification, software engineering
+      dblp: https://dblp.org/pid/68/6029
     - name: Gowtham Kaki
       homepage: https://gowthamk.github.io
       scholar: https://scholar.google.com/citations?user=d3JzmN4AAAAJ
       orcid: https://orcid.org/0000-0002-4189-3189
       research: dependent types, program synthesis, language design, domain specific languages, functional programming, concurrency,
         distributed systems
+      dblp: https://dblp.org/pid/154/2269
   - name: University of Connecticut
     deadline: January 1st
     professors:
@@ -2316,6 +2581,7 @@
       scholar: https://scholar.google.com/citations?user=vM6V_aMAAAAJ
       orcid: https://orcid.org/0000-0002-3210-9727
       research: language design, type systems, static resource analysis, parallel programming
+      dblp: https://dblp.org/pid/162/0450
   - name: CLC @ University of Iowa
     url: https://clc.cs.uiowa.edu/site/
     deadline: January 1st
@@ -2325,6 +2591,7 @@
       scholar: https://scholar.google.com/citations?user=PZIdxNgAAAAJ
       orcid: https://orcid.org/0000-0002-3992-1080
       research: type systems, substructural types, qualified types, concurrency, records and variants
+      dblp: https://dblp.org/pid/28/8610
   - name: University of Massachusetts Lowell
     url: https://cs.uml.edu
     professors:
@@ -2333,11 +2600,13 @@
       scholar: https://scholar.google.com/citations?user=nq6IfV4AAAAJ
       orcid: https://orcid.org/0000-0003-0162-9997
       research: formal methods, type systems, gradual typing, interactive theorem provers, concurrency
+      dblp: https://dblp.org/pid/29/7866
     - name: Paul Downen
       homepage: https://pauldownen.com
       scholar: https://scholar.google.com/citations?user=mJ_eET8AAAAJ
       orcid: https://orcid.org/0000-0003-0165-9387
       research: language semantics, language design, language implementation
+      dblp: https://dblp.org/pid/90/11109
   - name: MPLSE @ University of Michigan
     url: http://mplse.org/
     deadline: December 15th
@@ -2347,16 +2616,19 @@
       scholar: https://scholar.google.com/citations?user=yiRAVJoAAAAJ
       orcid: https://orcid.org/0000-0003-4502-7971
       research: proof assistants, live programming, functional programming, HCI
+      dblp: https://dblp.org/pid/21/4362
     - name: Max S. New
       homepage: http://maxsnew.com
       scholar: https://scholar.google.com/citations?user=Mvl9hhEAAAAJ
       orcid: https://orcid.org/0000-0001-8141-195X
       research: language semantics, gradual typing, interoperability, category theory, compiler intermediate languages
+      dblp: https://dblp.org/pid/173/9463
     - name: Xinyu Wang
       homepage: https://web.eecs.umich.edu/~xwangsd
       scholar: https://scholar.google.com/citations?user=mvasb5AAAAAJ
       orcid: https://orcid.org/0000-0002-1836-0202
       research: program synthesis, query optimization, databases, web automation, formal methods
+      dblp: https://dblp.org/pid/68/1277-6
   - name: PLClub @ University of Pennsylvania
     url: http://www.cis.upenn.edu/~plclub/
     deadline: Decmeber 15th
@@ -2367,27 +2639,32 @@
       orcid: https://orcid.org/0000-0001-7839-1636
       image: /assets/img/profiles/benjamin-pierce.jpg
       research: type systems, type theory, property-based testing, interactive theorem provers
+      dblp: https://dblp.org/pid/p/BenjaminCPierce
     - name: Mayur Naik
       homepage: http://www.cis.upenn.edu/~mhnaik
       scholar: https://scholar.google.com/citations?user=fmsV6nEAAAAJ
       orcid: https://orcid.org/0000-0003-1348-8618
       research: program verification, program analysis, program synthesis, language design
+      dblp: https://dblp.org/pid/92/6794
     - name: Michael Hicks
       homepage: https://mhicks.me
       scholar: https://scholar.google.com/citations?user=Gggzp7UAAAAJ
       orcid: https://orcid.org/0000-0002-2759-9223
       research: security, fuzzing, property-based testing, domain-specific languages, quantum computing, compiler verification, Rust, information flow, type systems
       taking_students: true
+      dblp: https://dblp.org/pid/h/MichaelWHicks
     - name: Stephanie Weirich
       homepage: https://www.cis.upenn.edu/~sweirich
       scholar: https://scholar.google.com/citations?user=-vC_l2kAAAAJ
       orcid: https://orcid.org/0000-0002-6756-9168
       research: type systems, dependent types
+      dblp: https://dblp.org/pid/w/StephanieWeirich
     - name: Steve Zdancewic
       homepage: http://www.cis.upenn.edu/~stevez
       scholar: https://scholar.google.com/citations?user=19kNRU0AAAAJ
       orcid: https://orcid.org/0000-0002-3516-1512
       research: linear types, automated reasoning, program synthesis, compilers, functional programming, type theory
+      dblp: https://dblp.org/pid/99/3437
   - name: University of Southern California
     url: https://www.cs.usc.edu
     deadline: December 15th
@@ -2398,6 +2675,7 @@
       orcid: https://orcid.org/0000-0003-2879-0932
       image: /assets/img/profiles/mukund-raghothaman.jpg
       research: automated reasoning, program analysis, static analysis, program synthesis, domain specific languages
+      dblp: https://dblp.org/pid/03/10548
   - name: University of Texas at Austin
     url: https://www.cs.utexas.edu/
     deadline: December 15th
@@ -2407,6 +2685,7 @@
       scholar: https://scholar.google.com/citations?user=Wlq5rZEAAAAJ
       orcid: https://orcid.org/0000-0001-8006-1230
       research: type systems, automated reasoning, program synthesis, domain specific languages
+      dblp: https://dblp.org/pid/85/3688
   - name: CPU @ University of Utah
     url: http://cpu.cs.utah.edu/
     deadline: December 15th
@@ -2416,21 +2695,25 @@
       scholar: https://scholar.google.com/citations?user=3A9hNTEAAAAJ
       orcid: https://orcid.org/0000-0001-7078-9287
       research: gradual typing, language design, formal methods, HCI
+      dblp: https://dblp.org/pid/145/1014
     - name: John Regehr
       homepage: http://www.cs.utah.edu/~regehr
       scholar: https://scholar.google.com/citations?user=yCv02hMAAAAJ
       research: compiler optimization, software testing, formal verification, LLVM, random testing
       orcid: https://orcid.org/0000-0001-7025-4610
+      dblp: https://dblp.org/pid/r/JohnRegehr
     - name: Matthew Flatt
       homepage: http://www.cs.utah.edu/~mflatt
       scholar: https://scholar.google.com/citations?user=9sMIvdgAAAAJ
       orcid: https://orcid.org/0000-0001-8994-2552
       research: Racket, macro systems, language extensibility, module systems, language runtimes
+      dblp: https://dblp.org/pid/f/MatthewFlatt
     - name: Pavel Panchekha
       homepage: https://pavpanchekha.com
       scholar: https://scholar.google.com/citations?user=dIOCe1UAAAAJ
       orcid: https://orcid.org/0000-0003-2621-3592
       research: memory management
+      dblp: https://dblp.org/pid/132/1798
   - name: PLSE @ University of Washington
     url: http://uwplse.org
     deadline: December 15th
@@ -2441,11 +2724,13 @@
       orcid: https://orcid.org/0009-0005-2111-1900
       image: /assets/img/profiles/dan-grossman.jpg
       research: program analysis, program synthesis, compilers
+      dblp: https://dblp.org/pid/g/DanGrossman
     - name: Zachary Tatlock
       homepage: https://homes.cs.washington.edu/~ztatlock
       scholar: https://scholar.google.com/citations?user=jz2Tvk4AAAAJ
       orcid: https://orcid.org/0000-0002-4731-0124
       research: formal methods, compilers
+      dblp: https://dblp.org/pid/24/2888
   - name: madPL @ University of Wisconsin - Madison
     url: https://madpl.cs.wisc.edu
     deadline: December 15th
@@ -2455,16 +2740,19 @@
       scholar: https://scholar.google.com/citations?user=Yw5Q_CgAAAAJ
       orcid: https://orcid.org/0000-0002-6311-1467
       research: program verification, program synthesis
+      dblp: https://dblp.org/pid/234/8538
     - name: Aws Albarghouthi
       homepage: http://pages.cs.wisc.edu/~aws
       scholar: https://scholar.google.com/citations?user=CUbC2zYAAAAJ
       orcid: https://orcid.org/0000-0003-4577-175X
       research: program synthesis, compilers, program verification, quantum computing
+      dblp: https://dblp.org/pid/90/8295
     - name: Charles Yuan
       homepage: https://pages.cs.wisc.edu/~charlesyuan
       scholar: https://scholar.google.com/citations?user=8eveKksAAAAJ
       orcid: https://orcid.org/0000-0002-4918-4467
       research: quantum computing, quantum programming
+      dblp: https://dblp.org/pid/303/1102
     - name: Ethan Cecchetti
       homepage: https://cecchetti.sites.cs.wisc.edu
       scholar: https://scholar.google.com/citations?user=GoanxxoAAAAJ
@@ -2497,3 +2785,4 @@
       scholar: https://scholar.google.com/citations?user=9OukeycAAAAJ
       orcid: https://orcid.org/0000-0001-8184-7649
       research: program verification, compilers, language design, concurrency, language-based security, formal methods
+      dblp: https://dblp.org/pid/399/0945-1
