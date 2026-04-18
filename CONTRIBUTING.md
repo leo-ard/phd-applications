@@ -80,6 +80,17 @@ placeholder[^1].
 
 ## Regenerating the README
 
+First, install python dependencies:
+
+```
+# Create a virtual environment (optional but recommended)
+python3 -m venv .venv
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
 After editing the YAML, you can manually regenerate the README:
 
 ```
