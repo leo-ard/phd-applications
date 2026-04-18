@@ -102,7 +102,7 @@ Or just push and let the workflow do it.
 ## Previewing the site locally
 
 ```
-nix-shell -p jekyll --run "jekyll serve --port 4000"
+jekyll --run "jekyll serve --port 4000"
 ```
 
 Then open http://localhost:4000/phd-applications/.
